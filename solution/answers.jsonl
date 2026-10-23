@@ -1,0 +1,2000 @@
+{"doc_id": "te_00001", "decision": "reject"}
+{"doc_id": "te_00002", "decision": "reject"}
+{"doc_id": "te_00003", "decision": "reject"}
+{"doc_id": "te_00004", "decision": "reject"}
+{"doc_id": "te_00005", "decision": "reject"}
+{"doc_id": "te_00006", "decision": "reject"}
+{"doc_id": "te_00007", "decision": "reject"}
+{"doc_id": "te_00008", "decision": "reject"}
+{"doc_id": "te_00009", "decision": "reject"}
+{"doc_id": "te_00010", "decision": "accept", "fields": {"Last_name_ru": "ХОДАН", "First_name_ru": "ШАГИШАРИФ", "Middle_name_ru": "ЛАЧЫНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "06.06.2010", "Birth_place_ru": "ХАБАРОВСК ХАБАРОВСКИЙ КР.", "Issue_date": "15.01.2025", "Issue_organisation_code": "140-027", "Licence_number": "98 23 131054", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ САХА (ЯКУТИЯ) В УСТЬ-ЯНСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00011", "decision": "reject"}
+{"doc_id": "te_00012", "decision": "accept", "fields": {"Last_name_ru": "ШЭПТЕЛИЧ", "First_name_ru": "ЛЕМБИ-МАРИЯ", "Middle_name_ru": "АПТИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "18.12.1982", "Birth_place_ru": "ПОСЕЛОК МИРНЫЙ ГОРДЕЕВСКИЙ Р-Н БРЯНСКАЯ ОБЛ.", "Issue_date": "24.12.2002", "Issue_organisation_code": "592-003", "Licence_number": "57 02 401216", "Issue_organization_ru": "ОВД КИРОВСКОГО Р-НА Г. ПЕРМИ"}}
+{"doc_id": "te_00013", "decision": "reject"}
+{"doc_id": "te_00014", "decision": "reject"}
+{"doc_id": "te_00015", "decision": "reject"}
+{"doc_id": "te_00016", "decision": "reject"}
+{"doc_id": "te_00017", "decision": "reject"}
+{"doc_id": "te_00018", "decision": "accept", "fields": {"Last_name_ru": "ЦЫПКОВ", "First_name_ru": "АЙСЫУАК", "Middle_name_ru": "ЗАЙХУНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "17.12.1991", "Birth_place_ru": "СЕЛО КАРАКОКША ЧОЙСКОГО Р-НА АЛТАЙ", "Issue_date": "18.02.2012", "Issue_organisation_code": "240-011", "Licence_number": "04 10 335847", "Issue_organization_ru": "ТП УФМС РОССИИ ПО КРАСНОЯРСКОМУ КРАЮ В Г. КАНСК-4"}}
+{"doc_id": "te_00019", "decision": "reject"}
+{"doc_id": "te_00020", "decision": "reject"}
+{"doc_id": "te_00021", "decision": "accept", "fields": {"Last_name_ru": "АБУ-ШАХИНА", "First_name_ru": "СОЛТАНИ", "Middle_name_ru": "РАЗИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "04.07.1980", "Birth_place_ru": "ПОС. ЕРМАКОВСКИЙ КОЧКОВСКОГО РАЙОНА НОВОСИБИРСКОЙ ОБЛАСТИ", "Issue_date": "01.10.2025", "Issue_organisation_code": "250-041", "Licence_number": "05 25 392233", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ПРИМОРСКОМУ КРАЮ"}}
+{"doc_id": "te_00022", "decision": "accept", "fields": {"Last_name_ru": "ГЛУШЕНОК", "First_name_ru": "КАЗИМЕЖ", "Middle_name_ru": "АБДРАУФОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "01.12.1994", "Birth_place_ru": "С.УСТЬ-КОКСА РЕСПУБЛИКИ АЛТАЙ", "Issue_date": "16.06.2015", "Issue_organisation_code": "740-027", "Licence_number": "75 14 304216", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ЧЕЛЯБИНСКОЙ ОБЛАСТИ В ОРДЖОНИКИДЗЕВСКОМ РАЙОНЕ Г. МАГНИТОГОРСКА"}}
+{"doc_id": "te_00023", "decision": "reject"}
+{"doc_id": "te_00024", "decision": "reject"}
+{"doc_id": "te_00025", "decision": "reject"}
+{"doc_id": "te_00026", "decision": "reject"}
+{"doc_id": "te_00027", "decision": "reject"}
+{"doc_id": "te_00028", "decision": "reject"}
+{"doc_id": "te_00029", "decision": "reject"}
+{"doc_id": "te_00030", "decision": "reject"}
+{"doc_id": "te_00031", "decision": "reject"}
+{"doc_id": "te_00032", "decision": "accept", "fields": {"Last_name_ru": "СБРУЕВА", "First_name_ru": "ГУЛНОЗА", "Middle_name_ru": "СИРАЗИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "27.12.1960", "Birth_place_ru": "ГОР.СОЧИ КРАСНОДАРСКОГО КР.", "Issue_date": "26.02.2006", "Issue_organisation_code": "260-029", "Licence_number": "07 06 520618", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО СТАВРОПОЛЬСКОМУ КРАЮ В СОВЕТСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00033", "decision": "reject"}
+{"doc_id": "te_00034", "decision": "reject"}
+{"doc_id": "te_00035", "decision": "reject"}
+{"doc_id": "te_00036", "decision": "reject"}
+{"doc_id": "te_00037", "decision": "reject"}
+{"doc_id": "te_00038", "decision": "reject"}
+{"doc_id": "te_00039", "decision": "reject"}
+{"doc_id": "te_00040", "decision": "reject"}
+{"doc_id": "te_00041", "decision": "reject"}
+{"doc_id": "te_00042", "decision": "reject"}
+{"doc_id": "te_00043", "decision": "reject"}
+{"doc_id": "te_00044", "decision": "accept", "fields": {"Last_name_ru": "БАЛЕТИНСКИХ", "First_name_ru": "КАИРБЕК", "Middle_name_ru": "КАССИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "13.03.1969", "Birth_place_ru": "П.ЗОЛОТАЯ КОСА НЕКЛИНОВСКИЙ Р-Н РОСТОВСКАЯ ОБЛ.", "Issue_date": "15.03.2014", "Issue_organisation_code": "770-052", "Licence_number": "45 12 195034", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ГОР. МОСКВЕ ПО РАЙОНУ КОСИНО-УХТОМСКИЙ"}}
+{"doc_id": "te_00045", "decision": "reject"}
+{"doc_id": "te_00046", "decision": "reject"}
+{"doc_id": "te_00047", "decision": "reject"}
+{"doc_id": "te_00048", "decision": "reject"}
+{"doc_id": "te_00049", "decision": "reject"}
+{"doc_id": "te_00050", "decision": "reject"}
+{"doc_id": "te_00051", "decision": "reject"}
+{"doc_id": "te_00052", "decision": "reject"}
+{"doc_id": "te_00053", "decision": "reject"}
+{"doc_id": "te_00054", "decision": "reject"}
+{"doc_id": "te_00055", "decision": "reject"}
+{"doc_id": "te_00056", "decision": "accept", "fields": {"Last_name_ru": "КОБЕРИДЗЕ", "First_name_ru": "ПЛАМЕН", "Middle_name_ru": "ЛЕВАНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "24.07.1985", "Birth_place_ru": "СТАН. ПЕТРОВСКАЯ СЛАВЯНСКИЙ Р-Н КРАСНОДАРСКИЙ КР.", "Issue_date": "05.05.2006", "Issue_organisation_code": "500-109", "Licence_number": "46 06 359679", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ ПО ОЗЕРСКОМУ МУНИЦИПАЛЬНОМУ РАЙОНУ"}}
+{"doc_id": "te_00057", "decision": "reject"}
+{"doc_id": "te_00058", "decision": "reject"}
+{"doc_id": "te_00059", "decision": "reject"}
+{"doc_id": "te_00060", "decision": "reject"}
+{"doc_id": "te_00061", "decision": "reject"}
+{"doc_id": "te_00062", "decision": "reject"}
+{"doc_id": "te_00063", "decision": "reject"}
+{"doc_id": "te_00064", "decision": "reject"}
+{"doc_id": "te_00065", "decision": "reject"}
+{"doc_id": "te_00066", "decision": "accept", "fields": {"Last_name_ru": "БАРАБАНЧУК", "First_name_ru": "ЗАРЕТА", "Middle_name_ru": "КАЗИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "25.11.1984", "Birth_place_ru": "С. НИЖНЕЕ КАЗАНИЩЕ БУЙНАКСКОГО РАЙОНА РЕСПУБЛИКИ ДАГЕСТАН", "Issue_date": "06.07.2005", "Issue_organisation_code": "613-001", "Licence_number": "60 03 845482", "Issue_organization_ru": "ОВД Г. НОВОШАХТИНСКА РОСТОВСКОЙ ОБЛ."}}
+{"doc_id": "te_00067", "decision": "reject"}
+{"doc_id": "te_00068", "decision": "reject"}
+{"doc_id": "te_00069", "decision": "reject"}
+{"doc_id": "te_00070", "decision": "reject"}
+{"doc_id": "te_00071", "decision": "accept", "fields": {"Last_name_ru": "МАШЕНСКИЙ", "First_name_ru": "ВЛИДИМИР", "Middle_name_ru": "ГУРРИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.06.1997", "Birth_place_ru": "ГОР.СВЕТЛОГОРСК КАЛИНИНГРАДСКОЙ ОБЛ.", "Issue_date": "22.09.2017", "Issue_organisation_code": "490-008", "Licence_number": "44 16 427731", "Issue_organization_ru": "УМВД РОССИИ ПО МАГАДАНСКОЙ ОБЛ"}}
+{"doc_id": "te_00072", "decision": "reject"}
+{"doc_id": "te_00073", "decision": "reject"}
+{"doc_id": "te_00074", "decision": "reject"}
+{"doc_id": "te_00075", "decision": "reject"}
+{"doc_id": "te_00076", "decision": "reject"}
+{"doc_id": "te_00077", "decision": "reject"}
+{"doc_id": "te_00078", "decision": "reject"}
+{"doc_id": "te_00079", "decision": "reject"}
+{"doc_id": "te_00080", "decision": "reject"}
+{"doc_id": "te_00081", "decision": "reject"}
+{"doc_id": "te_00082", "decision": "reject"}
+{"doc_id": "te_00083", "decision": "reject"}
+{"doc_id": "te_00084", "decision": "reject"}
+{"doc_id": "te_00085", "decision": "reject"}
+{"doc_id": "te_00086", "decision": "reject"}
+{"doc_id": "te_00087", "decision": "reject"}
+{"doc_id": "te_00088", "decision": "reject"}
+{"doc_id": "te_00089", "decision": "accept", "fields": {"Last_name_ru": "БОЛОБОТЬКО", "First_name_ru": "ЭРИКА", "Middle_name_ru": "АКИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.07.1966", "Birth_place_ru": "С. ЛИПОВКА ДОБРОВСКОГО Р-НА ЛИПЕЦКОЙ ОБЛ.", "Issue_date": "14.12.2011", "Issue_organisation_code": "770-095", "Licence_number": "45 08 082253", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ГОР. МОСКВЕ ПО РАЙОНУ СЕВЕРНОЕ ТУШИНО"}}
+{"doc_id": "te_00090", "decision": "reject"}
+{"doc_id": "te_00091", "decision": "reject"}
+{"doc_id": "te_00092", "decision": "reject"}
+{"doc_id": "te_00093", "decision": "reject"}
+{"doc_id": "te_00094", "decision": "reject"}
+{"doc_id": "te_00095", "decision": "reject"}
+{"doc_id": "te_00096", "decision": "reject"}
+{"doc_id": "te_00097", "decision": "reject"}
+{"doc_id": "te_00098", "decision": "reject"}
+{"doc_id": "te_00099", "decision": "reject"}
+{"doc_id": "te_00100", "decision": "reject"}
+{"doc_id": "te_00101", "decision": "accept", "fields": {"Last_name_ru": "ЕДИГАРЕВ", "First_name_ru": "ВАЗЕТДИН", "Middle_name_ru": "ЗУФАРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "03.05.2001", "Birth_place_ru": "СЕЛО СОСНОВКА УСОЛЬСКОГО Р-НА ИРКУТСКОЙ ОБЛ.", "Issue_date": "17.09.2021", "Issue_organisation_code": "770-123", "Licence_number": "45 18 601177", "Issue_organization_ru": "ГУ МВД РОССИИ ПО Г.МОСКВЕ"}}
+{"doc_id": "te_00102", "decision": "reject"}
+{"doc_id": "te_00103", "decision": "reject"}
+{"doc_id": "te_00104", "decision": "accept", "fields": {"Last_name_ru": "ТАРАСЕВИЯ", "First_name_ru": "РАМИЛЯ", "Middle_name_ru": "ХАЛИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "17.01.1989", "Birth_place_ru": "ПОС. СОКОЛОВКА СВЕРДЛОВСКОЙ ОБЛ.", "Issue_date": "26.08.2009", "Issue_organisation_code": "720-007", "Licence_number": "71 08 314081", "Issue_organization_ru": "МИГРАЦИОННЫЙ ПУНКТ В С. АРОМАШЕВО МЕЖРАЙОННОГО ОТДЕЛА УФМС РОССИИ ПО ТЮМЕНСКОЙ ОБЛАСТИ В ГОЛЫШМАНОВСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00105", "decision": "reject"}
+{"doc_id": "te_00106", "decision": "reject"}
+{"doc_id": "te_00107", "decision": "accept", "fields": {"Last_name_ru": "ГВОЗДКОВ", "First_name_ru": "АБДРЯКИБ", "Middle_name_ru": "ФАТКУЛБАЯНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "02.07.1960", "Birth_place_ru": "С. КРАСНЫЙ КЛЮЧ РЕСП. БАШКОРТОСТАН", "Issue_date": "08.02.2006", "Issue_organisation_code": "850-005", "Licence_number": "62 06 935574", "Issue_organization_ru": "ТП ОФМС РОССИИ ПО УСТЬ-ОРДЫНСКОМУ БУРЯТСКОМУ АВТОНОМНОМУ ОКРУГУ В НУКУТСКОМ Р-НЕ"}}
+{"doc_id": "te_00108", "decision": "accept", "fields": {"Last_name_ru": "ИЛЮКОВ", "First_name_ru": "ФИЛУС", "Middle_name_ru": "РИНАТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "23.10.1988", "Birth_place_ru": "Д. СЕЛЕЦ КРАСНИНСКИЙ Р-Н СМОЛЕНСКАЯ ОБЛ.", "Issue_date": "21.01.2009", "Issue_organisation_code": "780-040", "Licence_number": "40 07 804247", "Issue_organization_ru": "ТП №40 ОТДЕЛА УФМС РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ. В КРАСНОСЕЛЬСКОМ Р-НЕ Г.САНКТ-ПЕТЕРБУРГА"}}
+{"doc_id": "te_00109", "decision": "reject"}
+{"doc_id": "te_00110", "decision": "reject"}
+{"doc_id": "te_00111", "decision": "reject"}
+{"doc_id": "te_00112", "decision": "reject"}
+{"doc_id": "te_00113", "decision": "reject"}
+{"doc_id": "te_00114", "decision": "reject"}
+{"doc_id": "te_00115", "decision": "reject"}
+{"doc_id": "te_00116", "decision": "reject"}
+{"doc_id": "te_00117", "decision": "reject"}
+{"doc_id": "te_00118", "decision": "accept", "fields": {"Last_name_ru": "ГУГУЗБАЕВ", "First_name_ru": "АНИСИМ", "Middle_name_ru": "ФАВАРИСОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "28.11.1987", "Birth_place_ru": "С. ХОДЫНИНО РЫБНОВСКИЙ Р-Н РЯЗАНСКАЯ ОБЛ.", "Issue_date": "05.05.2008", "Issue_organisation_code": "770-122", "Licence_number": "45 05 608917", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ГОР. МОСКВЕ ПО РАЙОНУ ТЕПЛЫЙ СТАН"}}
+{"doc_id": "te_00119", "decision": "accept", "fields": {"Last_name_ru": "ЛЯУШКО", "First_name_ru": "ГАВИЛЬ", "Middle_name_ru": "НАХРАМАНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "08.11.1971", "Birth_place_ru": "ДЕРЕВНЯ ГРИГОРОВО НОВГОРОДСКОГО Р-НА НОВГОРОДСКОЙ ОБЛ.", "Issue_date": "23.07.2017", "Issue_organisation_code": "740-045", "Licence_number": "75 14 611207", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ЧЕЛЯБИНСКОЙ ОБЛ В ЧЕСМЕНСКОМ Р-НЕ"}}
+{"doc_id": "te_00120", "decision": "reject"}
+{"doc_id": "te_00121", "decision": "reject"}
+{"doc_id": "te_00122", "decision": "reject"}
+{"doc_id": "te_00123", "decision": "reject"}
+{"doc_id": "te_00124", "decision": "reject"}
+{"doc_id": "te_00125", "decision": "reject"}
+{"doc_id": "te_00126", "decision": "reject"}
+{"doc_id": "te_00127", "decision": "reject"}
+{"doc_id": "te_00128", "decision": "reject"}
+{"doc_id": "te_00129", "decision": "accept", "fields": {"Last_name_ru": "ГУЛЬМУТДИНОВА", "First_name_ru": "САЛЬВИНА", "Middle_name_ru": "ЧИНГИЗОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.11.1969", "Birth_place_ru": "С. ГЕРТМА КАЗБЕКОВСКОГО Р-НА ДАГЕСТАН", "Issue_date": "07.09.2015", "Issue_organisation_code": "660-031", "Licence_number": "65 14 970877", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ. В АСБЕСТОВСКОМ Р-НЕ"}}
+{"doc_id": "te_00130", "decision": "reject"}
+{"doc_id": "te_00131", "decision": "reject"}
+{"doc_id": "te_00132", "decision": "reject"}
+{"doc_id": "te_00133", "decision": "reject"}
+{"doc_id": "te_00134", "decision": "accept", "fields": {"Last_name_ru": "ХИЗАБТДИНОВ", "First_name_ru": "ВАСИЛИЙ", "Middle_name_ru": "АМПЕРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "16.10.1996", "Birth_place_ru": "С. МОЛЧАНОВКА ПАРТИЗАНСКОГО Р-НА", "Issue_date": "08.11.2016", "Issue_organisation_code": "420-051", "Licence_number": "32 16 997987", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО КЕМЕРОВСКОЙ ОБЛ В КРАПИВИНСКОМ Р-НЕ"}}
+{"doc_id": "te_00135", "decision": "reject"}
+{"doc_id": "te_00136", "decision": "accept", "fields": {"Last_name_ru": "БОДЕНИЯЗОВА", "First_name_ru": "ГУЙЛЯМИЛЯ", "Middle_name_ru": "ПЕТРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "19.04.1994", "Birth_place_ru": "Г. КАЗАНЬ РЕСП. ТАТАРСТАН", "Issue_date": "30.04.2014", "Issue_organisation_code": "630-007", "Licence_number": "36 13 849681", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО САМАРСКОЙ ОБЛ. В Г. СЫЗРАНИ"}}
+{"doc_id": "te_00137", "decision": "reject"}
+{"doc_id": "te_00138", "decision": "reject"}
+{"doc_id": "te_00139", "decision": "reject"}
+{"doc_id": "te_00140", "decision": "reject"}
+{"doc_id": "te_00141", "decision": "reject"}
+{"doc_id": "te_00142", "decision": "reject"}
+{"doc_id": "te_00143", "decision": "reject"}
+{"doc_id": "te_00144", "decision": "reject"}
+{"doc_id": "te_00145", "decision": "reject"}
+{"doc_id": "te_00146", "decision": "reject"}
+{"doc_id": "te_00147", "decision": "reject"}
+{"doc_id": "te_00148", "decision": "reject"}
+{"doc_id": "te_00149", "decision": "reject"}
+{"doc_id": "te_00150", "decision": "reject"}
+{"doc_id": "te_00151", "decision": "reject"}
+{"doc_id": "te_00152", "decision": "reject"}
+{"doc_id": "te_00153", "decision": "reject"}
+{"doc_id": "te_00154", "decision": "accept", "fields": {"Last_name_ru": "ГРИШУТОВА", "First_name_ru": "ФЕДОСЬЯ", "Middle_name_ru": "НАСЕРХОЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "19.01.1966", "Birth_place_ru": "ПГТ ЧУПА ЛОУХСКИЙ Р-Н РЕСП. КАРЕЛИЯ", "Issue_date": "15.05.2011", "Issue_organisation_code": "360-016", "Licence_number": "20 11 260309", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ. В ВОРОБЬЕВСКОМ Р-НЕ"}}
+{"doc_id": "te_00155", "decision": "reject"}
+{"doc_id": "te_00156", "decision": "reject"}
+{"doc_id": "te_00157", "decision": "reject"}
+{"doc_id": "te_00158", "decision": "reject"}
+{"doc_id": "te_00159", "decision": "reject"}
+{"doc_id": "te_00160", "decision": "reject"}
+{"doc_id": "te_00161", "decision": "reject"}
+{"doc_id": "te_00162", "decision": "reject"}
+{"doc_id": "te_00163", "decision": "reject"}
+{"doc_id": "te_00164", "decision": "reject"}
+{"doc_id": "te_00165", "decision": "reject"}
+{"doc_id": "te_00166", "decision": "reject"}
+{"doc_id": "te_00167", "decision": "reject"}
+{"doc_id": "te_00168", "decision": "reject"}
+{"doc_id": "te_00169", "decision": "reject"}
+{"doc_id": "te_00170", "decision": "reject"}
+{"doc_id": "te_00171", "decision": "reject"}
+{"doc_id": "te_00172", "decision": "reject"}
+{"doc_id": "te_00173", "decision": "accept", "fields": {"Last_name_ru": "ЛОНГОРТОВА", "First_name_ru": "ГАЛИНААВГУСТА", "Middle_name_ru": "МУХТАРАЛИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "03.10.1994", "Birth_place_ru": "Д. КОСИКИ ЮЖСКОГО Р-НА ИВАНОВСКОЙ ОБЛ.", "Issue_date": "26.04.2015", "Issue_organisation_code": "710-002", "Licence_number": "70 13 774332", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ТУЛЬСКОЙ ОБЛАСТИ В ЦЕНТРАЛЬНОМ РАЙОНЕ"}}
+{"doc_id": "te_00174", "decision": "reject"}
+{"doc_id": "te_00175", "decision": "reject"}
+{"doc_id": "te_00176", "decision": "reject"}
+{"doc_id": "te_00177", "decision": "reject"}
+{"doc_id": "te_00178", "decision": "accept", "fields": {"Last_name_ru": "СКИРУК", "First_name_ru": "ГЕНУЭФА", "Middle_name_ru": "ИРЕКОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "03.05.1954", "Birth_place_ru": "ГОР.РИГА ЛАТВИЙСКАЯ ССР", "Issue_date": "07.07.1999", "Issue_organisation_code": "182-015", "Licence_number": "94 98 845647", "Issue_organization_ru": "ОВД ДЕБЕССКОГО Р-НА УДМУРТСКОЙ РЕСПУБЛИКИ"}}
+{"doc_id": "te_00179", "decision": "reject"}
+{"doc_id": "te_00180", "decision": "reject"}
+{"doc_id": "te_00181", "decision": "reject"}
+{"doc_id": "te_00182", "decision": "reject"}
+{"doc_id": "te_00183", "decision": "reject"}
+{"doc_id": "te_00184", "decision": "reject"}
+{"doc_id": "te_00185", "decision": "reject"}
+{"doc_id": "te_00186", "decision": "reject"}
+{"doc_id": "te_00187", "decision": "reject"}
+{"doc_id": "te_00188", "decision": "reject"}
+{"doc_id": "te_00189", "decision": "accept", "fields": {"Last_name_ru": "НАДЕЖДИНСКАЯ", "First_name_ru": "НАДЕХДА", "Middle_name_ru": "ЭНГЕЛЬСОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.05.1982", "Birth_place_ru": "ДЕР.ЛИПКИ КИРЕЕВСКОГО Р-НА ТУЛЬСКОЙ ОБЛ.", "Issue_date": "02.11.2002", "Issue_organisation_code": "831-001", "Licence_number": "55 02 265445", "Issue_organization_ru": "УВД НЕНЕЦКОГО АО АРХАНГЕЛЬСКОЙ ОБЛ."}}
+{"doc_id": "te_00190", "decision": "reject"}
+{"doc_id": "te_00191", "decision": "accept", "fields": {"Last_name_ru": "АДРИАНОВСКИХ", "First_name_ru": "УННУГУЛЬСУМ", "Middle_name_ru": "МИРГАЗИЗОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "12.10.1967", "Birth_place_ru": "ГОРОД УССУРИЙСК ПРИМОРСКОГО КРАЯ", "Issue_date": "18.10.2012", "Issue_organisation_code": "770-148", "Licence_number": "45 11 838366", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО Г. МОСКВЕ В П. КУРИЛОВО"}}
+{"doc_id": "te_00192", "decision": "reject"}
+{"doc_id": "te_00193", "decision": "reject"}
+{"doc_id": "te_00194", "decision": "reject"}
+{"doc_id": "te_00195", "decision": "reject"}
+{"doc_id": "te_00196", "decision": "reject"}
+{"doc_id": "te_00197", "decision": "reject"}
+{"doc_id": "te_00198", "decision": "reject"}
+{"doc_id": "te_00199", "decision": "reject"}
+{"doc_id": "te_00200", "decision": "reject"}
+{"doc_id": "te_00201", "decision": "reject"}
+{"doc_id": "te_00202", "decision": "reject"}
+{"doc_id": "te_00203", "decision": "accept", "fields": {"Last_name_ru": "КРУТЦОВ", "First_name_ru": "РАДИК", "Middle_name_ru": "ГИЛЯРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "11.04.1964", "Birth_place_ru": "С. МЕЖЕГЕЙ ТАНДИНСКИЙ Р-Н ТЫВА", "Issue_date": "12.07.2009", "Issue_organisation_code": "340-011", "Licence_number": "18 06 818450", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ВОЛГОГРАДСКОЙ ОБЛ. В Г. ВОЛЖСКОМ"}}
+{"doc_id": "te_00204", "decision": "reject"}
+{"doc_id": "te_00205", "decision": "accept", "fields": {"Last_name_ru": "МУСАЕЛЯН", "First_name_ru": "ЗЛАТИСЛАВА", "Middle_name_ru": "БАДРИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "11.08.1983", "Birth_place_ru": "ГОР. КОРОЧА БЕЛГОРОДСКОЙ ОБЛ.", "Issue_date": "14.03.2004", "Issue_organisation_code": "252-033", "Licence_number": "05 01 505577", "Issue_organization_ru": "ХАСАНСКИЙ РОВД ПРИМОРСКОГО КРАЯ"}}
+{"doc_id": "te_00206", "decision": "reject"}
+{"doc_id": "te_00207", "decision": "accept", "fields": {"Last_name_ru": "ВИЛИНОВ", "First_name_ru": "АХМАТБАЯН", "Middle_name_ru": "ИВАНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "04.04.1985", "Birth_place_ru": "ДЕР. УСТАМАК ТОБОЛЬСКОГО РАЙОНА ТЮМЕНСКОЙ ОБЛАСТИ", "Issue_date": "06.06.2005", "Issue_organisation_code": "182-006", "Licence_number": "94 05 181320", "Issue_organization_ru": "УВД Г. ВОТКИНСКА И ВОТКИНСКОГО Р-НА УДМУРТСКОЙ РЕСПУБЛИКИ"}}
+{"doc_id": "te_00208", "decision": "reject"}
+{"doc_id": "te_00209", "decision": "reject"}
+{"doc_id": "te_00210", "decision": "reject"}
+{"doc_id": "te_00211", "decision": "reject"}
+{"doc_id": "te_00212", "decision": "accept", "fields": {"Last_name_ru": "КУНОСОВ", "First_name_ru": "ИСЛАМУТДИН", "Middle_name_ru": "ГУЛИМЯНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "11.02.1990", "Birth_place_ru": "ГОР. ИВАНОВО ИВАНОВСКОЙ ОБЛ.", "Issue_date": "14.07.2010", "Issue_organisation_code": "360-039", "Licence_number": "20 09 494588", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ. В ТЕРНОВСКОМ Р-НЕ"}}
+{"doc_id": "te_00213", "decision": "reject"}
+{"doc_id": "te_00214", "decision": "reject"}
+{"doc_id": "te_00215", "decision": "reject"}
+{"doc_id": "te_00216", "decision": "reject"}
+{"doc_id": "te_00217", "decision": "reject"}
+{"doc_id": "te_00218", "decision": "reject"}
+{"doc_id": "te_00219", "decision": "accept", "fields": {"Last_name_ru": "ВОЛОГУЗОВА", "First_name_ru": "АНАСТАСТИЯ", "Middle_name_ru": "ХАЗИНУРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.01.1977", "Birth_place_ru": "ГОР. КАЛИНИНГРАД КАЛИНИНГРАДСКОЙ ОБЛАСТИ", "Issue_date": "10.07.2022", "Issue_organisation_code": "690-016", "Licence_number": "28 22 030665", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ТВЕРСКОЙ ОБЛ В КАШИНСКОМ Р-НЕ"}}
+{"doc_id": "te_00220", "decision": "reject"}
+{"doc_id": "te_00221", "decision": "reject"}
+{"doc_id": "te_00222", "decision": "reject"}
+{"doc_id": "te_00223", "decision": "reject"}
+{"doc_id": "te_00224", "decision": "reject"}
+{"doc_id": "te_00225", "decision": "reject"}
+{"doc_id": "te_00226", "decision": "accept", "fields": {"Last_name_ru": "МУРТУЗАЕВ", "First_name_ru": "КОРОЛИНА", "Middle_name_ru": "ХАМЕТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "03.08.1966", "Birth_place_ru": "ГОР. КРАСНОЗАВОДСК МОСКОВСКОЙ ОБЛ.", "Issue_date": "06.12.2011", "Issue_organisation_code": "230-020", "Licence_number": "03 11 643580", "Issue_organization_ru": "ОУФМС РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ В ГОРОДЕ-КУРОРТЕ АНАПА"}}
+{"doc_id": "te_00227", "decision": "reject"}
+{"doc_id": "te_00228", "decision": "reject"}
+{"doc_id": "te_00229", "decision": "reject"}
+{"doc_id": "te_00230", "decision": "reject"}
+{"doc_id": "te_00231", "decision": "reject"}
+{"doc_id": "te_00232", "decision": "reject"}
+{"doc_id": "te_00233", "decision": "reject"}
+{"doc_id": "te_00234", "decision": "reject"}
+{"doc_id": "te_00235", "decision": "accept", "fields": {"Last_name_ru": "КУТЕЦКАЯ", "First_name_ru": "ТАЛИГА", "Middle_name_ru": "ФАТИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.09.1969", "Birth_place_ru": "С. СЫСОЕВО-АЛЕКСАНДРОВСКОЕ САЛЬСКИЙ Р-Н РОСТОВСКАЯ ОБЛ.", "Issue_date": "02.04.2015", "Issue_organisation_code": "500-153", "Licence_number": "46 15 004727", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ ПО СЕРЕБРЯНО-ПРУДСКОМУ МУНИЦИПАЛЬНОМУ РАЙОНУ"}}
+{"doc_id": "te_00236", "decision": "reject"}
+{"doc_id": "te_00237", "decision": "reject"}
+{"doc_id": "te_00238", "decision": "reject"}
+{"doc_id": "te_00239", "decision": "reject"}
+{"doc_id": "te_00240", "decision": "reject"}
+{"doc_id": "te_00241", "decision": "reject"}
+{"doc_id": "te_00242", "decision": "reject"}
+{"doc_id": "te_00243", "decision": "reject"}
+{"doc_id": "te_00244", "decision": "reject"}
+{"doc_id": "te_00245", "decision": "reject"}
+{"doc_id": "te_00246", "decision": "reject"}
+{"doc_id": "te_00247", "decision": "reject"}
+{"doc_id": "te_00248", "decision": "accept", "fields": {"Last_name_ru": "БУРКИЦОВА", "First_name_ru": "НИЛУФАР", "Middle_name_ru": "ПЕТРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.10.1999", "Birth_place_ru": "ГОР. САРАТОВ САРАТОВСКОЙ ОБЛАСТИ", "Issue_date": "14.07.2020", "Issue_organisation_code": "230-069", "Licence_number": "03 20 992509", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ"}}
+{"doc_id": "te_00249", "decision": "reject"}
+{"doc_id": "te_00250", "decision": "reject"}
+{"doc_id": "te_00251", "decision": "reject"}
+{"doc_id": "te_00252", "decision": "reject"}
+{"doc_id": "te_00253", "decision": "reject"}
+{"doc_id": "te_00254", "decision": "accept", "fields": {"Last_name_ru": "РЯБЫШЕНКОВ", "First_name_ru": "МОХАММЕД", "Middle_name_ru": "ТИМЕРГАЛИЕЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "21.11.1993", "Birth_place_ru": "ГОР. ТОРЖОК ТВЕРСКАЯ ОБЛАСТЬ", "Issue_date": "05.04.2014", "Issue_organisation_code": "140-031", "Licence_number": "98 14 653912", "Issue_organization_ru": "ТП УФМС РОССИИ ПО РЕСПУБЛИКЕ САХА (ЯКУТИЯ) В ЭВЕНО-БЫТАНТАЙСКОМ Р-НЕ"}}
+{"doc_id": "te_00255", "decision": "accept", "fields": {"Last_name_ru": "ВАРТАПЕТЯН", "First_name_ru": "ТАСИЯ", "Middle_name_ru": "САФЕЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "20.05.1961", "Birth_place_ru": "ГОР. МАРКС САРАТОВСКАЯ ОБЛ.", "Issue_date": "31.01.2007", "Issue_organisation_code": "300-007", "Licence_number": "12 06 088768", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО АСТРАХАНСКОЙ ОБЛАСТИ И РЕСПУБЛИКЕ КАЛМЫКИЯ В ЕНОТАЕВСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00256", "decision": "reject"}
+{"doc_id": "te_00257", "decision": "reject"}
+{"doc_id": "te_00258", "decision": "reject"}
+{"doc_id": "te_00259", "decision": "reject"}
+{"doc_id": "te_00260", "decision": "reject"}
+{"doc_id": "te_00261", "decision": "reject"}
+{"doc_id": "te_00262", "decision": "reject"}
+{"doc_id": "te_00263", "decision": "reject"}
+{"doc_id": "te_00264", "decision": "reject"}
+{"doc_id": "te_00265", "decision": "reject"}
+{"doc_id": "te_00266", "decision": "reject"}
+{"doc_id": "te_00267", "decision": "reject"}
+{"doc_id": "te_00268", "decision": "reject"}
+{"doc_id": "te_00269", "decision": "reject"}
+{"doc_id": "te_00270", "decision": "reject"}
+{"doc_id": "te_00271", "decision": "reject"}
+{"doc_id": "te_00272", "decision": "reject"}
+{"doc_id": "te_00273", "decision": "reject"}
+{"doc_id": "te_00274", "decision": "reject"}
+{"doc_id": "te_00275", "decision": "reject"}
+{"doc_id": "te_00276", "decision": "reject"}
+{"doc_id": "te_00277", "decision": "reject"}
+{"doc_id": "te_00278", "decision": "reject"}
+{"doc_id": "te_00279", "decision": "reject"}
+{"doc_id": "te_00280", "decision": "reject"}
+{"doc_id": "te_00281", "decision": "reject"}
+{"doc_id": "te_00282", "decision": "reject"}
+{"doc_id": "te_00283", "decision": "reject"}
+{"doc_id": "te_00284", "decision": "accept", "fields": {"Last_name_ru": "ЛОБУШКИНА", "First_name_ru": "ЗАХИДЯ", "Middle_name_ru": "АКИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.03.1999", "Birth_place_ru": "С. КРОТОВКА УЛЬЯНОВСКАЯ ОБЛ.", "Issue_date": "29.09.2019", "Issue_organisation_code": "630-010", "Licence_number": "36 17 274036", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САМАРСКОЙ ОБЛ"}}
+{"doc_id": "te_00285", "decision": "reject"}
+{"doc_id": "te_00286", "decision": "reject"}
+{"doc_id": "te_00287", "decision": "reject"}
+{"doc_id": "te_00288", "decision": "reject"}
+{"doc_id": "te_00289", "decision": "reject"}
+{"doc_id": "te_00290", "decision": "reject"}
+{"doc_id": "te_00291", "decision": "reject"}
+{"doc_id": "te_00292", "decision": "reject"}
+{"doc_id": "te_00293", "decision": "accept", "fields": {"Last_name_ru": "БАЛАГУЛОВ", "First_name_ru": "ИЛЬГИЗАР", "Middle_name_ru": "КУЗЬМИЧ", "Sex_ru": "МУЖ.", "Birth_date": "17.12.1997", "Birth_place_ru": "СТАН.СТАРОМЫШАСТОВСКАЯ ДИНСКОГО Р-НА КРАСНОДАРСКОГО КР.", "Issue_date": "01.05.2018", "Issue_organisation_code": "180-005", "Licence_number": "94 15 790183", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО УДМУРТСКОЙ РЕСПУБЛИКЕ В ОКТЯБРЬСКОМ Р-НЕ Г. ИЖЕВСКА"}}
+{"doc_id": "te_00294", "decision": "reject"}
+{"doc_id": "te_00295", "decision": "reject"}
+{"doc_id": "te_00296", "decision": "reject"}
+{"doc_id": "te_00297", "decision": "accept", "fields": {"Last_name_ru": "САРСЕНБАЕВА", "First_name_ru": "МИХАЛИНА", "Middle_name_ru": "ИВАНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "04.01.1965", "Birth_place_ru": "С. РУССКАЯ ЛАШМА КОВЫЛКИНСКОГО Р-НА МОРДОВИЯ", "Issue_date": "12.10.2010", "Issue_organisation_code": "480-017", "Licence_number": "42 10 701983", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ЛИПЕЦКОЙ ОБЛ. В ЛЕБЕДЯНСКОМ Р-НЕ"}}
+{"doc_id": "te_00298", "decision": "reject"}
+{"doc_id": "te_00299", "decision": "reject"}
+{"doc_id": "te_00300", "decision": "reject"}
+{"doc_id": "te_00301", "decision": "reject"}
+{"doc_id": "te_00302", "decision": "accept", "fields": {"Last_name_ru": "БАРАБАЗЮК", "First_name_ru": "ЛЕОКАРДИЯ", "Middle_name_ru": "РАФИСОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "06.08.1982", "Birth_place_ru": "СЕЛО ЧИСТОПОЛЬСКИЕ ВЫСЕЛКИ ТАТАРСТАН", "Issue_date": "20.05.2003", "Issue_organisation_code": "372-019", "Licence_number": "24 00 580266", "Issue_organization_ru": "ОВД ПЕСТЯКОВСКОГО РАЙОНА ИВАНОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_00303", "decision": "accept", "fields": {"Last_name_ru": "КОСМАТЬКОВА", "First_name_ru": "ЮЛИЯ", "Middle_name_ru": "ХРИСАМФОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "16.08.1962", "Birth_place_ru": "Г. ДЖАЛИЛЬАБАД АЗЕРБАЙДЖАНСКАЯ ССР", "Issue_date": "18.09.2007", "Issue_organisation_code": "150-013", "Licence_number": "90 04 191779", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО РЕСП. СЕВЕРНАЯ ОСЕТИЯ-АЛАНИЯ В АЛАГИРСКОМ Р-НЕ"}}
+{"doc_id": "te_00304", "decision": "reject"}
+{"doc_id": "te_00305", "decision": "reject"}
+{"doc_id": "te_00306", "decision": "reject"}
+{"doc_id": "te_00307", "decision": "reject"}
+{"doc_id": "te_00308", "decision": "reject"}
+{"doc_id": "te_00309", "decision": "reject"}
+{"doc_id": "te_00310", "decision": "reject"}
+{"doc_id": "te_00311", "decision": "reject"}
+{"doc_id": "te_00312", "decision": "reject"}
+{"doc_id": "te_00313", "decision": "reject"}
+{"doc_id": "te_00314", "decision": "reject"}
+{"doc_id": "te_00315", "decision": "reject"}
+{"doc_id": "te_00316", "decision": "reject"}
+{"doc_id": "te_00317", "decision": "reject"}
+{"doc_id": "te_00318", "decision": "reject"}
+{"doc_id": "te_00319", "decision": "reject"}
+{"doc_id": "te_00320", "decision": "reject"}
+{"doc_id": "te_00321", "decision": "reject"}
+{"doc_id": "te_00322", "decision": "reject"}
+{"doc_id": "te_00323", "decision": "reject"}
+{"doc_id": "te_00324", "decision": "reject"}
+{"doc_id": "te_00325", "decision": "reject"}
+{"doc_id": "te_00326", "decision": "reject"}
+{"doc_id": "te_00327", "decision": "reject"}
+{"doc_id": "te_00328", "decision": "reject"}
+{"doc_id": "te_00329", "decision": "accept", "fields": {"Last_name_ru": "КАРОТЫШ", "First_name_ru": "ПАНТИЛЕМОН", "Middle_name_ru": "ГАСТИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "08.12.1999", "Birth_place_ru": "С. БЕСТУЖЕВКА ОРЕНБУРГСКОЙ ОБЛ.", "Issue_date": "21.05.2020", "Issue_organisation_code": "710-006", "Licence_number": "70 19 509095", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ТУЛЬСКОЙ ОБЛ В ПРОЛЕТАРСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00330", "decision": "reject"}
+{"doc_id": "te_00331", "decision": "accept", "fields": {"Last_name_ru": "ЕГИЯЗАРЯН", "First_name_ru": "АРИФЯ", "Middle_name_ru": "ЙОРДАНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "10.07.2006", "Birth_place_ru": "ГОР. СИБАЙ РЕСП. БАШКОРТОСТАН", "Issue_date": "10.02.2021", "Issue_organisation_code": "230-040", "Licence_number": "03 21 010565", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ"}}
+{"doc_id": "te_00332", "decision": "accept", "fields": {"Last_name_ru": "ВОЩЕНЧУК", "First_name_ru": "ВИТОЛЬД", "Middle_name_ru": "ГЕНИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "22.08.1999", "Birth_place_ru": "С. ДЕРБЕТОВКА АПАНАСЕНКОВСКИЙ Р-Н СТАВРОПОЛЬСКИЙ КР.", "Issue_date": "26.10.2019", "Issue_organisation_code": "610-007", "Licence_number": "60 16 517372", "Issue_organization_ru": "ГУ МВД РОССИИ ПО РОСТОВСКОЙ ОБЛ"}}
+{"doc_id": "te_00333", "decision": "reject"}
+{"doc_id": "te_00334", "decision": "reject"}
+{"doc_id": "te_00335", "decision": "reject"}
+{"doc_id": "te_00336", "decision": "reject"}
+{"doc_id": "te_00337", "decision": "accept", "fields": {"Last_name_ru": "ВЕРБОВСКАЯ", "First_name_ru": "ШЕЙШАНА", "Middle_name_ru": "БАЛЬТОЗАРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "15.08.1996", "Birth_place_ru": "Г. КАТАВ-ИВАНОВСК ЧЕЛЯБИНСКАЯ ОБЛ.", "Issue_date": "08.01.2017", "Issue_organisation_code": "740-005", "Licence_number": "75 16 204843", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ЧЕЛЯБИНСКОЙ ОБЛ"}}
+{"doc_id": "te_00338", "decision": "reject"}
+{"doc_id": "te_00339", "decision": "reject"}
+{"doc_id": "te_00340", "decision": "reject"}
+{"doc_id": "te_00341", "decision": "reject"}
+{"doc_id": "te_00342", "decision": "reject"}
+{"doc_id": "te_00343", "decision": "reject"}
+{"doc_id": "te_00344", "decision": "reject"}
+{"doc_id": "te_00345", "decision": "accept", "fields": {"Last_name_ru": "МОИСЕЙЧИКОВ", "First_name_ru": "КАМАРТДИН", "Middle_name_ru": "ПЕТРВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "12.07.1981", "Birth_place_ru": "С. ЯРКУГ АГУЛЬСКИЙ Р-Н РЕСП. ДАГЕСТАН", "Issue_date": "06.02.2002", "Issue_organisation_code": "422-045", "Licence_number": "32 02 824911", "Issue_organization_ru": "ЧЕБУЛИНСКИЙ РОВД КЕМЕРОВСКОЙ ОБЛ."}}
+{"doc_id": "te_00346", "decision": "reject"}
+{"doc_id": "te_00347", "decision": "reject"}
+{"doc_id": "te_00348", "decision": "reject"}
+{"doc_id": "te_00349", "decision": "reject"}
+{"doc_id": "te_00350", "decision": "reject"}
+{"doc_id": "te_00351", "decision": "reject"}
+{"doc_id": "te_00352", "decision": "reject"}
+{"doc_id": "te_00353", "decision": "reject"}
+{"doc_id": "te_00354", "decision": "reject"}
+{"doc_id": "te_00355", "decision": "reject"}
+{"doc_id": "te_00356", "decision": "reject"}
+{"doc_id": "te_00357", "decision": "reject"}
+{"doc_id": "te_00358", "decision": "reject"}
+{"doc_id": "te_00359", "decision": "accept", "fields": {"Last_name_ru": "ТРУБАЧЕНКО", "First_name_ru": "ВАРАВАРА", "Middle_name_ru": "ЭЙНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "07.04.1968", "Birth_place_ru": "ГОР. ЕЙСК КРАСНОДАРСКОГО КРАЯ", "Issue_date": "16.09.2013", "Issue_organisation_code": "790-008", "Licence_number": "99 10 630147", "Issue_organization_ru": "ОТДЕЛЕНИЕ ОФМС РОССИИ ПО ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛ. В ОБЛУЧЕНСКОМ Р-НЕ"}}
+{"doc_id": "te_00360", "decision": "reject"}
+{"doc_id": "te_00361", "decision": "reject"}
+{"doc_id": "te_00362", "decision": "reject"}
+{"doc_id": "te_00363", "decision": "reject"}
+{"doc_id": "te_00364", "decision": "reject"}
+{"doc_id": "te_00365", "decision": "reject"}
+{"doc_id": "te_00366", "decision": "reject"}
+{"doc_id": "te_00367", "decision": "reject"}
+{"doc_id": "te_00368", "decision": "reject"}
+{"doc_id": "te_00369", "decision": "reject"}
+{"doc_id": "te_00370", "decision": "reject"}
+{"doc_id": "te_00371", "decision": "reject"}
+{"doc_id": "te_00372", "decision": "reject"}
+{"doc_id": "te_00373", "decision": "reject"}
+{"doc_id": "te_00374", "decision": "accept", "fields": {"Last_name_ru": "ЖНЕЦ", "First_name_ru": "ГЮДЬДЖАХАН", "Middle_name_ru": "АСТЕРИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.08.1956", "Birth_place_ru": "Г. НОВЫЙ ОСКОЛ БЕЛГОРОДСКАЯ ОБЛ.", "Issue_date": "31.12.2001", "Issue_organisation_code": "382-032", "Licence_number": "25 98 646262", "Issue_organization_ru": "ОВД БАЛАГАНСКОГО Р-НА ИРКУТСКОЙ ОБЛ."}}
+{"doc_id": "te_00375", "decision": "reject"}
+{"doc_id": "te_00376", "decision": "reject"}
+{"doc_id": "te_00377", "decision": "reject"}
+{"doc_id": "te_00378", "decision": "reject"}
+{"doc_id": "te_00379", "decision": "reject"}
+{"doc_id": "te_00380", "decision": "reject"}
+{"doc_id": "te_00381", "decision": "reject"}
+{"doc_id": "te_00382", "decision": "reject"}
+{"doc_id": "te_00383", "decision": "reject"}
+{"doc_id": "te_00384", "decision": "reject"}
+{"doc_id": "te_00385", "decision": "reject"}
+{"doc_id": "te_00386", "decision": "reject"}
+{"doc_id": "te_00387", "decision": "reject"}
+{"doc_id": "te_00388", "decision": "reject"}
+{"doc_id": "te_00389", "decision": "accept", "fields": {"Last_name_ru": "ГЕРАКОВ", "First_name_ru": "СТАСИНСЛАВ", "Middle_name_ru": "ФЛИДОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "10.11.1967", "Birth_place_ru": "Д. КАРУШЕНО ДЕДОВИЧСКОГО Р-НА ПСКОВСКОЙ ОБЛ.", "Issue_date": "25.02.2013", "Issue_organisation_code": "260-030", "Licence_number": "07 12 115117", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО СТАВРОПОЛЬСКОМУ КРАЮ В СТЕПНОВСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00390", "decision": "reject"}
+{"doc_id": "te_00391", "decision": "reject"}
+{"doc_id": "te_00392", "decision": "accept", "fields": {"Last_name_ru": "БЕРЗЕГОВА", "First_name_ru": "АЛЬФЕЯ", "Middle_name_ru": "МАТВЕЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.06.1987", "Birth_place_ru": "ПОС.СВЕТЛАЯ ЗАРЯ КУРГАНИНСКОГО Р-НА КРАСНОДАРСКОГО КР.", "Issue_date": "03.10.2007", "Issue_organisation_code": "240-056", "Licence_number": "04 04 775592", "Issue_organization_ru": "ТП УФМС РОССИИ ПО КРАСНОЯРСКОМУ КРАЮ В КЕЖЕМСКОМ Р-НЕ"}}
+{"doc_id": "te_00393", "decision": "reject"}
+{"doc_id": "te_00394", "decision": "reject"}
+{"doc_id": "te_00395", "decision": "reject"}
+{"doc_id": "te_00396", "decision": "accept", "fields": {"Last_name_ru": "ЭСТОЕВА", "First_name_ru": "ГАБИБАТ", "Middle_name_ru": "ВАВИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "18.09.2003", "Birth_place_ru": "ДЕР. ВЕРХНЯЯ ШОРСИРМА ЦИВИЛЬСКИЙ Р-Н ЧУВАШСКАЯ РЕСП.", "Issue_date": "20.02.2024", "Issue_organisation_code": "340-036", "Licence_number": "18 22 139264", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ВОЛГОГРАДСКОЙ ОБЛ В СВЕТЛОЯРСКОМ Р-НЕ ВОЛГОГРАДСКОЙ ОБЛ"}}
+{"doc_id": "te_00397", "decision": "reject"}
+{"doc_id": "te_00398", "decision": "reject"}
+{"doc_id": "te_00399", "decision": "reject"}
+{"doc_id": "te_00400", "decision": "accept", "fields": {"Last_name_ru": "ГОЛОВИЙЧУК", "First_name_ru": "САЛИМГУЛЛА", "Middle_name_ru": "ИЛЬВИРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "19.06.1966", "Birth_place_ru": "ГОРОД ПЕТРОПАВЛОВСК-КАМЧАТСКИЙ", "Issue_date": "24.07.2011", "Issue_organisation_code": "440-014", "Licence_number": "34 11 603065", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО КОСТРОМСКОЙ ОБЛАСТИ В МАНТУРОВСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00401", "decision": "reject"}
+{"doc_id": "te_00402", "decision": "reject"}
+{"doc_id": "te_00403", "decision": "reject"}
+{"doc_id": "te_00404", "decision": "reject"}
+{"doc_id": "te_00405", "decision": "reject"}
+{"doc_id": "te_00406", "decision": "reject"}
+{"doc_id": "te_00407", "decision": "reject"}
+{"doc_id": "te_00408", "decision": "reject"}
+{"doc_id": "te_00409", "decision": "reject"}
+{"doc_id": "te_00410", "decision": "reject"}
+{"doc_id": "te_00411", "decision": "reject"}
+{"doc_id": "te_00412", "decision": "reject"}
+{"doc_id": "te_00413", "decision": "reject"}
+{"doc_id": "te_00414", "decision": "reject"}
+{"doc_id": "te_00415", "decision": "reject"}
+{"doc_id": "te_00416", "decision": "accept", "fields": {"Last_name_ru": "КАРПОСЮК", "First_name_ru": "ПАРАСКОВЬЯ", "Middle_name_ru": "ИЛЬТУЗАРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.11.1995", "Birth_place_ru": "ГОР.ЖУКОВСКИЙ МОСКОВСКАЯ ОБЛ.", "Issue_date": "11.03.2016", "Issue_organisation_code": "420-011", "Licence_number": "32 13 387575", "Issue_organization_ru": "ТП №2 ОУФМС РОССИИ ПО КЕМЕРОВСКОЙ ОБЛ. В Г. БЕЛОВО"}}
+{"doc_id": "te_00417", "decision": "reject"}
+{"doc_id": "te_00418", "decision": "reject"}
+{"doc_id": "te_00419", "decision": "reject"}
+{"doc_id": "te_00420", "decision": "accept", "fields": {"Last_name_ru": "ПЕРЯЗИН", "First_name_ru": "АБДУЛЗАКИР", "Middle_name_ru": "БАСТЕМИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "27.02.1976", "Birth_place_ru": "Д. ЧЕРНАЯ МАЗА ЛЫСКОВСКИЙ Р-Н НИЖЕГОРОДСКАЯ ОБЛ.", "Issue_date": "29.11.2021", "Issue_organisation_code": "230-059", "Licence_number": "03 19 153705", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ"}}
+{"doc_id": "te_00421", "decision": "reject"}
+{"doc_id": "te_00422", "decision": "reject"}
+{"doc_id": "te_00423", "decision": "reject"}
+{"doc_id": "te_00424", "decision": "reject"}
+{"doc_id": "te_00425", "decision": "reject"}
+{"doc_id": "te_00426", "decision": "accept", "fields": {"Last_name_ru": "МАРМОЗОВА", "First_name_ru": "ЛУИЗА", "Middle_name_ru": "ЛУМЕРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "22.01.1991", "Birth_place_ru": "С.ПЕТРОВКА БУГУЛЬМИНСКОГО РАЙОНА РЕСПУБЛИКИ ТАТАРСТАН", "Issue_date": "19.09.2011", "Issue_organisation_code": "830-001", "Licence_number": "55 08 211983", "Issue_organization_ru": "ОФМС РОССИИ ПО НЕНЕЦКОМУ АО"}}
+{"doc_id": "te_00427", "decision": "reject"}
+{"doc_id": "te_00428", "decision": "reject"}
+{"doc_id": "te_00429", "decision": "reject"}
+{"doc_id": "te_00430", "decision": "reject"}
+{"doc_id": "te_00431", "decision": "reject"}
+{"doc_id": "te_00432", "decision": "reject"}
+{"doc_id": "te_00433", "decision": "accept", "fields": {"Last_name_ru": "МУРАШКИН", "First_name_ru": "МУХАМЕТЗАРИФ", "Middle_name_ru": "СУЛХАНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "30.06.1957", "Birth_place_ru": "ДЕР.БАРСУКИ ТУЛЬСКОЙ ОБЛАСТИ", "Issue_date": "23.11.2002", "Issue_organisation_code": "793-005", "Licence_number": "99 00 317219", "Issue_organization_ru": "БИРСКИЙ ОМ ОВД ОБЛУЧЕНСКОГО Р-НА ЕВРЕЙСКОЙ АО"}}
+{"doc_id": "te_00434", "decision": "reject"}
+{"doc_id": "te_00435", "decision": "reject"}
+{"doc_id": "te_00436", "decision": "reject"}
+{"doc_id": "te_00437", "decision": "reject"}
+{"doc_id": "te_00438", "decision": "reject"}
+{"doc_id": "te_00439", "decision": "reject"}
+{"doc_id": "te_00440", "decision": "reject"}
+{"doc_id": "te_00441", "decision": "reject"}
+{"doc_id": "te_00442", "decision": "reject"}
+{"doc_id": "te_00443", "decision": "reject"}
+{"doc_id": "te_00444", "decision": "reject"}
+{"doc_id": "te_00445", "decision": "reject"}
+{"doc_id": "te_00446", "decision": "reject"}
+{"doc_id": "te_00447", "decision": "reject"}
+{"doc_id": "te_00448", "decision": "reject"}
+{"doc_id": "te_00449", "decision": "reject"}
+{"doc_id": "te_00450", "decision": "accept", "fields": {"Last_name_ru": "МОЛЧУН", "First_name_ru": "АЛЕЕСАНДР", "Middle_name_ru": "АБЗАР ОГЛЫ", "Sex_ru": "МУЖ.", "Birth_date": "07.07.2004", "Birth_place_ru": "ДЕР. ПЕРВОМАЙСК КОНАКОВСКОГО Р-НА ТВЕРСКОЙ ОБЛ.", "Issue_date": "06.01.2025", "Issue_organisation_code": "060-006", "Licence_number": "26 24 896733", "Issue_organization_ru": "МВД ПО РЕСПУБЛИКЕ ИНГУШЕТИЯ"}}
+{"doc_id": "te_00451", "decision": "reject"}
+{"doc_id": "te_00452", "decision": "reject"}
+{"doc_id": "te_00453", "decision": "reject"}
+{"doc_id": "te_00454", "decision": "accept", "fields": {"Last_name_ru": "ПАНФИЛ", "First_name_ru": "ВАЛИШЕР", "Middle_name_ru": "ЕГОРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.02.2003", "Birth_place_ru": "С.КАРАЧЕВО КОЗЛОВСКОГО Р-НА ЧУВАШСКОЙ РЕСП.", "Issue_date": "28.07.2023", "Issue_organisation_code": "100-017", "Licence_number": "86 21 286634", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ КАРЕЛИЯ В СЕГЕЖСКОМ Р-НЕ"}}
+{"doc_id": "te_00455", "decision": "reject"}
+{"doc_id": "te_00456", "decision": "reject"}
+{"doc_id": "te_00457", "decision": "reject"}
+{"doc_id": "te_00458", "decision": "reject"}
+{"doc_id": "te_00459", "decision": "reject"}
+{"doc_id": "te_00460", "decision": "reject"}
+{"doc_id": "te_00461", "decision": "reject"}
+{"doc_id": "te_00462", "decision": "accept", "fields": {"Last_name_ru": "ЕКИЧ", "First_name_ru": "АЛИМБЕК", "Middle_name_ru": "МУСАБИРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.06.1984", "Birth_place_ru": "С. ПЕРВОМАЙСКОЕ СТЕРЛИТАМАКСКОГО Р-НА БАШКОРТОСТАН", "Issue_date": "10.12.2004", "Issue_organisation_code": "852-001", "Licence_number": "62 04 957018", "Issue_organization_ru": "ОВД АЛАРСКОГО Р-НА УСТЬ-ОРДЫНСКОГО БУРЯТСКОГО АО"}}
+{"doc_id": "te_00463", "decision": "accept", "fields": {"Last_name_ru": "БЛИНДЮК", "First_name_ru": "ДЖЕЙСОН", "Middle_name_ru": "ИТИГИЛОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "05.11.1994", "Birth_place_ru": "С. ШЕГОВАРЫ ШЕНКУРСКОГО Р-НА АРХАНГЕЛЬСКОЙ ОБЛ.", "Issue_date": "07.04.2015", "Issue_organisation_code": "770-129", "Licence_number": "45 12 655344", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО Г.МОСКВЕ В ЮВАО ОТД-НИЕ ПО ВОПРОСАМ ГРАЖДАНСТВА, РВП И ВЖ"}}
+{"doc_id": "te_00464", "decision": "reject"}
+{"doc_id": "te_00465", "decision": "reject"}
+{"doc_id": "te_00466", "decision": "reject"}
+{"doc_id": "te_00467", "decision": "reject"}
+{"doc_id": "te_00468", "decision": "reject"}
+{"doc_id": "te_00469", "decision": "reject"}
+{"doc_id": "te_00470", "decision": "reject"}
+{"doc_id": "te_00471", "decision": "accept", "fields": {"Last_name_ru": "ИОДИС", "First_name_ru": "НАИРА", "Middle_name_ru": "АБРАМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.04.1991", "Birth_place_ru": "ДЕР. ВЕРХ-НЯЗЬ ИГРИНСКИЙ Р-Н УДМУРТСКАЯ РЕСП.", "Issue_date": "02.08.2011", "Issue_organisation_code": "360-031", "Licence_number": "20 00 027926", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ. В ПЕТРОПАВЛОВСКОМ Р-НЕ"}}
+{"doc_id": "te_00472", "decision": "accept", "fields": {"Last_name_ru": "ПАУЛКИНА", "First_name_ru": "ХАЙРИНИСА", "Middle_name_ru": "РИШАТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "25.07.2002", "Birth_place_ru": "ГОРОД ЧИНОЗ УЗБЕКИСТАН", "Issue_date": "29.04.2023", "Issue_organisation_code": "240-002", "Licence_number": "04 22 535496", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КРАСНОЯРСКОМУ КРАЮ"}}
+{"doc_id": "te_00473", "decision": "reject"}
+{"doc_id": "te_00474", "decision": "reject"}
+{"doc_id": "te_00475", "decision": "reject"}
+{"doc_id": "te_00476", "decision": "reject"}
+{"doc_id": "te_00477", "decision": "reject"}
+{"doc_id": "te_00478", "decision": "reject"}
+{"doc_id": "te_00479", "decision": "reject"}
+{"doc_id": "te_00480", "decision": "reject"}
+{"doc_id": "te_00481", "decision": "reject"}
+{"doc_id": "te_00482", "decision": "reject"}
+{"doc_id": "te_00483", "decision": "reject"}
+{"doc_id": "te_00484", "decision": "reject"}
+{"doc_id": "te_00485", "decision": "reject"}
+{"doc_id": "te_00486", "decision": "reject"}
+{"doc_id": "te_00487", "decision": "accept", "fields": {"Last_name_ru": "ГАДЕЛИЯ", "First_name_ru": "ГАФУРЗЯН", "Middle_name_ru": "ИГОРОЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "02.09.1974", "Birth_place_ru": "С. НОВЫЙ ТУМУТУК БАКАЛИНСКОГО Р-НА РЕСП. БАШКОРТОСТАН", "Issue_date": "06.02.2020", "Issue_organisation_code": "050-013", "Licence_number": "82 18 622082", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ ДАГЕСТАН В Г. ДАГЕСТАНСКИЕ ОГНИ"}}
+{"doc_id": "te_00488", "decision": "reject"}
+{"doc_id": "te_00489", "decision": "reject"}
+{"doc_id": "te_00490", "decision": "reject"}
+{"doc_id": "te_00491", "decision": "reject"}
+{"doc_id": "te_00492", "decision": "reject"}
+{"doc_id": "te_00493", "decision": "reject"}
+{"doc_id": "te_00494", "decision": "reject"}
+{"doc_id": "te_00495", "decision": "reject"}
+{"doc_id": "te_00496", "decision": "reject"}
+{"doc_id": "te_00497", "decision": "reject"}
+{"doc_id": "te_00498", "decision": "reject"}
+{"doc_id": "te_00499", "decision": "reject"}
+{"doc_id": "te_00500", "decision": "reject"}
+{"doc_id": "te_00501", "decision": "reject"}
+{"doc_id": "te_00502", "decision": "reject"}
+{"doc_id": "te_00503", "decision": "reject"}
+{"doc_id": "te_00504", "decision": "reject"}
+{"doc_id": "te_00505", "decision": "reject"}
+{"doc_id": "te_00506", "decision": "reject"}
+{"doc_id": "te_00507", "decision": "reject"}
+{"doc_id": "te_00508", "decision": "reject"}
+{"doc_id": "te_00509", "decision": "reject"}
+{"doc_id": "te_00510", "decision": "reject"}
+{"doc_id": "te_00511", "decision": "reject"}
+{"doc_id": "te_00512", "decision": "reject"}
+{"doc_id": "te_00513", "decision": "reject"}
+{"doc_id": "te_00514", "decision": "reject"}
+{"doc_id": "te_00515", "decision": "accept", "fields": {"Last_name_ru": "ТИМЕРХАНОВА", "First_name_ru": "ЦОВИНАР", "Middle_name_ru": "ЗУЛЬФАРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "01.10.2005", "Birth_place_ru": "Д. МАРЧУКИ ЕЛЕЦКОГО Р-НА ЛИПЕЦКОЙ ОБЛ.", "Issue_date": "14.04.2026", "Issue_organisation_code": "020-037", "Licence_number": "80 26 311248", "Issue_organization_ru": "МВД ПО РЕСПУБЛИКЕ БАШКОРТОСТАН"}}
+{"doc_id": "te_00516", "decision": "accept", "fields": {"Last_name_ru": "САКАЛИДЗЕ", "First_name_ru": "ФАНУЗ", "Middle_name_ru": "ЯГУДАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.12.1966", "Birth_place_ru": "ГОР.ЕРЕВАН АРМЯНСКАЯ ССР", "Issue_date": "13.01.2012", "Issue_organisation_code": "780-082", "Licence_number": "40 09 957174", "Issue_organization_ru": "ТП №82 ОТДЕЛА УФМС РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ. В ЦЕНТРАЛЬНОМ Р-НЕ Г.САНКТ-ПЕТЕРБУРГА"}}
+{"doc_id": "te_00517", "decision": "reject"}
+{"doc_id": "te_00518", "decision": "reject"}
+{"doc_id": "te_00519", "decision": "reject"}
+{"doc_id": "te_00520", "decision": "reject"}
+{"doc_id": "te_00521", "decision": "reject"}
+{"doc_id": "te_00522", "decision": "reject"}
+{"doc_id": "te_00523", "decision": "accept", "fields": {"Last_name_ru": "ЛЕПЯТСКИЙ", "First_name_ru": "ЕВГЕНИЙ", "Middle_name_ru": "ШАНЗАРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "07.03.1989", "Birth_place_ru": "С. ПЕТРОПАВЛОВКА ВОРОНЕЖСКАЯ ОБЛАСТЬ", "Issue_date": "02.07.2009", "Issue_organisation_code": "160-022", "Licence_number": "92 07 955971", "Issue_organization_ru": "ТП №1 ОТДЕЛА УФМС РОССИИ ПО РЕСПУБЛИКЕ ТАТАРСТАН В ЗЕЛЕНОДОЛЬСКОМ Р-НЕ"}}
+{"doc_id": "te_00524", "decision": "reject"}
+{"doc_id": "te_00525", "decision": "reject"}
+{"doc_id": "te_00526", "decision": "reject"}
+{"doc_id": "te_00527", "decision": "reject"}
+{"doc_id": "te_00528", "decision": "reject"}
+{"doc_id": "te_00529", "decision": "reject"}
+{"doc_id": "te_00530", "decision": "reject"}
+{"doc_id": "te_00531", "decision": "accept", "fields": {"Last_name_ru": "КРАДИНОВ", "First_name_ru": "ХОЛМАХАМАД", "Middle_name_ru": "ТАЖЕТДИНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "30.03.1990", "Birth_place_ru": "СЕЛО РАЧАБУЛДА АХВАХСКОГО Р-НА", "Issue_date": "14.12.2010", "Issue_organisation_code": "540-020", "Licence_number": "50 08 311901", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО НОВОСИБИРСКОЙ ОБЛ. В КАРАСУКСКОМ Р-НЕ"}}
+{"doc_id": "te_00532", "decision": "reject"}
+{"doc_id": "te_00533", "decision": "reject"}
+{"doc_id": "te_00534", "decision": "reject"}
+{"doc_id": "te_00535", "decision": "reject"}
+{"doc_id": "te_00536", "decision": "accept", "fields": {"Last_name_ru": "БОВСЮК", "First_name_ru": "ЗИНФИРА", "Middle_name_ru": "ИЗОКЛИЛЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "01.10.2007", "Birth_place_ru": "С.СТАРИНА КАШИРСКИЙ РАЙОН ВОРОНЕЖСКАЯ ОБЛАСТЬ", "Issue_date": "17.10.2021", "Issue_organisation_code": "470-066", "Licence_number": "41 21 555484", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ"}}
+{"doc_id": "te_00537", "decision": "reject"}
+{"doc_id": "te_00538", "decision": "accept", "fields": {"Last_name_ru": "ПЫХАРЬ", "First_name_ru": "ГУЛЬЛАРИЯ", "Middle_name_ru": "КУРТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "21.07.1982", "Birth_place_ru": "Д. АРТЫК КРАСНОГОРСКОГО Р-НА УДМУРТСКОЙ РЕСП.", "Issue_date": "20.12.2002", "Issue_organisation_code": "592-014", "Licence_number": "57 01 265528", "Issue_organization_ru": "ОВД ГОРНОЗАВОДСКОГО Р-НА ПЕРМСКОЙ ОБЛ."}}
+{"doc_id": "te_00539", "decision": "reject"}
+{"doc_id": "te_00540", "decision": "reject"}
+{"doc_id": "te_00541", "decision": "reject"}
+{"doc_id": "te_00542", "decision": "reject"}
+{"doc_id": "te_00543", "decision": "reject"}
+{"doc_id": "te_00544", "decision": "reject"}
+{"doc_id": "te_00545", "decision": "reject"}
+{"doc_id": "te_00546", "decision": "reject"}
+{"doc_id": "te_00547", "decision": "reject"}
+{"doc_id": "te_00548", "decision": "reject"}
+{"doc_id": "te_00549", "decision": "reject"}
+{"doc_id": "te_00550", "decision": "reject"}
+{"doc_id": "te_00551", "decision": "reject"}
+{"doc_id": "te_00552", "decision": "reject"}
+{"doc_id": "te_00553", "decision": "reject"}
+{"doc_id": "te_00554", "decision": "reject"}
+{"doc_id": "te_00555", "decision": "reject"}
+{"doc_id": "te_00556", "decision": "reject"}
+{"doc_id": "te_00557", "decision": "reject"}
+{"doc_id": "te_00558", "decision": "reject"}
+{"doc_id": "te_00559", "decision": "reject"}
+{"doc_id": "te_00560", "decision": "reject"}
+{"doc_id": "te_00561", "decision": "reject"}
+{"doc_id": "te_00562", "decision": "reject"}
+{"doc_id": "te_00563", "decision": "reject"}
+{"doc_id": "te_00564", "decision": "reject"}
+{"doc_id": "te_00565", "decision": "reject"}
+{"doc_id": "te_00566", "decision": "reject"}
+{"doc_id": "te_00567", "decision": "reject"}
+{"doc_id": "te_00568", "decision": "reject"}
+{"doc_id": "te_00569", "decision": "reject"}
+{"doc_id": "te_00570", "decision": "accept", "fields": {"Last_name_ru": "ЛЕВАНЧУК", "First_name_ru": "ВАЛИЯМ", "Middle_name_ru": "ИГОРЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.11.1989", "Birth_place_ru": "ДЕР. ЧУРИЛОВО УСВЯТСКОГО РАЙОНА ПСКОВСКОЙ ОБЛАСТИ", "Issue_date": "26.12.2009", "Issue_organisation_code": "080-008", "Licence_number": "85 09 885293", "Issue_organization_ru": "ТП ОФМС РОССИИ ПО РЕСПУБЛИКЕ КАЛМЫКИЯ В ПРИЮТНЕНСКОМ Р-НЕ"}}
+{"doc_id": "te_00571", "decision": "reject"}
+{"doc_id": "te_00572", "decision": "reject"}
+{"doc_id": "te_00573", "decision": "reject"}
+{"doc_id": "te_00574", "decision": "reject"}
+{"doc_id": "te_00575", "decision": "reject"}
+{"doc_id": "te_00576", "decision": "accept", "fields": {"Last_name_ru": "ЕГИПКО", "First_name_ru": "ИРАИДА", "Middle_name_ru": "ЗИКАФОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "22.01.2007", "Birth_place_ru": "ДЕР. КОРЯКОВО БОРОВСКОГО РАЙОНА КАЛУЖСКОЙ ОБЛАСТИ", "Issue_date": "01.08.2021", "Issue_organisation_code": "740-013", "Licence_number": "75 20 247290", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ЧЕЛЯБИНСКОЙ ОБЛ В Г.ЗЛАТОУСТЕ"}}
+{"doc_id": "te_00577", "decision": "reject"}
+{"doc_id": "te_00578", "decision": "reject"}
+{"doc_id": "te_00579", "decision": "reject"}
+{"doc_id": "te_00580", "decision": "reject"}
+{"doc_id": "te_00581", "decision": "reject"}
+{"doc_id": "te_00582", "decision": "reject"}
+{"doc_id": "te_00583", "decision": "reject"}
+{"doc_id": "te_00584", "decision": "reject"}
+{"doc_id": "te_00585", "decision": "reject"}
+{"doc_id": "te_00586", "decision": "reject"}
+{"doc_id": "te_00587", "decision": "reject"}
+{"doc_id": "te_00588", "decision": "reject"}
+{"doc_id": "te_00589", "decision": "accept", "fields": {"Last_name_ru": "АБЛЕСИМОВ", "First_name_ru": "САМАТ", "Middle_name_ru": "ГУММАТ ОГЛЫ", "Sex_ru": "МУЖ.", "Birth_date": "25.06.1989", "Birth_place_ru": "С. ВИШНЕВОЕ ТАМАЛИНСКИЙ Р-Н ПЕНЗЕНСКАЯ ОБЛ.", "Issue_date": "04.12.2009", "Issue_organisation_code": "500-156", "Licence_number": "46 09 256528", "Issue_organization_ru": "ТП №1 МО УФМС РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ В ГОРОДСКОМ ОКРУГЕ СЕРПУХОВ"}}
+{"doc_id": "te_00590", "decision": "reject"}
+{"doc_id": "te_00591", "decision": "reject"}
+{"doc_id": "te_00592", "decision": "reject"}
+{"doc_id": "te_00593", "decision": "reject"}
+{"doc_id": "te_00594", "decision": "accept", "fields": {"Last_name_ru": "ЯРВЕЛЬЯНЦ", "First_name_ru": "МАНЕФА", "Middle_name_ru": "АНИЛЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "17.05.1988", "Birth_place_ru": "С. ЮМАНАЙ ШУМЕРЛИНСКОГО РАЙОНА ЧУВАШСКОЙ РЕСПУБЛИКИ", "Issue_date": "30.07.2008", "Issue_organisation_code": "030-039", "Licence_number": "81 06 477905", "Issue_organization_ru": "ТП УФМС РОССИИ ПО РЕСПУБЛИКЕ БУРЯТИЯ В ТАРБАГАТАЙСКОМ Р-НЕ"}}
+{"doc_id": "te_00595", "decision": "reject"}
+{"doc_id": "te_00596", "decision": "reject"}
+{"doc_id": "te_00597", "decision": "reject"}
+{"doc_id": "te_00598", "decision": "reject"}
+{"doc_id": "te_00599", "decision": "reject"}
+{"doc_id": "te_00600", "decision": "reject"}
+{"doc_id": "te_00601", "decision": "reject"}
+{"doc_id": "te_00602", "decision": "reject"}
+{"doc_id": "te_00603", "decision": "reject"}
+{"doc_id": "te_00604", "decision": "accept", "fields": {"Last_name_ru": "ГАЛСАНОВ", "First_name_ru": "ЖАМИТ", "Middle_name_ru": "САБИТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "22.06.1967", "Birth_place_ru": "С. КОЛОГРЕЕВО АРДАТОВСКИЙ Р-Н", "Issue_date": "19.11.2012", "Issue_organisation_code": "500-206", "Licence_number": "46 10 306791", "Issue_organization_ru": "ТП В ПОС. ВОСХОД УФМС РОССИИ ПО МОСКОВСКОЙ ОБЛ."}}
+{"doc_id": "te_00605", "decision": "accept", "fields": {"Last_name_ru": "КРАТЮК", "First_name_ru": "ТИМИРЗЯН", "Middle_name_ru": "ВАЛЕРЬЕЯНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "22.11.2003", "Birth_place_ru": "ПОСЁЛОК ОСТРОЛЕНСКИЙ НАГАЙБАКСКИЙ Р-Н ЧЕЛЯБИНСКАЯ ОБЛ.", "Issue_date": "12.06.2024", "Issue_organisation_code": "270-003", "Licence_number": "08 24 645580", "Issue_organization_ru": "УМВД РОССИИ ПО ХАБАРОВСКОМУ КРАЮ"}}
+{"doc_id": "te_00606", "decision": "reject"}
+{"doc_id": "te_00607", "decision": "reject"}
+{"doc_id": "te_00608", "decision": "reject"}
+{"doc_id": "te_00609", "decision": "reject"}
+{"doc_id": "te_00610", "decision": "reject"}
+{"doc_id": "te_00611", "decision": "reject"}
+{"doc_id": "te_00612", "decision": "reject"}
+{"doc_id": "te_00613", "decision": "reject"}
+{"doc_id": "te_00614", "decision": "reject"}
+{"doc_id": "te_00615", "decision": "reject"}
+{"doc_id": "te_00616", "decision": "reject"}
+{"doc_id": "te_00617", "decision": "reject"}
+{"doc_id": "te_00618", "decision": "reject"}
+{"doc_id": "te_00619", "decision": "reject"}
+{"doc_id": "te_00620", "decision": "reject"}
+{"doc_id": "te_00621", "decision": "reject"}
+{"doc_id": "te_00622", "decision": "accept", "fields": {"Last_name_ru": "СУПРОНИК", "First_name_ru": "БРАЙНА", "Middle_name_ru": "ХАНАФЬЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.09.1986", "Birth_place_ru": "ГОР. МИХАЙЛОВСК СТАВРОПОЛЬСКИЙ КР.", "Issue_date": "22.11.2006", "Issue_organisation_code": "742-040", "Licence_number": "75 04 282665", "Issue_organization_ru": "ЮЖНОУРАЛЬСКИЙ ГОВД ЧЕЛЯБИНСКОЙ ОБЛ."}}
+{"doc_id": "te_00623", "decision": "reject"}
+{"doc_id": "te_00624", "decision": "reject"}
+{"doc_id": "te_00625", "decision": "accept", "fields": {"Last_name_ru": "ГАБРАНСКИЙ", "First_name_ru": "ЛЮТЬЯН", "Middle_name_ru": "АЛИБОЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "28.12.1982", "Birth_place_ru": "Р.П.МОРДОВО ТАМБОВСКАЯ ОБЛ.", "Issue_date": "28.06.2003", "Issue_organisation_code": "772-061", "Licence_number": "45 03 485189", "Issue_organization_ru": "ПАСПОРТНО-ВИЗОВОЕ ОТДЕЛЕНИЕ ОВД РАЙОНА БАБУШКИНСКИЙ ГОРОДА МОСКВЫ"}}
+{"doc_id": "te_00626", "decision": "reject"}
+{"doc_id": "te_00627", "decision": "reject"}
+{"doc_id": "te_00628", "decision": "reject"}
+{"doc_id": "te_00629", "decision": "reject"}
+{"doc_id": "te_00630", "decision": "reject"}
+{"doc_id": "te_00631", "decision": "reject"}
+{"doc_id": "te_00632", "decision": "reject"}
+{"doc_id": "te_00633", "decision": "reject"}
+{"doc_id": "te_00634", "decision": "reject"}
+{"doc_id": "te_00635", "decision": "reject"}
+{"doc_id": "te_00636", "decision": "reject"}
+{"doc_id": "te_00637", "decision": "reject"}
+{"doc_id": "te_00638", "decision": "reject"}
+{"doc_id": "te_00639", "decision": "reject"}
+{"doc_id": "te_00640", "decision": "reject"}
+{"doc_id": "te_00641", "decision": "reject"}
+{"doc_id": "te_00642", "decision": "reject"}
+{"doc_id": "te_00643", "decision": "reject"}
+{"doc_id": "te_00644", "decision": "reject"}
+{"doc_id": "te_00645", "decision": "reject"}
+{"doc_id": "te_00646", "decision": "reject"}
+{"doc_id": "te_00647", "decision": "reject"}
+{"doc_id": "te_00648", "decision": "accept", "fields": {"Last_name_ru": "БЕЗРУЧКА", "First_name_ru": "САИТЗАДА", "Middle_name_ru": "МАМИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "03.05.2010", "Birth_place_ru": "С. ЦЕЛИННОЕ АЛТАЙСКОГО КР.", "Issue_date": "12.02.2025", "Issue_organisation_code": "650-002", "Licence_number": "64 23 554489", "Issue_organization_ru": "УМВД РОССИИ ПО САХАЛИНСКОЙ ОБЛ"}}
+{"doc_id": "te_00649", "decision": "reject"}
+{"doc_id": "te_00650", "decision": "reject"}
+{"doc_id": "te_00651", "decision": "reject"}
+{"doc_id": "te_00652", "decision": "reject"}
+{"doc_id": "te_00653", "decision": "reject"}
+{"doc_id": "te_00654", "decision": "reject"}
+{"doc_id": "te_00655", "decision": "reject"}
+{"doc_id": "te_00656", "decision": "reject"}
+{"doc_id": "te_00657", "decision": "reject"}
+{"doc_id": "te_00658", "decision": "accept", "fields": {"Last_name_ru": "ЛАЦЬКО", "First_name_ru": "МИНЗАХИТ", "Middle_name_ru": "ФИЛЛИПОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "24.01.1976", "Birth_place_ru": "П.МЕГЕТ АНГАРСКИЙ Р-Н ИРКУТСКАЯ ОБЛ.", "Issue_date": "03.05.2021", "Issue_organisation_code": "360-024", "Licence_number": "20 18 447024", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ"}}
+{"doc_id": "te_00659", "decision": "reject"}
+{"doc_id": "te_00660", "decision": "reject"}
+{"doc_id": "te_00661", "decision": "reject"}
+{"doc_id": "te_00662", "decision": "reject"}
+{"doc_id": "te_00663", "decision": "reject"}
+{"doc_id": "te_00664", "decision": "reject"}
+{"doc_id": "te_00665", "decision": "reject"}
+{"doc_id": "te_00666", "decision": "reject"}
+{"doc_id": "te_00667", "decision": "reject"}
+{"doc_id": "te_00668", "decision": "reject"}
+{"doc_id": "te_00669", "decision": "reject"}
+{"doc_id": "te_00670", "decision": "reject"}
+{"doc_id": "te_00671", "decision": "reject"}
+{"doc_id": "te_00672", "decision": "reject"}
+{"doc_id": "te_00673", "decision": "accept", "fields": {"Last_name_ru": "ФИЛАНЧУК", "First_name_ru": "ГУЛЬНАС", "Middle_name_ru": "РЫШАРДОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "27.10.2007", "Birth_place_ru": "П. КОНЕЗАВОДА МОСКОВСКАЯ ОБЛ.", "Issue_date": "16.02.2022", "Issue_organisation_code": "660-070", "Licence_number": "65 21 852593", "Issue_organization_ru": "ГУ МВД РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ"}}
+{"doc_id": "te_00674", "decision": "reject"}
+{"doc_id": "te_00675", "decision": "reject"}
+{"doc_id": "te_00676", "decision": "reject"}
+{"doc_id": "te_00677", "decision": "reject"}
+{"doc_id": "te_00678", "decision": "accept", "fields": {"Last_name_ru": "ФАХУРИ", "First_name_ru": "АНАИТ", "Middle_name_ru": "САЛАВАТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.04.1955", "Birth_place_ru": "С. ДУШАНБЕКОВО КИГИНСКОГО Р-НА БАШКОРТОСТАН", "Issue_date": "30.06.2000", "Issue_organisation_code": "263-002", "Licence_number": "07 00 233393", "Issue_organization_ru": "СОЛНЕЧНОДОЛЬСКОЕ ОМ ИЗОБИЛЬНЕНСКОГО РОВД СТАВРОПОЛЬСКОГО КРАЯ"}}
+{"doc_id": "te_00679", "decision": "reject"}
+{"doc_id": "te_00680", "decision": "accept", "fields": {"Last_name_ru": "МИХМЕНЬ", "First_name_ru": "АЛЬФОНАС", "Middle_name_ru": "АШРАФ ОГЛЫ", "Sex_ru": "МУЖ.", "Birth_date": "24.02.2000", "Birth_place_ru": "ДЕРЕВНЯ ДУБЕНСК ТЕМКИНСКИЙ Р-Н СМОЛЕНСКАЯ ОБЛ.", "Issue_date": "24.10.2020", "Issue_organisation_code": "770-051", "Licence_number": "45 19 179802", "Issue_organization_ru": "ГУ МВД РОССИИ ПО Г.МОСКВЕ"}}
+{"doc_id": "te_00681", "decision": "reject"}
+{"doc_id": "te_00682", "decision": "reject"}
+{"doc_id": "te_00683", "decision": "reject"}
+{"doc_id": "te_00684", "decision": "reject"}
+{"doc_id": "te_00685", "decision": "reject"}
+{"doc_id": "te_00686", "decision": "reject"}
+{"doc_id": "te_00687", "decision": "reject"}
+{"doc_id": "te_00688", "decision": "reject"}
+{"doc_id": "te_00689", "decision": "reject"}
+{"doc_id": "te_00690", "decision": "reject"}
+{"doc_id": "te_00691", "decision": "reject"}
+{"doc_id": "te_00692", "decision": "reject"}
+{"doc_id": "te_00693", "decision": "reject"}
+{"doc_id": "te_00694", "decision": "reject"}
+{"doc_id": "te_00695", "decision": "reject"}
+{"doc_id": "te_00696", "decision": "accept", "fields": {"Last_name_ru": "ТКАЧКОВ", "First_name_ru": "ЗАКАРЬЯ", "Middle_name_ru": "АДФАНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "15.04.1964", "Birth_place_ru": "С. АК-ЭРИК ТЕС-ХЕМСКОГО Р-НА ТЫВА", "Issue_date": "01.10.2009", "Issue_organisation_code": "610-063", "Licence_number": "60 07 731337", "Issue_organization_ru": "МО УФМС РОССИИ ПО РОСТОВСКОЙ ОБЛ. В ПО. ЧЕРТКОВО"}}
+{"doc_id": "te_00697", "decision": "reject"}
+{"doc_id": "te_00698", "decision": "reject"}
+{"doc_id": "te_00699", "decision": "reject"}
+{"doc_id": "te_00700", "decision": "accept", "fields": {"Last_name_ru": "КАСАКОВА", "First_name_ru": "НУРДАНИЯ", "Middle_name_ru": "ВИКЕНТЬЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.07.2009", "Birth_place_ru": "ПГТ. ДУНАЙ ПРИМОРСКИЙ КР.", "Issue_date": "13.01.2024", "Issue_organisation_code": "230-025", "Licence_number": "03 23 048550", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ"}}
+{"doc_id": "te_00701", "decision": "accept", "fields": {"Last_name_ru": "РУБАНИЩЕВА", "First_name_ru": "АЛЕФТИНА", "Middle_name_ru": "БОРИСОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.06.2011", "Birth_place_ru": "П.ПЕСЧАНКА ЗАБАЙКАЛЬСКОГО КР.", "Issue_date": "05.01.2026", "Issue_organisation_code": "280-007", "Licence_number": "10 25 321342", "Issue_organization_ru": "УМВД РОССИИ ПО АМУРСКОЙ ОБЛ"}}
+{"doc_id": "te_00702", "decision": "reject"}
+{"doc_id": "te_00703", "decision": "reject"}
+{"doc_id": "te_00704", "decision": "reject"}
+{"doc_id": "te_00705", "decision": "reject"}
+{"doc_id": "te_00706", "decision": "reject"}
+{"doc_id": "te_00707", "decision": "reject"}
+{"doc_id": "te_00708", "decision": "accept", "fields": {"Last_name_ru": "АХРЕМШЕВА", "First_name_ru": "ЗИНАГИЛЬ", "Middle_name_ru": "ГЕОРГИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "27.06.1966", "Birth_place_ru": "ГОР. ЖУКОВСКИЙ МОСКОВСКОЙ ОБЛ.", "Issue_date": "29.03.2012", "Issue_organisation_code": "410-005", "Licence_number": "30 12 807266", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО КАМЧАТСКОМУ КРАЮ В ЕЛИЗОВСКОМ Р-НЕ"}}
+{"doc_id": "te_00709", "decision": "accept", "fields": {"Last_name_ru": "БОЛЕЙШИЦ", "First_name_ru": "ГАЛСИНА", "Middle_name_ru": "ЯХИНЯЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "12.09.1960", "Birth_place_ru": "ГОР. ЛИСАКОВСК КАЗАХСКАЯ ССР", "Issue_date": "06.11.2005", "Issue_organisation_code": "162-059", "Licence_number": "92 03 449209", "Issue_organization_ru": "ОВД ЮТАЗИНСКОГО Р-НА РЕСПУБЛИКИ ТАТАРСТАН"}}
+{"doc_id": "te_00710", "decision": "reject"}
+{"doc_id": "te_00711", "decision": "reject"}
+{"doc_id": "te_00712", "decision": "reject"}
+{"doc_id": "te_00713", "decision": "accept", "fields": {"Last_name_ru": "ЛУНИЧЕВА", "First_name_ru": "ЕКАТЕРИНА", "Middle_name_ru": "ЗАЛЕЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "14.04.1965", "Birth_place_ru": "П. ШАПКИ ТОСНЕНСКОГО Р-НА ЛЕНИНГРАДСКОЙ ОБЛ.", "Issue_date": "08.09.2010", "Issue_organisation_code": "040-009", "Licence_number": "84 09 142590", "Issue_organization_ru": "ТП ОФМС РОССИИ ПО РЕСПУБЛИКЕ АЛТАЙ В УСТЬ-КОКСИНСКОМ Р-НЕ"}}
+{"doc_id": "te_00714", "decision": "reject"}
+{"doc_id": "te_00715", "decision": "reject"}
+{"doc_id": "te_00716", "decision": "reject"}
+{"doc_id": "te_00717", "decision": "reject"}
+{"doc_id": "te_00718", "decision": "accept", "fields": {"Last_name_ru": "ЖАРНОСЕНКО", "First_name_ru": "КОННСТАНТИН", "Middle_name_ru": "ДИТРИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "06.11.1966", "Birth_place_ru": "П. БОЛЬШОЙ КЕРЛЕГЕШ ПРОКОПЬЕВСКИЙ Р-Н КЕМЕРОВСКАЯ ОБЛ.", "Issue_date": "30.04.2012", "Issue_organisation_code": "770-126", "Licence_number": "45 12 837250", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ГОР. МОСКВЕ ПО РАЙОНУ МАТУШКИНО"}}
+{"doc_id": "te_00719", "decision": "reject"}
+{"doc_id": "te_00720", "decision": "reject"}
+{"doc_id": "te_00721", "decision": "reject"}
+{"doc_id": "te_00722", "decision": "reject"}
+{"doc_id": "te_00723", "decision": "reject"}
+{"doc_id": "te_00724", "decision": "reject"}
+{"doc_id": "te_00725", "decision": "reject"}
+{"doc_id": "te_00726", "decision": "accept", "fields": {"Last_name_ru": "ТУЛУШМАНОВ", "First_name_ru": "ВАСИЛИЙ", "Middle_name_ru": "ЯНГИРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "14.07.1999", "Birth_place_ru": "ГОРОД ОСИННИКИ КЕМЕРОВСКАЯ ОБЛ.", "Issue_date": "09.09.2019", "Issue_organisation_code": "400-037", "Licence_number": "29 18 067948", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО КАЛУЖСКОЙ ОБЛАСТИ В Г. ЛЮДИНОВО"}}
+{"doc_id": "te_00727", "decision": "reject"}
+{"doc_id": "te_00728", "decision": "reject"}
+{"doc_id": "te_00729", "decision": "reject"}
+{"doc_id": "te_00730", "decision": "reject"}
+{"doc_id": "te_00731", "decision": "accept", "fields": {"Last_name_ru": "БЛБУЛЯН", "First_name_ru": "ГЕНРИЕТТА", "Middle_name_ru": "НАГИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "28.12.1972", "Birth_place_ru": "ЛАДЫЖИН УКРАИНСКАЯ ССР", "Issue_date": "28.03.2018", "Issue_organisation_code": "580-012", "Licence_number": "56 15 490859", "Issue_organization_ru": "УМВД РОССИИ ПО ПЕНЗЕНСКОЙ ОБЛ"}}
+{"doc_id": "te_00732", "decision": "reject"}
+{"doc_id": "te_00733", "decision": "reject"}
+{"doc_id": "te_00734", "decision": "reject"}
+{"doc_id": "te_00735", "decision": "accept", "fields": {"Last_name_ru": "ТАШКИН", "First_name_ru": "ХИБАТУЛЛА", "Middle_name_ru": "КУСИЕЛЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "01.09.2010", "Birth_place_ru": "Г. СЕВЕРСК ТОМСКАЯ ОБЛ.", "Issue_date": "30.01.2025", "Issue_organisation_code": "770-067", "Licence_number": "45 23 676648", "Issue_organization_ru": "ГУ МВД РОССИИ ПО Г.МОСКВЕ"}}
+{"doc_id": "te_00736", "decision": "reject"}
+{"doc_id": "te_00737", "decision": "accept", "fields": {"Last_name_ru": "ТЫШИНСКИЙ", "First_name_ru": "МАХМУТАКРЕМ", "Middle_name_ru": "ГИЗЕТДИНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "05.01.1993", "Birth_place_ru": "П. 14 КМ КЕМСКИЙ Р-Н РЕСП. КАРЕЛИЯ", "Issue_date": "01.08.2013", "Issue_organisation_code": "770-095", "Licence_number": "45 11 972503", "Issue_organization_ru": "ОТДЕЛЕНИЕ ПО РАЙОНУ СЕВЕРНОЕ ТУШИНО ОУФМС РОССИИ ПО ГОР.МОСКВЕ В СЗАО"}}
+{"doc_id": "te_00738", "decision": "reject"}
+{"doc_id": "te_00739", "decision": "reject"}
+{"doc_id": "te_00740", "decision": "accept", "fields": {"Last_name_ru": "ТЧОРУХЯН", "First_name_ru": "ВАЛЬДЕМАРГЕОРГИЙ", "Middle_name_ru": "КУРУГЛИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "13.10.1988", "Birth_place_ru": "ДЕРЕВНЯ ОКТЯБРЬСК РЕСП. БАШКОРТОСТАН", "Issue_date": "01.02.2009", "Issue_organisation_code": "190-010", "Licence_number": "95 08 159153", "Issue_organization_ru": "ТП УФМС РОССИИ ПО РЕСПУБЛИКЕ ХАКАСИЯ В БЕЙСКОМ Р-НЕ"}}
+{"doc_id": "te_00741", "decision": "reject"}
+{"doc_id": "te_00742", "decision": "reject"}
+{"doc_id": "te_00743", "decision": "accept", "fields": {"Last_name_ru": "ДАВЛЯТЧЕНКО", "First_name_ru": "ЛАВРЕНТИЙ", "Middle_name_ru": "КУНДЕТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.11.1969", "Birth_place_ru": "П. СИБИРЯК ЧЕРЕПАНОВСКОГО Р-НА НОВОСИБИРСКОЙ ОБЛ.", "Issue_date": "15.03.2015", "Issue_organisation_code": "530-006", "Licence_number": "49 12 174273", "Issue_organization_ru": "ОТДЕЛЕНИЕ В ВАЛДАЙСКОМ Р-НЕ МЕЖРАЙОННОГО ОТДЕЛА №4 УФМС РОССИИ ПО НОВГОРОДСКОЙ ОБЛ."}}
+{"doc_id": "te_00744", "decision": "reject"}
+{"doc_id": "te_00745", "decision": "reject"}
+{"doc_id": "te_00746", "decision": "reject"}
+{"doc_id": "te_00747", "decision": "accept", "fields": {"Last_name_ru": "КУЛЬПИН", "First_name_ru": "МАХМУД", "Middle_name_ru": "МИНЛИБАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "20.03.1994", "Birth_place_ru": "Д. ШУМИЛОВО ТЕЙКОВСКИЙ РАЙОН", "Issue_date": "30.11.2014", "Issue_organisation_code": "650-022", "Licence_number": "64 12 259409", "Issue_organization_ru": "ТП УФМС РОССИИ ПО САХАЛИНСКОЙ ОБЛАСТИ В УГЛЕГОРСКОМ РАЙОНЕ"}}
+{"doc_id": "te_00748", "decision": "reject"}
+{"doc_id": "te_00749", "decision": "reject"}
+{"doc_id": "te_00750", "decision": "reject"}
+{"doc_id": "te_00751", "decision": "reject"}
+{"doc_id": "te_00752", "decision": "reject"}
+{"doc_id": "te_00753", "decision": "reject"}
+{"doc_id": "te_00754", "decision": "reject"}
+{"doc_id": "te_00755", "decision": "reject"}
+{"doc_id": "te_00756", "decision": "reject"}
+{"doc_id": "te_00757", "decision": "reject"}
+{"doc_id": "te_00758", "decision": "reject"}
+{"doc_id": "te_00759", "decision": "reject"}
+{"doc_id": "te_00760", "decision": "accept", "fields": {"Last_name_ru": "МАТУХИНА", "First_name_ru": "НУРИКАМАЛ", "Middle_name_ru": "ВАКИФОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.12.1997", "Birth_place_ru": "С.КАРАН-КУНКАС МИЯКИНСКОГО РАЙОНА", "Issue_date": "26.03.2018", "Issue_organisation_code": "020-026", "Licence_number": "80 16 925357", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ БАШКОРТОСТАН В Г. УЧАЛЫ"}}
+{"doc_id": "te_00761", "decision": "reject"}
+{"doc_id": "te_00762", "decision": "reject"}
+{"doc_id": "te_00763", "decision": "reject"}
+{"doc_id": "te_00764", "decision": "accept", "fields": {"Last_name_ru": "МАКАРОВСКИХ", "First_name_ru": "ХАБАС", "Middle_name_ru": "ХУЗЯКАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "19.10.1968", "Birth_place_ru": "ПГТ. НИКЕЛЬ ПЕЧЕНГСКОГО Р-НА МУРМАНСКОЙ ОБЛ.", "Issue_date": "24.03.2014", "Issue_organisation_code": "230-043", "Licence_number": "03 12 758992", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ В ПГТ. МОСТОВСКОЙ"}}
+{"doc_id": "te_00765", "decision": "accept", "fields": {"Last_name_ru": "БЕГЛОРЬЯН", "First_name_ru": "ЯРАГИ", "Middle_name_ru": "ИРЕКОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.12.2002", "Birth_place_ru": "С.КУТЕЕВКА БЕЛИНСКОГО Р-НА ПЕНЗЕНСКОЙ ОБЛ.", "Issue_date": "23.04.2023", "Issue_organisation_code": "510-024", "Licence_number": "47 22 297644", "Issue_organization_ru": "УМВД РОССИИ ПО МУРМАНСКОЙ ОБЛ"}}
+{"doc_id": "te_00766", "decision": "reject"}
+{"doc_id": "te_00767", "decision": "reject"}
+{"doc_id": "te_00768", "decision": "reject"}
+{"doc_id": "te_00769", "decision": "accept", "fields": {"Last_name_ru": "ГАЧИНА", "First_name_ru": "ТАМАРА", "Middle_name_ru": "МИНЛИКАЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.09.1956", "Birth_place_ru": "Г. УСТЬ-ДЖЕГУТА КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСП.", "Issue_date": "25.06.2002", "Issue_organisation_code": "863-008", "Licence_number": "67 01 317047", "Issue_organization_ru": "ИЗЛУЧИНСКИЙ ПОМ НИЖНЕВАРТОВСКОГО Р-НА ХАНТЫ-МАНСИЙСКОГО АО ТЮМЕНСКОЙ ОБЛ."}}
+{"doc_id": "te_00770", "decision": "accept", "fields": {"Last_name_ru": "КАДИЛОВА", "First_name_ru": "МИННИРА", "Middle_name_ru": "ШАФФНГУЛЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "14.11.1991", "Birth_place_ru": "С. ОКТЯБРЬСКОЕ ОРЕНБУРГСКАЯ ОБЛ.", "Issue_date": "19.05.2012", "Issue_organisation_code": "570-431", "Licence_number": "54 11 745436", "Issue_organization_ru": "УФМС РОССИИ ПО ОРЛОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_00771", "decision": "reject"}
+{"doc_id": "te_00772", "decision": "reject"}
+{"doc_id": "te_00773", "decision": "reject"}
+{"doc_id": "te_00774", "decision": "reject"}
+{"doc_id": "te_00775", "decision": "reject"}
+{"doc_id": "te_00776", "decision": "reject"}
+{"doc_id": "te_00777", "decision": "reject"}
+{"doc_id": "te_00778", "decision": "reject"}
+{"doc_id": "te_00779", "decision": "accept", "fields": {"Last_name_ru": "СЕЛИШЕВ", "First_name_ru": "СИДОР", "Middle_name_ru": "ЗАЙВЕЛЬЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "14.04.1998", "Birth_place_ru": "Г. БЕЛОВО КЕМЕРОВСКОЙ ОБЛ.", "Issue_date": "30.01.2019", "Issue_organisation_code": "230-005", "Licence_number": "03 18 737017", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ"}}
+{"doc_id": "te_00780", "decision": "reject"}
+{"doc_id": "te_00781", "decision": "reject"}
+{"doc_id": "te_00782", "decision": "reject"}
+{"doc_id": "te_00783", "decision": "reject"}
+{"doc_id": "te_00784", "decision": "accept", "fields": {"Last_name_ru": "ВАСТУЛОВ", "First_name_ru": "САТИПБАЙ", "Middle_name_ru": "ШАМИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "19.07.1989", "Birth_place_ru": "С.ДОЛГОДЕРЕВЕНСКОЕ СОСНОВСКИЙ Р-Н", "Issue_date": "13.09.2009", "Issue_organisation_code": "610-050", "Licence_number": "60 08 650880", "Issue_organization_ru": "ОТД. В П. КАМЕНОЛОМНИ МО УФМС РОССИИ ПО РОСТОВСКОЙ ОБЛ. В Г. АКСАЕ"}}
+{"doc_id": "te_00785", "decision": "reject"}
+{"doc_id": "te_00786", "decision": "reject"}
+{"doc_id": "te_00787", "decision": "reject"}
+{"doc_id": "te_00788", "decision": "reject"}
+{"doc_id": "te_00789", "decision": "reject"}
+{"doc_id": "te_00790", "decision": "reject"}
+{"doc_id": "te_00791", "decision": "reject"}
+{"doc_id": "te_00792", "decision": "reject"}
+{"doc_id": "te_00793", "decision": "reject"}
+{"doc_id": "te_00794", "decision": "reject"}
+{"doc_id": "te_00795", "decision": "reject"}
+{"doc_id": "te_00796", "decision": "reject"}
+{"doc_id": "te_00797", "decision": "reject"}
+{"doc_id": "te_00798", "decision": "accept", "fields": {"Last_name_ru": "БРОЩАН", "First_name_ru": "МАРЕТА", "Middle_name_ru": "МУСАВИРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.09.1976", "Birth_place_ru": "Г.ПРОКОПЬЕВСК КЕМЕРОВСКАЯ ОБЛАСТЬ", "Issue_date": "30.09.2021", "Issue_organisation_code": "500-050", "Licence_number": "46 19 411221", "Issue_organization_ru": "ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_00799", "decision": "reject"}
+{"doc_id": "te_00800", "decision": "reject"}
+{"doc_id": "te_00801", "decision": "reject"}
+{"doc_id": "te_00802", "decision": "reject"}
+{"doc_id": "te_00803", "decision": "reject"}
+{"doc_id": "te_00804", "decision": "reject"}
+{"doc_id": "te_00805", "decision": "reject"}
+{"doc_id": "te_00806", "decision": "reject"}
+{"doc_id": "te_00807", "decision": "accept", "fields": {"Last_name_ru": "МИЗИНКОВА", "First_name_ru": "АРФЕНИК", "Middle_name_ru": "АГРИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.05.1985", "Birth_place_ru": "С. УЛОМА ВОЛОГОДСКАЯ ОБЛ.", "Issue_date": "13.02.2006", "Issue_organisation_code": "390-022", "Licence_number": "27 03 753281", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО КАЛИНИНГРАДСКОЙ ОБЛ. СВЕТЛОВСКОГО ГОРОДСКОГО ОКРУГА"}}
+{"doc_id": "te_00808", "decision": "accept", "fields": {"Last_name_ru": "МАЦЬКОВА", "First_name_ru": "ЭЛЕОНОРА", "Middle_name_ru": "САФЕТДИНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "07.07.1962", "Birth_place_ru": "Д. УЙСКО-ЧЕБАРКУЛЬСКАЯ ОКТЯБРЬСКОГО РАЙОНА ЧЕЛЯБИНСКОЙ ОБЛАСТИ", "Issue_date": "11.12.2007", "Issue_organisation_code": "610-041", "Licence_number": "60 04 376935", "Issue_organization_ru": "МП В СЛ. БОЛЬШАЯ МАРТЫНОВКА МО УФМС РОССИИ ПО РОСТОВСКОЙ ОБЛАСТИ В Р.П. УСТЬ-ДОНЕЦКИЙ"}}
+{"doc_id": "te_00809", "decision": "reject"}
+{"doc_id": "te_00810", "decision": "accept", "fields": {"Last_name_ru": "ЗОТТЕР", "First_name_ru": "ГЕЛИЧ", "Middle_name_ru": "ЕГАНШРВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.09.1960", "Birth_place_ru": "ДЕРЕВНЯ АВЛАШ ТУКАЕВСКИЙ Р-Н ТАТАРСТАН", "Issue_date": "26.05.2006", "Issue_organisation_code": "260-024", "Licence_number": "07 06 421087", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО СТАВРОПОЛЬСКОМУ КРАЮ В НОВОАЛЕКСАНДРОВСКОМ РАЙОНЕ (С МЕСТОМ ДИСЛОКАЦИИ В Г.НОВОАЛЕКСАНДРОВСК)"}}
+{"doc_id": "te_00811", "decision": "reject"}
+{"doc_id": "te_00812", "decision": "reject"}
+{"doc_id": "te_00813", "decision": "reject"}
+{"doc_id": "te_00814", "decision": "reject"}
+{"doc_id": "te_00815", "decision": "reject"}
+{"doc_id": "te_00816", "decision": "reject"}
+{"doc_id": "te_00817", "decision": "reject"}
+{"doc_id": "te_00818", "decision": "reject"}
+{"doc_id": "te_00819", "decision": "reject"}
+{"doc_id": "te_00820", "decision": "reject"}
+{"doc_id": "te_00821", "decision": "reject"}
+{"doc_id": "te_00822", "decision": "reject"}
+{"doc_id": "te_00823", "decision": "reject"}
+{"doc_id": "te_00824", "decision": "reject"}
+{"doc_id": "te_00825", "decision": "reject"}
+{"doc_id": "te_00826", "decision": "reject"}
+{"doc_id": "te_00827", "decision": "reject"}
+{"doc_id": "te_00828", "decision": "reject"}
+{"doc_id": "te_00829", "decision": "reject"}
+{"doc_id": "te_00830", "decision": "reject"}
+{"doc_id": "te_00831", "decision": "reject"}
+{"doc_id": "te_00832", "decision": "accept", "fields": {"Last_name_ru": "КОСТИН", "First_name_ru": "ГАРИФУЛЛА", "Middle_name_ru": "АНФИРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "23.08.2005", "Birth_place_ru": "ПОС. НИЖНЕГОРСКИЙ КИНЕЛЬ-ЧЕРКАССКОГО Р-НА", "Issue_date": "06.04.2026", "Issue_organisation_code": "650-003", "Licence_number": "64 24 815320", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО САХАЛИНСКОЙ ОБЛ В АЛЕКСАНДРОВСК-САХАЛИНСКОМ Р-НЕ"}}
+{"doc_id": "te_00833", "decision": "reject"}
+{"doc_id": "te_00834", "decision": "accept", "fields": {"Last_name_ru": "НГАЕВА", "First_name_ru": "МУЗАЛЛАФА", "Middle_name_ru": "МУСИНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "18.10.1956", "Birth_place_ru": "Г.ЛЮБИМ ЯРОСЛАВСКОЙ ОБЛАСТИ", "Issue_date": "28.06.2002", "Issue_organisation_code": "582-027", "Licence_number": "56 01 446100", "Issue_organization_ru": "НЕВЕРКИНСКИЙ РОВД ПЕНЗЕНСКОЙ ОБЛ."}}
+{"doc_id": "te_00835", "decision": "reject"}
+{"doc_id": "te_00836", "decision": "accept", "fields": {"Last_name_ru": "НЕЛЮБИНА", "First_name_ru": "АЙГУЛБ", "Middle_name_ru": "ИЛЬМИРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "02.10.1978", "Birth_place_ru": "С.ОЗЕРНОЕ КОЛПАШЕВСКИЙ Р-Н ТОМСКАЯ ОБЛ.", "Issue_date": "19.01.2024", "Issue_organisation_code": "860-010", "Licence_number": "67 23 071230", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ХАНТЫ-МАНСИЙСКОМУ АО - ЮГРЕ В ПОС. НИЖНЕСОРТЫМСКИЙ"}}
+{"doc_id": "te_00837", "decision": "accept", "fields": {"Last_name_ru": "ДАВИДЕНЯ", "First_name_ru": "АГРАФЕНА", "Middle_name_ru": "ХАТЯМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "28.01.1988", "Birth_place_ru": "С. ТРИСАНЧИ ДАХАДАЕВСКОГО Р-НА ДАГЕСТАН", "Issue_date": "05.08.2008", "Issue_organisation_code": "750-027", "Licence_number": "76 07 003439", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ЗАБАЙКАЛЬСКОМУ КРАЮ В ОНОНСКОМ Р-НЕ"}}
+{"doc_id": "te_00838", "decision": "reject"}
+{"doc_id": "te_00839", "decision": "reject"}
+{"doc_id": "te_00840", "decision": "accept", "fields": {"Last_name_ru": "ВАЛЕНТЬЕВ", "First_name_ru": "ИЛКИН", "Middle_name_ru": "РИНЧИНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "02.06.1975", "Birth_place_ru": "С.МАККАВЕЕВО ЧИТИНСКОГО Р-НА ЗАБАЙКАЛЬСКОГО КР.", "Issue_date": "19.11.2020", "Issue_organisation_code": "360-022", "Licence_number": "20 19 318804", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ"}}
+{"doc_id": "te_00841", "decision": "reject"}
+{"doc_id": "te_00842", "decision": "reject"}
+{"doc_id": "te_00843", "decision": "reject"}
+{"doc_id": "te_00844", "decision": "reject"}
+{"doc_id": "te_00845", "decision": "reject"}
+{"doc_id": "te_00846", "decision": "reject"}
+{"doc_id": "te_00847", "decision": "reject"}
+{"doc_id": "te_00848", "decision": "reject"}
+{"doc_id": "te_00849", "decision": "reject"}
+{"doc_id": "te_00850", "decision": "reject"}
+{"doc_id": "te_00851", "decision": "reject"}
+{"doc_id": "te_00852", "decision": "reject"}
+{"doc_id": "te_00853", "decision": "reject"}
+{"doc_id": "te_00854", "decision": "reject"}
+{"doc_id": "te_00855", "decision": "reject"}
+{"doc_id": "te_00856", "decision": "reject"}
+{"doc_id": "te_00857", "decision": "reject"}
+{"doc_id": "te_00858", "decision": "reject"}
+{"doc_id": "te_00859", "decision": "accept", "fields": {"Last_name_ru": "ПОЧАРОВА", "First_name_ru": "МИНИГЭЛЬ", "Middle_name_ru": "РМИЛЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "14.08.1960", "Birth_place_ru": "ГОР. ОРСК ОРЕНБУРГСКОЙ ОБЛ.", "Issue_date": "29.01.2006", "Issue_organisation_code": "610-056", "Licence_number": "60 05 251585", "Issue_organization_ru": "ОУФМС РОССИИ ПО РОСТОВСКОЙ ОБЛ. В Г. САЛЬСКЕ"}}
+{"doc_id": "te_00860", "decision": "reject"}
+{"doc_id": "te_00861", "decision": "reject"}
+{"doc_id": "te_00862", "decision": "reject"}
+{"doc_id": "te_00863", "decision": "reject"}
+{"doc_id": "te_00864", "decision": "reject"}
+{"doc_id": "te_00865", "decision": "reject"}
+{"doc_id": "te_00866", "decision": "reject"}
+{"doc_id": "te_00867", "decision": "reject"}
+{"doc_id": "te_00868", "decision": "reject"}
+{"doc_id": "te_00869", "decision": "accept", "fields": {"Last_name_ru": "ЖИВОТИНА", "First_name_ru": "ТАИТЬЯНА", "Middle_name_ru": "МИНИВАСИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "14.06.1955", "Birth_place_ru": "С. УЗКИЙ ЛУГ ИРКУТСКОЙ ОБЛАСТИ", "Issue_date": "19.09.2000", "Issue_organisation_code": "412-005", "Licence_number": "30 97 598426", "Issue_organization_ru": "ОВД ЕЛИЗОВСКОГО РАЙОННОГО МО КАМЧАТСКОЙ ОБЛ."}}
+{"doc_id": "te_00870", "decision": "reject"}
+{"doc_id": "te_00871", "decision": "reject"}
+{"doc_id": "te_00872", "decision": "reject"}
+{"doc_id": "te_00873", "decision": "reject"}
+{"doc_id": "te_00874", "decision": "reject"}
+{"doc_id": "te_00875", "decision": "reject"}
+{"doc_id": "te_00876", "decision": "reject"}
+{"doc_id": "te_00877", "decision": "reject"}
+{"doc_id": "te_00878", "decision": "reject"}
+{"doc_id": "te_00879", "decision": "reject"}
+{"doc_id": "te_00880", "decision": "reject"}
+{"doc_id": "te_00881", "decision": "reject"}
+{"doc_id": "te_00882", "decision": "reject"}
+{"doc_id": "te_00883", "decision": "reject"}
+{"doc_id": "te_00884", "decision": "accept", "fields": {"Last_name_ru": "ИДЕЛЬБЕКОВ", "First_name_ru": "МИНИХАДИ", "Middle_name_ru": "ВИРТОРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "10.03.1982", "Birth_place_ru": "Д.ЛОСЕВО КИМРСКОГО Р-НА ТВЕРСКОЙ ОБЛ.", "Issue_date": "10.11.2002", "Issue_organisation_code": "372-002", "Licence_number": "24 00 021805", "Issue_organization_ru": "ОВД ФРУНЗЕНСКОГО РАЙОНА Г. ИВАНОВО"}}
+{"doc_id": "te_00885", "decision": "reject"}
+{"doc_id": "te_00886", "decision": "reject"}
+{"doc_id": "te_00887", "decision": "reject"}
+{"doc_id": "te_00888", "decision": "reject"}
+{"doc_id": "te_00889", "decision": "reject"}
+{"doc_id": "te_00890", "decision": "reject"}
+{"doc_id": "te_00891", "decision": "reject"}
+{"doc_id": "te_00892", "decision": "reject"}
+{"doc_id": "te_00893", "decision": "reject"}
+{"doc_id": "te_00894", "decision": "reject"}
+{"doc_id": "te_00895", "decision": "reject"}
+{"doc_id": "te_00896", "decision": "reject"}
+{"doc_id": "te_00897", "decision": "reject"}
+{"doc_id": "te_00898", "decision": "reject"}
+{"doc_id": "te_00899", "decision": "reject"}
+{"doc_id": "te_00900", "decision": "reject"}
+{"doc_id": "te_00901", "decision": "accept", "fields": {"Last_name_ru": "КОЛПАКОВСКИЙ", "First_name_ru": "НАЗАРБЕК", "Middle_name_ru": "РАМИЛЬЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "14.11.1954", "Birth_place_ru": "ГОРОД ТАРА ОМСКОЙ ОБЛ.", "Issue_date": "10.09.2000", "Issue_organisation_code": "612-017", "Licence_number": "60 99 231077", "Issue_organization_ru": "ОВД Г. ГУКОВО РОСТОВСКОЙ ОБЛ."}}
+{"doc_id": "te_00902", "decision": "accept", "fields": {"Last_name_ru": "ГАФЕТДИНОВА", "First_name_ru": "ЛЕНИАДА", "Middle_name_ru": "ГАВРИИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.03.1962", "Birth_place_ru": "Г. МАКЕЕВКА УКРАИНСКАЯ ССР", "Issue_date": "09.06.2007", "Issue_organisation_code": "100-012", "Licence_number": "86 05 957993", "Issue_organization_ru": "МИГРАЦИОННЫЙ ПУНКТ УФМС РОССИИ ПО РЕСПУБЛИКЕ КАРЕЛИЯ В ОЛОНЕЦКОМ РАЙОНЕ"}}
+{"doc_id": "te_00903", "decision": "accept", "fields": {"Last_name_ru": "ПОЛЬЯНОВСКАЯ", "First_name_ru": "ИРИНЬЯ", "Middle_name_ru": "ЮЗИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.05.1995", "Birth_place_ru": "Д. БАНЬКОВО ЛУЖСКОГО Р-НА ЛЕНИНГРАДСКОЙ ОБЛ.", "Issue_date": "27.06.2015", "Issue_organisation_code": "540-009", "Licence_number": "50 15 647021", "Issue_organization_ru": "ОУФМС РОССИИ ПО НОВОСИБИРСКОЙ ОБЛ. В ПЕРВОМАЙСКОМ Р-НЕ"}}
+{"doc_id": "te_00904", "decision": "reject"}
+{"doc_id": "te_00905", "decision": "reject"}
+{"doc_id": "te_00906", "decision": "reject"}
+{"doc_id": "te_00907", "decision": "reject"}
+{"doc_id": "te_00908", "decision": "reject"}
+{"doc_id": "te_00909", "decision": "reject"}
+{"doc_id": "te_00910", "decision": "reject"}
+{"doc_id": "te_00911", "decision": "reject"}
+{"doc_id": "te_00912", "decision": "reject"}
+{"doc_id": "te_00913", "decision": "reject"}
+{"doc_id": "te_00914", "decision": "reject"}
+{"doc_id": "te_00915", "decision": "reject"}
+{"doc_id": "te_00916", "decision": "reject"}
+{"doc_id": "te_00917", "decision": "reject"}
+{"doc_id": "te_00918", "decision": "reject"}
+{"doc_id": "te_00919", "decision": "reject"}
+{"doc_id": "te_00920", "decision": "reject"}
+{"doc_id": "te_00921", "decision": "reject"}
+{"doc_id": "te_00922", "decision": "reject"}
+{"doc_id": "te_00923", "decision": "reject"}
+{"doc_id": "te_00924", "decision": "reject"}
+{"doc_id": "te_00925", "decision": "reject"}
+{"doc_id": "te_00926", "decision": "reject"}
+{"doc_id": "te_00927", "decision": "reject"}
+{"doc_id": "te_00928", "decision": "reject"}
+{"doc_id": "te_00929", "decision": "reject"}
+{"doc_id": "te_00930", "decision": "reject"}
+{"doc_id": "te_00931", "decision": "accept", "fields": {"Last_name_ru": "БЕЛОГРАДСКАЯ", "First_name_ru": "ОЛЕСЯ", "Middle_name_ru": "ФАНАИСОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "24.08.1988", "Birth_place_ru": "ГОР. ГОРЛОВКА УКРАИНСКАЯ ССР", "Issue_date": "11.02.2009", "Issue_organisation_code": "770-004", "Licence_number": "45 08 542853", "Issue_organization_ru": "ОТДЕЛЕНИЕ ПО РАЙОНУ БАСМАННЫЙ ОУФМС РОССИИ ПО ГОР.МОСКВЕ В ЦАО"}}
+{"doc_id": "te_00932", "decision": "reject"}
+{"doc_id": "te_00933", "decision": "reject"}
+{"doc_id": "te_00934", "decision": "reject"}
+{"doc_id": "te_00935", "decision": "reject"}
+{"doc_id": "te_00936", "decision": "accept", "fields": {"Last_name_ru": "ИБАДУЛЛА-ЗАДЕ", "First_name_ru": "АНТОНИРА", "Middle_name_ru": "КАШАФОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "21.09.1972", "Birth_place_ru": "П. СУЗЕМКА СУЗЕМСКИЙ Р-Н БРЯНСКАЯ ОБЛ.", "Issue_date": "30.03.2018", "Issue_organisation_code": "400-032", "Licence_number": "29 15 067086", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО КАЛУЖСКОЙ ОБЛАСТИ В Г. КИРОВЕ"}}
+{"doc_id": "te_00937", "decision": "accept", "fields": {"Last_name_ru": "СТУЙТ", "First_name_ru": "МАРИЯ", "Middle_name_ru": "НАРБАЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.01.1994", "Birth_place_ru": "ДЕР. КОЗЛОВО ШАХОВСКОГО Р-НА МОСКОВСКОЙ ОБЛ.", "Issue_date": "18.11.2014", "Issue_organisation_code": "400-031", "Licence_number": "29 13 792305", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО КАЛУЖСКОЙ ОБЛАСТИ В Г. КАЛУГЕ"}}
+{"doc_id": "te_00938", "decision": "reject"}
+{"doc_id": "te_00939", "decision": "reject"}
+{"doc_id": "te_00940", "decision": "reject"}
+{"doc_id": "te_00941", "decision": "reject"}
+{"doc_id": "te_00942", "decision": "reject"}
+{"doc_id": "te_00943", "decision": "reject"}
+{"doc_id": "te_00944", "decision": "reject"}
+{"doc_id": "te_00945", "decision": "reject"}
+{"doc_id": "te_00946", "decision": "accept", "fields": {"Last_name_ru": "СЕНОЖАТСКАЯ", "First_name_ru": "НАТАЛДЬЯ", "Middle_name_ru": "БАЯЗИТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "24.06.2008", "Birth_place_ru": "ДЕР.ШАДРИНО ВОСКРЕСЕНСКОГО Р-НА НИЖЕГОРОДСКОЙ ОБЛ.", "Issue_date": "21.07.2022", "Issue_organisation_code": "270-028", "Licence_number": "08 21 110985", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ХАБАРОВСКОМУ КРАЮ В РАЙОНЕ ИМ. П. ОСИПЕНКО"}}
+{"doc_id": "te_00947", "decision": "reject"}
+{"doc_id": "te_00948", "decision": "reject"}
+{"doc_id": "te_00949", "decision": "accept", "fields": {"Last_name_ru": "САДОЛЬСКИЙ", "First_name_ru": "НАРИУЛЛА", "Middle_name_ru": "ИЛЬИЧ", "Sex_ru": "МУЖ.", "Birth_date": "22.02.1966", "Birth_place_ru": "Г. КАМЕНСКОЕ УКРАИНСКАЯ ССР", "Issue_date": "04.04.2011", "Issue_organisation_code": "610-045", "Licence_number": "60 08 085181", "Issue_organization_ru": "МЕЖРАЙОННЫЙ ОТДЕЛ УФМС РОССИИ ПО РОСТОВСКОЙ ОБЛ. В Г. МОРОЗОВСКЕ"}}
+{"doc_id": "te_00950", "decision": "reject"}
+{"doc_id": "te_00951", "decision": "accept", "fields": {"Last_name_ru": "МОТАЛИН", "First_name_ru": "АБЕЛКАРАМ", "Middle_name_ru": "НАФИЛЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "08.11.1971", "Birth_place_ru": "С. НОВЫЙ ДРОКОВ СУРАЖСКИЙ Р-Н БРЯНСКАЯ ОБЛ.", "Issue_date": "01.02.2017", "Issue_organisation_code": "070-000", "Licence_number": "83 14 857615", "Issue_organization_ru": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСПУБЛИКЕ"}}
+{"doc_id": "te_00952", "decision": "reject"}
+{"doc_id": "te_00953", "decision": "reject"}
+{"doc_id": "te_00954", "decision": "reject"}
+{"doc_id": "te_00955", "decision": "accept", "fields": {"Last_name_ru": "ОСОКА", "First_name_ru": "ФАЛИЯ", "Middle_name_ru": "ШМИДОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "31.08.1978", "Birth_place_ru": "ДЕР. ШИЛОВО РАМЕНСКОГО Р-НА МОСКОВСКОЙ ОБЛ.", "Issue_date": "29.09.2023", "Issue_organisation_code": "560-002", "Licence_number": "53 22 464041", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ОРЕНБУРГСКОЙ ОБЛ В ЛЕНИНСКОМ Р-НЕ Г.ОРЕНБУРГА"}}
+{"doc_id": "te_00956", "decision": "accept", "fields": {"Last_name_ru": "АРКАННИКОВ", "First_name_ru": "ГАБДУЛЗЯДИТ", "Middle_name_ru": "МИРАСЛАВАВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "01.05.1958", "Birth_place_ru": "Д. САБУРОВО КРАСНОГОРСКИЙ Р-Н МОСКОВСКАЯ ОБЛ.", "Issue_date": "30.11.2003", "Issue_organisation_code": "692-015", "Licence_number": "28 00 529359", "Issue_organization_ru": "КАШИНСКИЙ ОВД ТВЕРСКОЙ ОБЛ."}}
+{"doc_id": "te_00957", "decision": "reject"}
+{"doc_id": "te_00958", "decision": "accept", "fields": {"Last_name_ru": "СОБАКИНСКИХ", "First_name_ru": "НАХУПШ", "Middle_name_ru": "АБДУЛА ОГЛЫ", "Sex_ru": "МУЖ.", "Birth_date": "18.04.1958", "Birth_place_ru": "СЕЛО КОРОВИНО БУГУРУСЛАНСКОГО Р-НА", "Issue_date": "05.12.2003", "Issue_organisation_code": "772-121", "Licence_number": "45 02 998847", "Issue_organization_ru": "ОВД ЗАМОСКВОРЕЧЬЕ ПС №2 УВД ЦАО Г. МОСКВЫ"}}
+{"doc_id": "te_00959", "decision": "reject"}
+{"doc_id": "te_00960", "decision": "accept", "fields": {"Last_name_ru": "ШИКАЛЬСКИЙ", "First_name_ru": "ЗАНДАН", "Middle_name_ru": "ГЕРДЕНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "30.08.1974", "Birth_place_ru": "ПГТ ШАБЛЫКИНО ШАБЛЫКИНСКИЙ Р-Н", "Issue_date": "13.05.2020", "Issue_organisation_code": "780-106", "Licence_number": "40 18 110379", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ"}}
+{"doc_id": "te_00961", "decision": "reject"}
+{"doc_id": "te_00962", "decision": "reject"}
+{"doc_id": "te_00963", "decision": "reject"}
+{"doc_id": "te_00964", "decision": "reject"}
+{"doc_id": "te_00965", "decision": "reject"}
+{"doc_id": "te_00966", "decision": "reject"}
+{"doc_id": "te_00967", "decision": "reject"}
+{"doc_id": "te_00968", "decision": "reject"}
+{"doc_id": "te_00969", "decision": "reject"}
+{"doc_id": "te_00970", "decision": "reject"}
+{"doc_id": "te_00971", "decision": "reject"}
+{"doc_id": "te_00972", "decision": "reject"}
+{"doc_id": "te_00973", "decision": "reject"}
+{"doc_id": "te_00974", "decision": "reject"}
+{"doc_id": "te_00975", "decision": "reject"}
+{"doc_id": "te_00976", "decision": "reject"}
+{"doc_id": "te_00977", "decision": "reject"}
+{"doc_id": "te_00978", "decision": "reject"}
+{"doc_id": "te_00979", "decision": "reject"}
+{"doc_id": "te_00980", "decision": "reject"}
+{"doc_id": "te_00981", "decision": "reject"}
+{"doc_id": "te_00982", "decision": "reject"}
+{"doc_id": "te_00983", "decision": "reject"}
+{"doc_id": "te_00984", "decision": "reject"}
+{"doc_id": "te_00985", "decision": "reject"}
+{"doc_id": "te_00986", "decision": "reject"}
+{"doc_id": "te_00987", "decision": "reject"}
+{"doc_id": "te_00988", "decision": "reject"}
+{"doc_id": "te_00989", "decision": "reject"}
+{"doc_id": "te_00990", "decision": "reject"}
+{"doc_id": "te_00991", "decision": "reject"}
+{"doc_id": "te_00992", "decision": "reject"}
+{"doc_id": "te_00993", "decision": "reject"}
+{"doc_id": "te_00994", "decision": "reject"}
+{"doc_id": "te_00995", "decision": "reject"}
+{"doc_id": "te_00996", "decision": "reject"}
+{"doc_id": "te_00997", "decision": "reject"}
+{"doc_id": "te_00998", "decision": "reject"}
+{"doc_id": "te_00999", "decision": "reject"}
+{"doc_id": "te_01000", "decision": "reject"}
+{"doc_id": "te_01001", "decision": "reject"}
+{"doc_id": "te_01002", "decision": "accept", "fields": {"Last_name_ru": "КИСЕЛЬ-ЗАГОРЯНСКАЯ", "First_name_ru": "ФИРДАУСА", "Middle_name_ru": "ИМАШ КЫЗЫ", "Sex_ru": "ЖЕН.", "Birth_date": "23.07.1957", "Birth_place_ru": "СТАНИЦА УСПЕНСКАЯ БЕЛОГЛИНСКИЙ Р-Н КРАСНОДАРСКИЙ КР.", "Issue_date": "10.10.2002", "Issue_organisation_code": "052-006", "Licence_number": "82 02 537514", "Issue_organization_ru": "ОВД Г. КАСПИЙСКА РЕСПУБЛИКИ ДАГЕСТАН"}}
+{"doc_id": "te_01003", "decision": "reject"}
+{"doc_id": "te_01004", "decision": "accept", "fields": {"Last_name_ru": "БРАГИНА", "First_name_ru": "ИСМАГЫЛЬ", "Middle_name_ru": "ФАТКИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.07.1971", "Birth_place_ru": "П. ИМ КАЛИНИНА МИЧУРИНСКИЙ Р-Н ТАМБОВСКАЯ ОБЛ.", "Issue_date": "19.04.2017", "Issue_organisation_code": "440-028", "Licence_number": "34 16 192980", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО КОСТРОМСКОЙ ОБЛАСТИ В Г. ШАРЬЯ И ШАРЬИНСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01005", "decision": "reject"}
+{"doc_id": "te_01006", "decision": "reject"}
+{"doc_id": "te_01007", "decision": "reject"}
+{"doc_id": "te_01008", "decision": "accept", "fields": {"Last_name_ru": "БУКАЧ", "First_name_ru": "ИЛЬМИРА", "Middle_name_ru": "ФАИЗЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.08.1952", "Birth_place_ru": "С. УСТЬ-КУРДЮМ САРАТОВСКОГО Р-НА САРАТОВСКОЙ ОБЛ.", "Issue_date": "10.04.1998", "Issue_organisation_code": "772-143", "Licence_number": "45 97 807064", "Issue_organization_ru": "ОВД ЗЮЗИНО ПС № 2 УВД ЮЗАО Г. МОСКВЫ"}}
+{"doc_id": "te_01009", "decision": "reject"}
+{"doc_id": "te_01010", "decision": "reject"}
+{"doc_id": "te_01011", "decision": "reject"}
+{"doc_id": "te_01012", "decision": "reject"}
+{"doc_id": "te_01013", "decision": "accept", "fields": {"Last_name_ru": "СКИДАНЧУК", "First_name_ru": "НАДЕЖДА", "Middle_name_ru": "РАФИГОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "14.04.1986", "Birth_place_ru": "Г. ЛИПЕЦК ЛИПЕЦКОЙ ОБЛ.", "Issue_date": "20.08.2006", "Issue_organisation_code": "852-006", "Licence_number": "62 06 909567", "Issue_organization_ru": "ОВД ЭХИРИТ-БУЛАГАТСКОГО Р-НА УСТЬ-ОРДЫНСКОГО БУРЯТСКОГО АО"}}
+{"doc_id": "te_01014", "decision": "reject"}
+{"doc_id": "te_01015", "decision": "reject"}
+{"doc_id": "te_01016", "decision": "reject"}
+{"doc_id": "te_01017", "decision": "reject"}
+{"doc_id": "te_01018", "decision": "reject"}
+{"doc_id": "te_01019", "decision": "reject"}
+{"doc_id": "te_01020", "decision": "reject"}
+{"doc_id": "te_01021", "decision": "reject"}
+{"doc_id": "te_01022", "decision": "reject"}
+{"doc_id": "te_01023", "decision": "reject"}
+{"doc_id": "te_01024", "decision": "reject"}
+{"doc_id": "te_01025", "decision": "reject"}
+{"doc_id": "te_01026", "decision": "reject"}
+{"doc_id": "te_01027", "decision": "reject"}
+{"doc_id": "te_01028", "decision": "reject"}
+{"doc_id": "te_01029", "decision": "reject"}
+{"doc_id": "te_01030", "decision": "accept", "fields": {"Last_name_ru": "БУКУРОВ", "First_name_ru": "НАЗМИЙ", "Middle_name_ru": "АЛАУДИНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.09.1989", "Birth_place_ru": "Д. БУРАНГУЛОВО БАШКОРТОСТАН", "Issue_date": "14.01.2010", "Issue_organisation_code": "180-022", "Licence_number": "94 09 024825", "Issue_organization_ru": "ТП В С. КИЯСОВО МО УФМС РОССИИ ПО УДМУРТСКОЙ РЕСПУБЛИКЕ В Г. САРАПУЛЕ"}}
+{"doc_id": "te_01031", "decision": "reject"}
+{"doc_id": "te_01032", "decision": "reject"}
+{"doc_id": "te_01033", "decision": "reject"}
+{"doc_id": "te_01034", "decision": "reject"}
+{"doc_id": "te_01035", "decision": "accept", "fields": {"Last_name_ru": "БЛИЖЕНСКИХ", "First_name_ru": "АШЫКВЕЛИ", "Middle_name_ru": "ВИТАЛИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.05.1969", "Birth_place_ru": "С. ЧУРАПЧА ЧУРАПЧИНСКОГО РАЙОНА САХА (ЯКУТИЯ)", "Issue_date": "20.06.2014", "Issue_organisation_code": "780-111", "Licence_number": "40 14 527422", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ В ПЕТРОГРАДСКОМ РАЙОНЕ Г. САНКТ-ПЕТЕРБУРГА"}}
+{"doc_id": "te_01036", "decision": "reject"}
+{"doc_id": "te_01037", "decision": "reject"}
+{"doc_id": "te_01038", "decision": "reject"}
+{"doc_id": "te_01039", "decision": "reject"}
+{"doc_id": "te_01040", "decision": "reject"}
+{"doc_id": "te_01041", "decision": "reject"}
+{"doc_id": "te_01042", "decision": "reject"}
+{"doc_id": "te_01043", "decision": "reject"}
+{"doc_id": "te_01044", "decision": "accept", "fields": {"Last_name_ru": "НОРОВЯТКИНА", "First_name_ru": "НАТАЛЬЯ", "Middle_name_ru": "МИНЕНГАЗЫЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "11.03.1998", "Birth_place_ru": "Х. ПОПОВКА ВЕРХНЕДОНСКОЙ Р-Н РОСТОВСКАЯ ОБЛ.", "Issue_date": "10.06.2018", "Issue_organisation_code": "680-011", "Licence_number": "68 15 526810", "Issue_organization_ru": "УМВД РОССИИ ПО ТАМБОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01045", "decision": "reject"}
+{"doc_id": "te_01046", "decision": "reject"}
+{"doc_id": "te_01047", "decision": "accept", "fields": {"Last_name_ru": "МОГУТОВ", "First_name_ru": "ГАЙНИС", "Middle_name_ru": "БИГАЛИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "24.06.1954", "Birth_place_ru": "Г. ГЕОРГИЕВСК СТАВРОПОЛЬСКИЙ КРАЙ", "Issue_date": "05.10.1999", "Issue_organisation_code": "342-043", "Licence_number": "18 97 021963", "Issue_organization_ru": "ЧЕРНЫШКОВСКИЙ РОВД ВОЛГОГРАДСКОЙ ОБЛ."}}
+{"doc_id": "te_01048", "decision": "reject"}
+{"doc_id": "te_01049", "decision": "reject"}
+{"doc_id": "te_01050", "decision": "reject"}
+{"doc_id": "te_01051", "decision": "reject"}
+{"doc_id": "te_01052", "decision": "accept", "fields": {"Last_name_ru": "КЕРАШЕНКО", "First_name_ru": "ЕЛЕНА", "Middle_name_ru": "ФИЛОФЕЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "14.05.1965", "Birth_place_ru": "ГП МАЗУЛЬСКИЙ КРАСНОЯРСКИЙ КР.", "Issue_date": "15.09.2010", "Issue_organisation_code": "150-001", "Licence_number": "90 10 499321", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ ТРУДОВОЙ МИГРАЦИИ УФМС РОССИИ ПО РСО-АЛАНИЯ"}}
+{"doc_id": "te_01053", "decision": "reject"}
+{"doc_id": "te_01054", "decision": "reject"}
+{"doc_id": "te_01055", "decision": "reject"}
+{"doc_id": "te_01056", "decision": "reject"}
+{"doc_id": "te_01057", "decision": "reject"}
+{"doc_id": "te_01058", "decision": "reject"}
+{"doc_id": "te_01059", "decision": "reject"}
+{"doc_id": "te_01060", "decision": "reject"}
+{"doc_id": "te_01061", "decision": "reject"}
+{"doc_id": "te_01062", "decision": "reject"}
+{"doc_id": "te_01063", "decision": "reject"}
+{"doc_id": "te_01064", "decision": "reject"}
+{"doc_id": "te_01065", "decision": "reject"}
+{"doc_id": "te_01066", "decision": "reject"}
+{"doc_id": "te_01067", "decision": "reject"}
+{"doc_id": "te_01068", "decision": "accept", "fields": {"Last_name_ru": "ВОЙНЫЙ", "First_name_ru": "ГАРРЕГИН", "Middle_name_ru": "АХМЕТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "10.10.1991", "Birth_place_ru": "Д.БЕРЕЗОВЫЙ ОВРАГ СЕМЁНОВСКОГО Р-НА НИЖЕГОРОДСКОЙ ОБЛ.", "Issue_date": "18.10.2011", "Issue_organisation_code": "170-011", "Licence_number": "93 10 651127", "Issue_organization_ru": "МИГРАЦИОННЫЙ ПУНКТ ОФМС РОССИИ ПО РЕСПУБЛИКЕ ТЫВА В БАЙ-ТАЙГИНСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01069", "decision": "reject"}
+{"doc_id": "te_01070", "decision": "reject"}
+{"doc_id": "te_01071", "decision": "reject"}
+{"doc_id": "te_01072", "decision": "accept", "fields": {"Last_name_ru": "МУСТАФА-ЗАДЕ", "First_name_ru": "ЕВСТОЛИЯ", "Middle_name_ru": "СЕМЕНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "28.08.1998", "Birth_place_ru": "Д. ГАЛЬЦОВО КАРДЫМОВСКИЙ Р-Н СМОЛЕНСКАЯ ОБЛ.", "Issue_date": "05.04.2019", "Issue_organisation_code": "060-007", "Licence_number": "26 19 220857", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ ИНГУШЕТИЯ В ДЖЕЙРАХСКОМ Р-НЕ"}}
+{"doc_id": "te_01073", "decision": "reject"}
+{"doc_id": "te_01074", "decision": "reject"}
+{"doc_id": "te_01075", "decision": "reject"}
+{"doc_id": "te_01076", "decision": "reject"}
+{"doc_id": "te_01077", "decision": "reject"}
+{"doc_id": "te_01078", "decision": "reject"}
+{"doc_id": "te_01079", "decision": "reject"}
+{"doc_id": "te_01080", "decision": "reject"}
+{"doc_id": "te_01081", "decision": "reject"}
+{"doc_id": "te_01082", "decision": "reject"}
+{"doc_id": "te_01083", "decision": "accept", "fields": {"Last_name_ru": "МУХАМЕТЬЗЯНОВ", "First_name_ru": "МИННЕГАЛИЙ", "Middle_name_ru": "ВЯЧЕСЛВОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "04.07.1976", "Birth_place_ru": "ДЕР.РАСЛОВЛЕВО БЕЖЕЦКИЙ Р-Н ТВЕРСКАЯ ОБЛ.", "Issue_date": "29.03.2022", "Issue_organisation_code": "260-010", "Licence_number": "07 19 442090", "Issue_organization_ru": "ГУ МВД РОССИИ ПО СТАВРОПОЛЬСКОМУ КРАЮ"}}
+{"doc_id": "te_01084", "decision": "reject"}
+{"doc_id": "te_01085", "decision": "reject"}
+{"doc_id": "te_01086", "decision": "reject"}
+{"doc_id": "te_01087", "decision": "accept", "fields": {"Last_name_ru": "СНЕГУРСКАЯ", "First_name_ru": "ЗАДЕХ", "Middle_name_ru": "АНДРЕЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "21.09.1988", "Birth_place_ru": "ПОС. САДОВЫЙ ТАМБОВСКАЯ ОБЛ.", "Issue_date": "06.03.2009", "Issue_organisation_code": "660-041", "Licence_number": "65 09 461580", "Issue_organization_ru": "ТП УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ. В ГАРИНСКОМ Р-НЕ"}}
+{"doc_id": "te_01088", "decision": "reject"}
+{"doc_id": "te_01089", "decision": "reject"}
+{"doc_id": "te_01090", "decision": "reject"}
+{"doc_id": "te_01091", "decision": "reject"}
+{"doc_id": "te_01092", "decision": "reject"}
+{"doc_id": "te_01093", "decision": "reject"}
+{"doc_id": "te_01094", "decision": "reject"}
+{"doc_id": "te_01095", "decision": "reject"}
+{"doc_id": "te_01096", "decision": "reject"}
+{"doc_id": "te_01097", "decision": "reject"}
+{"doc_id": "te_01098", "decision": "reject"}
+{"doc_id": "te_01099", "decision": "reject"}
+{"doc_id": "te_01100", "decision": "reject"}
+{"doc_id": "te_01101", "decision": "reject"}
+{"doc_id": "te_01102", "decision": "reject"}
+{"doc_id": "te_01103", "decision": "accept", "fields": {"Last_name_ru": "АБЛОТИЯ", "First_name_ru": "ГРАЖИНА", "Middle_name_ru": "АНИКИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.07.1970", "Birth_place_ru": "Г. ЗАВИТИНСК АМУРСКОЙ ОБЛ.", "Issue_date": "28.01.2016", "Issue_organisation_code": "120-010", "Licence_number": "88 15 137649", "Issue_organization_ru": "ТП УФМС РОССИИ ПО РЕСПУБЛИКЕ МАРИЙ ЭЛ В П. МАРИ-ТУРЕК"}}
+{"doc_id": "te_01104", "decision": "reject"}
+{"doc_id": "te_01105", "decision": "reject"}
+{"doc_id": "te_01106", "decision": "reject"}
+{"doc_id": "te_01107", "decision": "reject"}
+{"doc_id": "te_01108", "decision": "reject"}
+{"doc_id": "te_01109", "decision": "reject"}
+{"doc_id": "te_01110", "decision": "accept", "fields": {"Last_name_ru": "МУГИНОВ", "First_name_ru": "ГИМАТ", "Middle_name_ru": "ОВСЕЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "09.05.1975", "Birth_place_ru": "СЕЛО КУРСКАЯ ВАСИЛЬЕВКА СЕВЕРНОГО РАЙОНА ОРЕНБУРГСКОЙ ОБЛАСТИ", "Issue_date": "07.12.2020", "Issue_organisation_code": "500-084", "Licence_number": "46 17 321781", "Issue_organization_ru": "ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01111", "decision": "reject"}
+{"doc_id": "te_01112", "decision": "accept", "fields": {"Last_name_ru": "СТЕПЕНОК", "First_name_ru": "ЛУКЕРЬЯ", "Middle_name_ru": "ШУЛИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "19.12.1986", "Birth_place_ru": "ПОС. БЕЛОУСОВО ВЫТЕГОРСКОГО Р-НА ВОЛОГОДСКОЙ ОБЛ.", "Issue_date": "26.12.2006", "Issue_organisation_code": "780-056", "Licence_number": "40 04 144392", "Issue_organization_ru": "ТП №56 ОТДЕЛА УФМС РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ. В НЕВСКОМ Р-НЕ Г.САНКТ-ПЕТЕРБУРГА"}}
+{"doc_id": "te_01113", "decision": "accept", "fields": {"Last_name_ru": "ХРИСТОВСКАЯ-МЕНДЕШ", "First_name_ru": "НАИЛ", "Middle_name_ru": "КАРАМ ОГЛЫ", "Sex_ru": "МУЖ.", "Birth_date": "25.01.1993", "Birth_place_ru": "С.ПОДЛЕСНОЕ МАРКСОВСКИЙ РАЙОН САРАТОВСКАЯ ОБЛАСТЬ", "Issue_date": "16.09.2013", "Issue_organisation_code": "540-017", "Licence_number": "50 13 980013", "Issue_organization_ru": "ТП УФМС РОССИИ ПО НОВОСИБИРСКОЙ ОБЛ. В ДОВОЛЕНСКОМ Р-НЕ"}}
+{"doc_id": "te_01114", "decision": "accept", "fields": {"Last_name_ru": "РАХНЯНСКИЙ", "First_name_ru": "ГАЛАУТДИН", "Middle_name_ru": "ДАВЫДОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "27.10.1961", "Birth_place_ru": "ДЕРЕВНЯ ДРЕГЛИ ЛЮБЫТИНСКИЙ Р-Н", "Issue_date": "20.12.2006", "Issue_organisation_code": "660-037", "Licence_number": "65 04 336743", "Issue_organization_ru": "ТП УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ. В ВЕРХОТУРСКОМ Р-НЕ"}}
+{"doc_id": "te_01115", "decision": "reject"}
+{"doc_id": "te_01116", "decision": "reject"}
+{"doc_id": "te_01117", "decision": "reject"}
+{"doc_id": "te_01118", "decision": "reject"}
+{"doc_id": "te_01119", "decision": "accept", "fields": {"Last_name_ru": "МАЛИЧ", "First_name_ru": "ЦЕЦИЛИЯ", "Middle_name_ru": "РАЗАКОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "15.10.1996", "Birth_place_ru": "СЕЛО ВЕРШИЛОВО НИЖЕГОРОДСКОЙ ОБЛАСТИ", "Issue_date": "26.12.2016", "Issue_organisation_code": "630-011", "Licence_number": "36 13 399916", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САМАРСКОЙ ОБЛ"}}
+{"doc_id": "te_01120", "decision": "reject"}
+{"doc_id": "te_01121", "decision": "reject"}
+{"doc_id": "te_01122", "decision": "reject"}
+{"doc_id": "te_01123", "decision": "reject"}
+{"doc_id": "te_01124", "decision": "reject"}
+{"doc_id": "te_01125", "decision": "reject"}
+{"doc_id": "te_01126", "decision": "accept", "fields": {"Last_name_ru": "БАКАЙКИНА", "First_name_ru": "ЮДМИЛА", "Middle_name_ru": "ТИМФЕЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.05.2004", "Birth_place_ru": "СТ-ЦА КАМЫШЕВАТСКАЯ ЕЙСКОГО РАЙОНА КРАСНОДАРСКОГО КРАЯ", "Issue_date": "01.10.2024", "Issue_organisation_code": "610-029", "Licence_number": "60 24 598380", "Issue_organization_ru": "ГУ МВД РОССИИ ПО РОСТОВСКОЙ ОБЛ"}}
+{"doc_id": "te_01127", "decision": "reject"}
+{"doc_id": "te_01128", "decision": "reject"}
+{"doc_id": "te_01129", "decision": "accept", "fields": {"Last_name_ru": "МАЛЬЦЫНА", "First_name_ru": "ПРАСКОВЬЯ", "Middle_name_ru": "МИДГАЗИЯНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "15.09.1968", "Birth_place_ru": "С. ВАСИЛЬЧУКИ КЛЮЧЕВСКИЙ Р-Н АЛТАЙСКИЙ КР.", "Issue_date": "18.09.2013", "Issue_organisation_code": "710-020", "Licence_number": "70 13 600800", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ТУЛЬСКОЙ ОБЛ. В ДУБЕНСКОМ Р-НЕ"}}
+{"doc_id": "te_01130", "decision": "reject"}
+{"doc_id": "te_01131", "decision": "reject"}
+{"doc_id": "te_01132", "decision": "reject"}
+{"doc_id": "te_01133", "decision": "reject"}
+{"doc_id": "te_01134", "decision": "reject"}
+{"doc_id": "te_01135", "decision": "reject"}
+{"doc_id": "te_01136", "decision": "reject"}
+{"doc_id": "te_01137", "decision": "reject"}
+{"doc_id": "te_01138", "decision": "reject"}
+{"doc_id": "te_01139", "decision": "reject"}
+{"doc_id": "te_01140", "decision": "reject"}
+{"doc_id": "te_01141", "decision": "reject"}
+{"doc_id": "te_01142", "decision": "reject"}
+{"doc_id": "te_01143", "decision": "accept", "fields": {"Last_name_ru": "ЮРИС", "First_name_ru": "ТЕМИК", "Middle_name_ru": "ВИТКЛЬЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "30.07.1964", "Birth_place_ru": "АЧИНСК КРАСНОЯРСКИЙ КРАЙ", "Issue_date": "30.08.2009", "Issue_organisation_code": "550-016", "Licence_number": "52 06 969297", "Issue_organization_ru": "МП УФМС РОССИИ ПО ОМСКОЙ ОБЛАСТИ В КОРМИЛОВСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01144", "decision": "reject"}
+{"doc_id": "te_01145", "decision": "reject"}
+{"doc_id": "te_01146", "decision": "reject"}
+{"doc_id": "te_01147", "decision": "reject"}
+{"doc_id": "te_01148", "decision": "reject"}
+{"doc_id": "te_01149", "decision": "reject"}
+{"doc_id": "te_01150", "decision": "reject"}
+{"doc_id": "te_01151", "decision": "reject"}
+{"doc_id": "te_01152", "decision": "reject"}
+{"doc_id": "te_01153", "decision": "accept", "fields": {"Last_name_ru": "МЕДЯНКИНА", "First_name_ru": "МАГАРИТА", "Middle_name_ru": "НАФИКОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "23.10.1979", "Birth_place_ru": "С. ЕРБОГАЧЕН ИРКУТСКОЙ ОБЛ.", "Issue_date": "11.12.2024", "Issue_organisation_code": "770-095", "Licence_number": "45 23 570412", "Issue_organization_ru": "ГУ МВД РОССИИ ПО Г.МОСКВЕ"}}
+{"doc_id": "te_01154", "decision": "reject"}
+{"doc_id": "te_01155", "decision": "reject"}
+{"doc_id": "te_01156", "decision": "reject"}
+{"doc_id": "te_01157", "decision": "reject"}
+{"doc_id": "te_01158", "decision": "reject"}
+{"doc_id": "te_01159", "decision": "reject"}
+{"doc_id": "te_01160", "decision": "accept", "fields": {"Last_name_ru": "БАШИЧ", "First_name_ru": "МИНИГАЛЕЙ", "Middle_name_ru": "КАПИЗОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.04.1996", "Birth_place_ru": "С.ТАТАРБАЕВО МИШКИНСКИЙ Р-Н РЕСП. БАШКОРТОСТАН", "Issue_date": "22.04.2016", "Issue_organisation_code": "530-014", "Licence_number": "49 13 906406", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО НОВГОРОДСКОЙ ОБЛ. В П. ПАНКОВКА"}}
+{"doc_id": "te_01161", "decision": "reject"}
+{"doc_id": "te_01162", "decision": "reject"}
+{"doc_id": "te_01163", "decision": "reject"}
+{"doc_id": "te_01164", "decision": "reject"}
+{"doc_id": "te_01165", "decision": "reject"}
+{"doc_id": "te_01166", "decision": "reject"}
+{"doc_id": "te_01167", "decision": "reject"}
+{"doc_id": "te_01168", "decision": "reject"}
+{"doc_id": "te_01169", "decision": "reject"}
+{"doc_id": "te_01170", "decision": "reject"}
+{"doc_id": "te_01171", "decision": "reject"}
+{"doc_id": "te_01172", "decision": "accept", "fields": {"Last_name_ru": "ШПАРУК", "First_name_ru": "ЗУЛЯЛЬ", "Middle_name_ru": "ФАХИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "08.09.2002", "Birth_place_ru": "ДЕР.ТАУБАШ-БАДРАКОВО ДЮРТЮЛИНСКОГО Р-НА РЕСП. БАШКОРТОСТАН", "Issue_date": "14.12.2022", "Issue_organisation_code": "660-107", "Licence_number": "65 22 087276", "Issue_organization_ru": "ГУ МВД РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ"}}
+{"doc_id": "te_01173", "decision": "reject"}
+{"doc_id": "te_01174", "decision": "reject"}
+{"doc_id": "te_01175", "decision": "reject"}
+{"doc_id": "te_01176", "decision": "reject"}
+{"doc_id": "te_01177", "decision": "accept", "fields": {"Last_name_ru": "КОЦУР", "First_name_ru": "КАШФЕЛБАЯН", "Middle_name_ru": "ЯХЬЯЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "28.12.1995", "Birth_place_ru": "ГОР. КРАСНОДАР КРАСНОДАРСКОГО КР.", "Issue_date": "20.10.2016", "Issue_organisation_code": "180-007", "Licence_number": "94 15 883846", "Issue_organization_ru": "МВД ПО УДМУРТСКОЙ РЕСПУБЛИКЕ"}}
+{"doc_id": "te_01178", "decision": "reject"}
+{"doc_id": "te_01179", "decision": "reject"}
+{"doc_id": "te_01180", "decision": "reject"}
+{"doc_id": "te_01181", "decision": "reject"}
+{"doc_id": "te_01182", "decision": "reject"}
+{"doc_id": "te_01183", "decision": "reject"}
+{"doc_id": "te_01184", "decision": "reject"}
+{"doc_id": "te_01185", "decision": "accept", "fields": {"Last_name_ru": "ДУДЫЧ", "First_name_ru": "СОРЕЙЯ", "Middle_name_ru": "ХАМАТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "03.12.1960", "Birth_place_ru": "ДЕРЕВНЯ АЙБАТОВА АРГАЯШСКИЙ Р-Н ЧЕЛЯБИНСКАЯ ОБЛ.", "Issue_date": "29.03.2006", "Issue_organisation_code": "020-067", "Licence_number": "80 03 772616", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО РЕСПУБЛИКЕ БАШКОРТОСТАН В ЧЕКМАГУШЕВСКОМ Р-НЕ"}}
+{"doc_id": "te_01186", "decision": "reject"}
+{"doc_id": "te_01187", "decision": "reject"}
+{"doc_id": "te_01188", "decision": "reject"}
+{"doc_id": "te_01189", "decision": "reject"}
+{"doc_id": "te_01190", "decision": "reject"}
+{"doc_id": "te_01191", "decision": "reject"}
+{"doc_id": "te_01192", "decision": "accept", "fields": {"Last_name_ru": "ФИЛИНБЕРГ", "First_name_ru": "КЛАВДИЯ", "Middle_name_ru": "ГУЗАЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "08.09.1986", "Birth_place_ru": "С. ЗОЛОТАЯ ГРИВА ЧУЛЫМСКОГО Р-НА", "Issue_date": "12.05.2007", "Issue_organisation_code": "720-013", "Licence_number": "71 04 022383", "Issue_organization_ru": "МИГРАЦИОННЫЙ ПУНКТ В С. ИСЕТСКОЕ МЕЖРАЙОННОГО ОТДЕЛА УФМС РОССИИ ПО ТЮМЕНСКОЙ ОБЛАСТИ В ГОРОДЕ ЯЛУТОРОВСКЕ"}}
+{"doc_id": "te_01193", "decision": "reject"}
+{"doc_id": "te_01194", "decision": "reject"}
+{"doc_id": "te_01195", "decision": "accept", "fields": {"Last_name_ru": "ДОРОТКО", "First_name_ru": "АЛЕКСАНДРА", "Middle_name_ru": "МИХАЙЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "24.07.1989", "Birth_place_ru": "Г. КУПИНО НОВОСИБИРСКОЙ ОБЛ.", "Issue_date": "03.04.2010", "Issue_organisation_code": "500-098", "Licence_number": "46 09 348388", "Issue_organization_ru": "ТП №3 МО УФМС РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ В ГОРОДСКОМ ПОСЕЛЕНИИ НОГИНСК"}}
+{"doc_id": "te_01196", "decision": "accept", "fields": {"Last_name_ru": "ГЛАДКО", "First_name_ru": "ЗАМФИР", "Middle_name_ru": "ЯШУРКАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "26.11.2004", "Birth_place_ru": "Д.ЛОКОМОТИВ РЕСП. ДАГЕСТАН", "Issue_date": "07.05.2025", "Issue_organisation_code": "500-083", "Licence_number": "46 23 001156", "Issue_organization_ru": "ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01197", "decision": "reject"}
+{"doc_id": "te_01198", "decision": "reject"}
+{"doc_id": "te_01199", "decision": "reject"}
+{"doc_id": "te_01200", "decision": "reject"}
+{"doc_id": "te_01201", "decision": "reject"}
+{"doc_id": "te_01202", "decision": "reject"}
+{"doc_id": "te_01203", "decision": "reject"}
+{"doc_id": "te_01204", "decision": "reject"}
+{"doc_id": "te_01205", "decision": "reject"}
+{"doc_id": "te_01206", "decision": "reject"}
+{"doc_id": "te_01207", "decision": "reject"}
+{"doc_id": "te_01208", "decision": "reject"}
+{"doc_id": "te_01209", "decision": "reject"}
+{"doc_id": "te_01210", "decision": "reject"}
+{"doc_id": "te_01211", "decision": "reject"}
+{"doc_id": "te_01212", "decision": "reject"}
+{"doc_id": "te_01213", "decision": "reject"}
+{"doc_id": "te_01214", "decision": "reject"}
+{"doc_id": "te_01215", "decision": "reject"}
+{"doc_id": "te_01216", "decision": "reject"}
+{"doc_id": "te_01217", "decision": "reject"}
+{"doc_id": "te_01218", "decision": "reject"}
+{"doc_id": "te_01219", "decision": "accept", "fields": {"Last_name_ru": "ТУРЧАН", "First_name_ru": "ВЕНЕДИКТ", "Middle_name_ru": "РАМУАЛЬДОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "31.05.1999", "Birth_place_ru": "ДЕР. САВИНО ТВЕРСКАЯ ОБЛАСТЬ", "Issue_date": "09.09.2019", "Issue_organisation_code": "780-052", "Licence_number": "40 19 272250", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ"}}
+{"doc_id": "te_01220", "decision": "reject"}
+{"doc_id": "te_01221", "decision": "reject"}
+{"doc_id": "te_01222", "decision": "reject"}
+{"doc_id": "te_01223", "decision": "reject"}
+{"doc_id": "te_01224", "decision": "reject"}
+{"doc_id": "te_01225", "decision": "reject"}
+{"doc_id": "te_01226", "decision": "reject"}
+{"doc_id": "te_01227", "decision": "reject"}
+{"doc_id": "te_01228", "decision": "reject"}
+{"doc_id": "te_01229", "decision": "reject"}
+{"doc_id": "te_01230", "decision": "accept", "fields": {"Last_name_ru": "ЕВМЕНЩИКОВ", "First_name_ru": "ХУЖАТ", "Middle_name_ru": "ДИНЬЯРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "28.11.1969", "Birth_place_ru": "ДЕР. МОЛОВКА КОРАБЛИНСКОГО Р-НА РЯЗАНСКОЙ ОБЛ.", "Issue_date": "21.07.2015", "Issue_organisation_code": "830-001", "Licence_number": "55 13 744249", "Issue_organization_ru": "ОФМС РОССИИ ПО НЕНЕЦКОМУ АО"}}
+{"doc_id": "te_01231", "decision": "reject"}
+{"doc_id": "te_01232", "decision": "reject"}
+{"doc_id": "te_01233", "decision": "accept", "fields": {"Last_name_ru": "СУХОЛЕТ", "First_name_ru": "ГЕНАДИЕ", "Middle_name_ru": "САВЕЛЬЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "15.10.1995", "Birth_place_ru": "С.ТЕРНОВОЕ ЕЛАНСКОГО Р-НА ВОЛГОГРАДСКОЙ ОБЛ.", "Issue_date": "05.01.2016", "Issue_organisation_code": "560-043", "Licence_number": "53 15 434504", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ОРЕНБУРГСКОЙ ОБЛ. В ТЮЛЬГАНСКОМ Р-НЕ"}}
+{"doc_id": "te_01234", "decision": "reject"}
+{"doc_id": "te_01235", "decision": "reject"}
+{"doc_id": "te_01236", "decision": "reject"}
+{"doc_id": "te_01237", "decision": "reject"}
+{"doc_id": "te_01238", "decision": "reject"}
+{"doc_id": "te_01239", "decision": "reject"}
+{"doc_id": "te_01240", "decision": "reject"}
+{"doc_id": "te_01241", "decision": "reject"}
+{"doc_id": "te_01242", "decision": "reject"}
+{"doc_id": "te_01243", "decision": "reject"}
+{"doc_id": "te_01244", "decision": "reject"}
+{"doc_id": "te_01245", "decision": "reject"}
+{"doc_id": "te_01246", "decision": "reject"}
+{"doc_id": "te_01247", "decision": "reject"}
+{"doc_id": "te_01248", "decision": "reject"}
+{"doc_id": "te_01249", "decision": "reject"}
+{"doc_id": "te_01250", "decision": "reject"}
+{"doc_id": "te_01251", "decision": "reject"}
+{"doc_id": "te_01252", "decision": "reject"}
+{"doc_id": "te_01253", "decision": "reject"}
+{"doc_id": "te_01254", "decision": "reject"}
+{"doc_id": "te_01255", "decision": "reject"}
+{"doc_id": "te_01256", "decision": "reject"}
+{"doc_id": "te_01257", "decision": "reject"}
+{"doc_id": "te_01258", "decision": "reject"}
+{"doc_id": "te_01259", "decision": "reject"}
+{"doc_id": "te_01260", "decision": "reject"}
+{"doc_id": "te_01261", "decision": "reject"}
+{"doc_id": "te_01262", "decision": "reject"}
+{"doc_id": "te_01263", "decision": "reject"}
+{"doc_id": "te_01264", "decision": "reject"}
+{"doc_id": "te_01265", "decision": "reject"}
+{"doc_id": "te_01266", "decision": "reject"}
+{"doc_id": "te_01267", "decision": "reject"}
+{"doc_id": "te_01268", "decision": "reject"}
+{"doc_id": "te_01269", "decision": "reject"}
+{"doc_id": "te_01270", "decision": "reject"}
+{"doc_id": "te_01271", "decision": "reject"}
+{"doc_id": "te_01272", "decision": "reject"}
+{"doc_id": "te_01273", "decision": "reject"}
+{"doc_id": "te_01274", "decision": "reject"}
+{"doc_id": "te_01275", "decision": "reject"}
+{"doc_id": "te_01276", "decision": "reject"}
+{"doc_id": "te_01277", "decision": "reject"}
+{"doc_id": "te_01278", "decision": "reject"}
+{"doc_id": "te_01279", "decision": "accept", "fields": {"Last_name_ru": "СТРИЧЕЛЬСКАЯ", "First_name_ru": "БИБИГУЛЬ", "Middle_name_ru": "ВАДИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "02.09.1975", "Birth_place_ru": "С. ИВА НИЖНЕЛОМОВСКОГО Р-НА ПЕНЗЕНСКОЙ ОБЛ.", "Issue_date": "06.09.2020", "Issue_organisation_code": "500-073", "Licence_number": "46 19 167573", "Issue_organization_ru": "ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01280", "decision": "reject"}
+{"doc_id": "te_01281", "decision": "reject"}
+{"doc_id": "te_01282", "decision": "reject"}
+{"doc_id": "te_01283", "decision": "reject"}
+{"doc_id": "te_01284", "decision": "reject"}
+{"doc_id": "te_01285", "decision": "reject"}
+{"doc_id": "te_01286", "decision": "reject"}
+{"doc_id": "te_01287", "decision": "accept", "fields": {"Last_name_ru": "ШУМАЙЛОВ", "First_name_ru": "ВЕЙСО", "Middle_name_ru": "ЯЛАЛЕТДИНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "21.11.1961", "Birth_place_ru": "С. ИВАНЧИНО КАСИМОВСКИЙ Р-Н", "Issue_date": "04.08.2007", "Issue_organisation_code": "590-038", "Licence_number": "57 06 686796", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ПЕРМСКОМУ КРАЮ В ОРДИНСКОМ Р-НЕ"}}
+{"doc_id": "te_01288", "decision": "reject"}
+{"doc_id": "te_01289", "decision": "reject"}
+{"doc_id": "te_01290", "decision": "accept", "fields": {"Last_name_ru": "МАЛАНЧЕВ", "First_name_ru": "ФАХЕРЛЕГАЯН", "Middle_name_ru": "ЕВСТИГНЕЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "31.10.1979", "Birth_place_ru": "ГОР. КОТОВСК ТАМБОВСКАЯ ОБЛ.", "Issue_date": "08.01.2025", "Issue_organisation_code": "380-042", "Licence_number": "25 24 244006", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ИРКУТСКОЙ ОБЛ"}}
+{"doc_id": "te_01291", "decision": "reject"}
+{"doc_id": "te_01292", "decision": "reject"}
+{"doc_id": "te_01293", "decision": "reject"}
+{"doc_id": "te_01294", "decision": "reject"}
+{"doc_id": "te_01295", "decision": "reject"}
+{"doc_id": "te_01296", "decision": "reject"}
+{"doc_id": "te_01297", "decision": "reject"}
+{"doc_id": "te_01298", "decision": "reject"}
+{"doc_id": "te_01299", "decision": "accept", "fields": {"Last_name_ru": "ЛЫЧКОВСКАЯ", "First_name_ru": "ТМАРИЯ", "Middle_name_ru": "ЦЕЗАРЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.10.1952", "Birth_place_ru": "С. ЯБЛОНЕВО ПРОНСКОГО Р-НА", "Issue_date": "26.06.1998", "Issue_organisation_code": "162-048", "Licence_number": "92 97 243362", "Issue_organization_ru": "ОВД МУСЛЮМОВСКОГО Р-НА РЕСПУБЛИКИ ТАТАРСТАН"}}
+{"doc_id": "te_01300", "decision": "accept", "fields": {"Last_name_ru": "СЫЧУГОВ", "First_name_ru": "ХАНАТХАЛИЙ", "Middle_name_ru": "АШАЗИЗОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "27.01.1970", "Birth_place_ru": "Х. ВАЛКОВСКИЙ БЕЛГОРОДСКОГО Р-НА", "Issue_date": "05.09.2015", "Issue_organisation_code": "380-029", "Licence_number": "25 15 620157", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ИРКУТСКОЙ ОБЛ. В ТУЛУНСКОМ Р-НЕ"}}
+{"doc_id": "te_01301", "decision": "reject"}
+{"doc_id": "te_01302", "decision": "reject"}
+{"doc_id": "te_01303", "decision": "reject"}
+{"doc_id": "te_01304", "decision": "reject"}
+{"doc_id": "te_01305", "decision": "reject"}
+{"doc_id": "te_01306", "decision": "reject"}
+{"doc_id": "te_01307", "decision": "reject"}
+{"doc_id": "te_01308", "decision": "reject"}
+{"doc_id": "te_01309", "decision": "reject"}
+{"doc_id": "te_01310", "decision": "reject"}
+{"doc_id": "te_01311", "decision": "reject"}
+{"doc_id": "te_01312", "decision": "reject"}
+{"doc_id": "te_01313", "decision": "reject"}
+{"doc_id": "te_01314", "decision": "reject"}
+{"doc_id": "te_01315", "decision": "reject"}
+{"doc_id": "te_01316", "decision": "reject"}
+{"doc_id": "te_01317", "decision": "reject"}
+{"doc_id": "te_01318", "decision": "accept", "fields": {"Last_name_ru": "СТРАДАНЧЕНКО", "First_name_ru": "ЛИЛИЯ", "Middle_name_ru": "ВАТЕСЛАВОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "28.02.1986", "Birth_place_ru": "Г. КАУНАС ЛИТОВСКАЯ ССР", "Issue_date": "24.12.2006", "Issue_organisation_code": "230-066", "Licence_number": "03 04 980401", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ В ТЕМРЮКСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01319", "decision": "accept", "fields": {"Last_name_ru": "ОДУШКО", "First_name_ru": "ХАЛИСЯ", "Middle_name_ru": "ГАЙЯРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "04.05.2002", "Birth_place_ru": "С.БУРАНГУЛОВО АБЗЕЛИЛОВСКОГО РАЙОНА РЕСПУБЛИКИ БАШКОРТОСТАН", "Issue_date": "19.11.2022", "Issue_organisation_code": "190-008", "Licence_number": "95 19 253678", "Issue_organization_ru": "МВД ПО РЕСПУБЛИКЕ ХАКАСИЯ"}}
+{"doc_id": "te_01320", "decision": "reject"}
+{"doc_id": "te_01321", "decision": "reject"}
+{"doc_id": "te_01322", "decision": "reject"}
+{"doc_id": "te_01323", "decision": "reject"}
+{"doc_id": "te_01324", "decision": "reject"}
+{"doc_id": "te_01325", "decision": "reject"}
+{"doc_id": "te_01326", "decision": "reject"}
+{"doc_id": "te_01327", "decision": "reject"}
+{"doc_id": "te_01328", "decision": "reject"}
+{"doc_id": "te_01329", "decision": "reject"}
+{"doc_id": "te_01330", "decision": "reject"}
+{"doc_id": "te_01331", "decision": "reject"}
+{"doc_id": "te_01332", "decision": "accept", "fields": {"Last_name_ru": "ВЕТИШЕВА", "First_name_ru": "ХЕЛЬМИ", "Middle_name_ru": "ХОСРОЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "25.09.1997", "Birth_place_ru": "С.ГРИШИНО ПЕРВОМАЙСКИЙ Р-Н РЕСП. КРЫМ", "Issue_date": "11.11.2017", "Issue_organisation_code": "750-002", "Licence_number": "76 16 077132", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ЗАБАЙКАЛЬСКОМУ КРАЮ В ЦЕНТРАЛЬНОМ Р-НЕ Г. ЧИТЫ"}}
+{"doc_id": "te_01333", "decision": "reject"}
+{"doc_id": "te_01334", "decision": "reject"}
+{"doc_id": "te_01335", "decision": "reject"}
+{"doc_id": "te_01336", "decision": "accept", "fields": {"Last_name_ru": "ЛИСЯЧЕНКО", "First_name_ru": "ГАГАДИЯ", "Middle_name_ru": "ГАВРИИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "27.08.1959", "Birth_place_ru": "ПОС. СВЕТЛООЗЕРСКИЙ ЯРКОВСКИЙ Р-Н ТЮМЕНСКАЯ ОБЛ.", "Issue_date": "01.01.2005", "Issue_organisation_code": "703-002", "Licence_number": "69 04 779692", "Issue_organization_ru": "ОВД ЛЕНИНСКОГО РАЙОНА ГОРОДА ТОМСКА"}}
+{"doc_id": "te_01337", "decision": "reject"}
+{"doc_id": "te_01338", "decision": "reject"}
+{"doc_id": "te_01339", "decision": "reject"}
+{"doc_id": "te_01340", "decision": "reject"}
+{"doc_id": "te_01341", "decision": "reject"}
+{"doc_id": "te_01342", "decision": "reject"}
+{"doc_id": "te_01343", "decision": "reject"}
+{"doc_id": "te_01344", "decision": "reject"}
+{"doc_id": "te_01345", "decision": "reject"}
+{"doc_id": "te_01346", "decision": "reject"}
+{"doc_id": "te_01347", "decision": "reject"}
+{"doc_id": "te_01348", "decision": "reject"}
+{"doc_id": "te_01349", "decision": "reject"}
+{"doc_id": "te_01350", "decision": "reject"}
+{"doc_id": "te_01351", "decision": "reject"}
+{"doc_id": "te_01352", "decision": "reject"}
+{"doc_id": "te_01353", "decision": "reject"}
+{"doc_id": "te_01354", "decision": "reject"}
+{"doc_id": "te_01355", "decision": "reject"}
+{"doc_id": "te_01356", "decision": "reject"}
+{"doc_id": "te_01357", "decision": "reject"}
+{"doc_id": "te_01358", "decision": "reject"}
+{"doc_id": "te_01359", "decision": "reject"}
+{"doc_id": "te_01360", "decision": "reject"}
+{"doc_id": "te_01361", "decision": "reject"}
+{"doc_id": "te_01362", "decision": "reject"}
+{"doc_id": "te_01363", "decision": "reject"}
+{"doc_id": "te_01364", "decision": "reject"}
+{"doc_id": "te_01365", "decision": "reject"}
+{"doc_id": "te_01366", "decision": "reject"}
+{"doc_id": "te_01367", "decision": "reject"}
+{"doc_id": "te_01368", "decision": "accept", "fields": {"Last_name_ru": "ЧЕРЕПИНСКИЙ", "First_name_ru": "МУХАМЕТЗЯР", "Middle_name_ru": "ШМУЛЬЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "20.08.1964", "Birth_place_ru": "С. ПЕРЕСЫПКИНО 1-Е ГАВРИЛОВСКИЙ Р-Н", "Issue_date": "28.03.2010", "Issue_organisation_code": "280-008", "Licence_number": "10 09 843601", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО АМУРСКОЙ ОБЛ. В БУРЕЙСКОМ Р-НЕ"}}
+{"doc_id": "te_01369", "decision": "reject"}
+{"doc_id": "te_01370", "decision": "reject"}
+{"doc_id": "te_01371", "decision": "reject"}
+{"doc_id": "te_01372", "decision": "reject"}
+{"doc_id": "te_01373", "decision": "reject"}
+{"doc_id": "te_01374", "decision": "reject"}
+{"doc_id": "te_01375", "decision": "reject"}
+{"doc_id": "te_01376", "decision": "reject"}
+{"doc_id": "te_01377", "decision": "reject"}
+{"doc_id": "te_01378", "decision": "reject"}
+{"doc_id": "te_01379", "decision": "reject"}
+{"doc_id": "te_01380", "decision": "reject"}
+{"doc_id": "te_01381", "decision": "reject"}
+{"doc_id": "te_01382", "decision": "reject"}
+{"doc_id": "te_01383", "decision": "accept", "fields": {"Last_name_ru": "МЮЛЬБЕРГ", "First_name_ru": "РАФАЕЛЬ", "Middle_name_ru": "ВЛАДИСЛАВОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "19.10.1995", "Birth_place_ru": "П. ПРИОВРАЖНОЕ ПЕНЗЕНСКОГО Р-НА ПЕНЗЕНСКОЙ ОБЛ.", "Issue_date": "15.01.2016", "Issue_organisation_code": "510-019", "Licence_number": "47 16 666430", "Issue_organization_ru": "МЕЖРАЙОННОЕ ОТДЕЛЕНИЕ УФМС РОССИИ ПО МУРМАНСКОЙ ОБЛ. В МО ЗАТО АЛЕКСАНДРОВСК"}}
+{"doc_id": "te_01384", "decision": "reject"}
+{"doc_id": "te_01385", "decision": "reject"}
+{"doc_id": "te_01386", "decision": "reject"}
+{"doc_id": "te_01387", "decision": "reject"}
+{"doc_id": "te_01388", "decision": "reject"}
+{"doc_id": "te_01389", "decision": "reject"}
+{"doc_id": "te_01390", "decision": "reject"}
+{"doc_id": "te_01391", "decision": "reject"}
+{"doc_id": "te_01392", "decision": "reject"}
+{"doc_id": "te_01393", "decision": "reject"}
+{"doc_id": "te_01394", "decision": "accept", "fields": {"Last_name_ru": "СМАНТЕР", "First_name_ru": "ЗАЙНИЙ", "Middle_name_ru": "ФАГАНИОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "02.10.1982", "Birth_place_ru": "ДЕР.ИЛЕЙКИНО СТАРИЦКОГО Р-НА ТВЕРСКОЙ ОБЛ.", "Issue_date": "06.12.2002", "Issue_organisation_code": "632-033", "Licence_number": "36 00 059769", "Issue_organization_ru": "УВД АВТОЗАВОДСКОГО РАЙОНА ГОРОДА ТОЛЬЯТТИ САМАРСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01395", "decision": "reject"}
+{"doc_id": "te_01396", "decision": "accept", "fields": {"Last_name_ru": "НАГИХ", "First_name_ru": "САЛАМБИЙ", "Middle_name_ru": "БИБОЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "29.08.1954", "Birth_place_ru": "ДЕР. ХОДЯКОВКА ГЛУШКОВСКОГО Р-НА КУРСКОЙ ОБЛ.", "Issue_date": "10.02.2000", "Issue_organisation_code": "092-002", "Licence_number": "91 98 558942", "Issue_organization_ru": "ЗЕЛЕНЧУКСКИЙ РОВД КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКИ"}}
+{"doc_id": "te_01397", "decision": "reject"}
+{"doc_id": "te_01398", "decision": "reject"}
+{"doc_id": "te_01399", "decision": "reject"}
+{"doc_id": "te_01400", "decision": "reject"}
+{"doc_id": "te_01401", "decision": "reject"}
+{"doc_id": "te_01402", "decision": "reject"}
+{"doc_id": "te_01403", "decision": "reject"}
+{"doc_id": "te_01404", "decision": "reject"}
+{"doc_id": "te_01405", "decision": "reject"}
+{"doc_id": "te_01406", "decision": "reject"}
+{"doc_id": "te_01407", "decision": "accept", "fields": {"Last_name_ru": "МАЖАРА", "First_name_ru": "ГЕНРИЭТА", "Middle_name_ru": "ЭНГЕЛЬСОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.11.1991", "Birth_place_ru": "ХУТ. ПИМЕНО-ЧЕРНИ КОТЕЛЬНИКОВСКОГО Р-НА", "Issue_date": "31.07.2012", "Issue_organisation_code": "750-024", "Licence_number": "76 10 524365", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ЗАБАЙКАЛЬСКОМУ КРАЮ В Г. МОГОЧА"}}
+{"doc_id": "te_01408", "decision": "reject"}
+{"doc_id": "te_01409", "decision": "reject"}
+{"doc_id": "te_01410", "decision": "reject"}
+{"doc_id": "te_01411", "decision": "reject"}
+{"doc_id": "te_01412", "decision": "accept", "fields": {"Last_name_ru": "ГОДИН", "First_name_ru": "ТИМИРГАРЕЙ", "Middle_name_ru": "МИХАЙЛОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "06.10.1986", "Birth_place_ru": "Д. ПОЛЯКИ ОРЛОВСКОГО Р-НА КИРОВСКОЙ ОБЛ.", "Issue_date": "27.05.2007", "Issue_organisation_code": "330-013", "Licence_number": "17 07 115223", "Issue_organization_ru": "ТП В ПОС. СТАВРОВО ОУФМС РОССИИ ПО ВЛАДИМИРСКОЙ ОБЛ. В СОБИНСКОМ Р-НЕ"}}
+{"doc_id": "te_01413", "decision": "reject"}
+{"doc_id": "te_01414", "decision": "reject"}
+{"doc_id": "te_01415", "decision": "accept", "fields": {"Last_name_ru": "ЦЫКАРЕВА", "First_name_ru": "АЛЕКСАНДРА", "Middle_name_ru": "ЛЕНГИНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "16.11.2000", "Birth_place_ru": "СТАНИЦА СТАРАЯ СТАНИЦА КРАСНОДАРСКОГО КР.", "Issue_date": "11.01.2021", "Issue_organisation_code": "310-001", "Licence_number": "14 21 589987", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО БЕЛГОРОДСКОЙ ОБЛ В Г. БЕЛГОРОД"}}
+{"doc_id": "te_01416", "decision": "reject"}
+{"doc_id": "te_01417", "decision": "reject"}
+{"doc_id": "te_01418", "decision": "reject"}
+{"doc_id": "te_01419", "decision": "reject"}
+{"doc_id": "te_01420", "decision": "accept", "fields": {"Last_name_ru": "МИШУРИНСКИЙ", "First_name_ru": "МУХАРАМ", "Middle_name_ru": "АЛИРЗАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "15.08.1995", "Birth_place_ru": "ГОР. ХУДЖАНД ТАДЖИКИСТАН", "Issue_date": "19.10.2015", "Issue_organisation_code": "680-005", "Licence_number": "68 15 656497", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ТАМБОВСКОЙ ОБЛАСТИ В МОРШАНСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01421", "decision": "reject"}
+{"doc_id": "te_01422", "decision": "reject"}
+{"doc_id": "te_01423", "decision": "reject"}
+{"doc_id": "te_01424", "decision": "reject"}
+{"doc_id": "te_01425", "decision": "reject"}
+{"doc_id": "te_01426", "decision": "reject"}
+{"doc_id": "te_01427", "decision": "reject"}
+{"doc_id": "te_01428", "decision": "reject"}
+{"doc_id": "te_01429", "decision": "reject"}
+{"doc_id": "te_01430", "decision": "reject"}
+{"doc_id": "te_01431", "decision": "reject"}
+{"doc_id": "te_01432", "decision": "reject"}
+{"doc_id": "te_01433", "decision": "reject"}
+{"doc_id": "te_01434", "decision": "reject"}
+{"doc_id": "te_01435", "decision": "reject"}
+{"doc_id": "te_01436", "decision": "reject"}
+{"doc_id": "te_01437", "decision": "reject"}
+{"doc_id": "te_01438", "decision": "reject"}
+{"doc_id": "te_01439", "decision": "accept", "fields": {"Last_name_ru": "ПОДЛУБЕНКО", "First_name_ru": "ГУЛЬМИНУР", "Middle_name_ru": "БИКТАГИРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.11.1980", "Birth_place_ru": "ГОРЬКИЙ НИЖЕГОРОДСКОЙ ОБЛАСТИ", "Issue_date": "12.06.2026", "Issue_organisation_code": "560-012", "Licence_number": "53 23 943592", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ОРЕНБУРГСКОЙ ОБЛ В Г. МЕДНОГОРСКЕ"}}
+{"doc_id": "te_01440", "decision": "reject"}
+{"doc_id": "te_01441", "decision": "reject"}
+{"doc_id": "te_01442", "decision": "reject"}
+{"doc_id": "te_01443", "decision": "reject"}
+{"doc_id": "te_01444", "decision": "reject"}
+{"doc_id": "te_01445", "decision": "reject"}
+{"doc_id": "te_01446", "decision": "reject"}
+{"doc_id": "te_01447", "decision": "reject"}
+{"doc_id": "te_01448", "decision": "reject"}
+{"doc_id": "te_01449", "decision": "reject"}
+{"doc_id": "te_01450", "decision": "reject"}
+{"doc_id": "te_01451", "decision": "accept", "fields": {"Last_name_ru": "МАТИЖЕВА", "First_name_ru": "ФАРУЗА", "Middle_name_ru": "АНИСИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "03.05.1988", "Birth_place_ru": "СЕЛО МАЗАНКА СИМФЕРОПОЛЬСКИЙ РАЙОН КРЫМ", "Issue_date": "22.02.2009", "Issue_organisation_code": "770-041", "Licence_number": "45 07 040202", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ГОР. МОСКВЕ ПО РАЙОНУ ЧЕРТАНОВО ЮЖНОЕ"}}
+{"doc_id": "te_01452", "decision": "reject"}
+{"doc_id": "te_01453", "decision": "reject"}
+{"doc_id": "te_01454", "decision": "reject"}
+{"doc_id": "te_01455", "decision": "reject"}
+{"doc_id": "te_01456", "decision": "reject"}
+{"doc_id": "te_01457", "decision": "reject"}
+{"doc_id": "te_01458", "decision": "reject"}
+{"doc_id": "te_01459", "decision": "reject"}
+{"doc_id": "te_01460", "decision": "reject"}
+{"doc_id": "te_01461", "decision": "reject"}
+{"doc_id": "te_01462", "decision": "reject"}
+{"doc_id": "te_01463", "decision": "reject"}
+{"doc_id": "te_01464", "decision": "reject"}
+{"doc_id": "te_01465", "decision": "reject"}
+{"doc_id": "te_01466", "decision": "accept", "fields": {"Last_name_ru": "АЛМАЗ", "First_name_ru": "САЙДАЙХМЕД", "Middle_name_ru": "ДИКАФОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "12.03.1992", "Birth_place_ru": "С. НАДЕЖДИНО БЕЛЕБЕЕВСКИЙ Р-Н БАШКОРТОСТАН", "Issue_date": "30.10.2012", "Issue_organisation_code": "170-017", "Licence_number": "93 12 182131", "Issue_organization_ru": "МИГРАЦИОННЫЙ ПУНКТ ОФМС РОССИИ ПО РЕСПУБЛИКЕ ТЫВА В СУТ-ХОЛЬСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01467", "decision": "reject"}
+{"doc_id": "te_01468", "decision": "accept", "fields": {"Last_name_ru": "САХТЕРЕВ", "First_name_ru": "ПЕЙСЯ", "Middle_name_ru": "АЛЕКСАНДРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "11.05.1993", "Birth_place_ru": "ПОС. ОШАРОВО ЭВЕНКИЙСКОГО Р-НА", "Issue_date": "05.10.2013", "Issue_organisation_code": "320-023", "Licence_number": "15 13 206340", "Issue_organization_ru": "ТП №2 (С МЕСТОМ ДИСЛОКАЦИИ В ПГТ. ПОГАР) МО УФМС РОССИИ ПО БРЯНСКОЙ ОБЛ. В Г. ТРУБЧЕВСК"}}
+{"doc_id": "te_01469", "decision": "reject"}
+{"doc_id": "te_01470", "decision": "reject"}
+{"doc_id": "te_01471", "decision": "reject"}
+{"doc_id": "te_01472", "decision": "reject"}
+{"doc_id": "te_01473", "decision": "accept", "fields": {"Last_name_ru": "ГЕНОРОВА", "First_name_ru": "НЭАЛЬЯ", "Middle_name_ru": "АНИСИМОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "27.02.1979", "Birth_place_ru": "СЕЛО СТАРЫЙ ТЕРЕК ДАГЕСТАН", "Issue_date": "13.03.2024", "Issue_organisation_code": "090-005", "Licence_number": "91 23 816202", "Issue_organization_ru": "МВД ПО КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ"}}
+{"doc_id": "te_01474", "decision": "reject"}
+{"doc_id": "te_01475", "decision": "reject"}
+{"doc_id": "te_01476", "decision": "accept", "fields": {"Last_name_ru": "СКИТЯЕВА", "First_name_ru": "ВЕРОНИККА", "Middle_name_ru": "ДЖОНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "29.12.1973", "Birth_place_ru": "Д. ШОМИКОВО МОРГАУШСКОГО Р-НА ЧУВАШСКОЙ РЕСП.", "Issue_date": "21.06.2019", "Issue_organisation_code": "770-086", "Licence_number": "45 18 593953", "Issue_organization_ru": "ГУ МВД РОССИИ ПО Г.МОСКВЕ"}}
+{"doc_id": "te_01477", "decision": "accept", "fields": {"Last_name_ru": "ДЕЖИЦ", "First_name_ru": "САВИЙ", "Middle_name_ru": "ДЖАББОРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "22.10.1985", "Birth_place_ru": "С. БАТУРИНО АСИНОВСКОГО Р-НА ТОМСКОЙ ОБЛ.", "Issue_date": "27.04.2006", "Issue_organisation_code": "662-015", "Licence_number": "65 03 221300", "Issue_organization_ru": "ОВД БАЙКАЛОВСКОГО Р-НА СВЕРДЛОВСКОЙ ОБЛ."}}
+{"doc_id": "te_01478", "decision": "reject"}
+{"doc_id": "te_01479", "decision": "reject"}
+{"doc_id": "te_01480", "decision": "reject"}
+{"doc_id": "te_01481", "decision": "accept", "fields": {"Last_name_ru": "ШАМРАЙ", "First_name_ru": "АСКАТ", "Middle_name_ru": "ИБРАГИМОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.08.1995", "Birth_place_ru": "С. УРАЛЬЦЕВСКОЕ ДАЛМАТОВСКИЙ Р-Н КУРГАНСКАЯ ОБЛ.", "Issue_date": "17.11.2015", "Issue_organisation_code": "520-006", "Licence_number": "22 15 826745", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО НИЖЕГОРОДСКОЙ ОБЛ. В ПРИОКСКОМ Р-НЕ Г. НИЖНЕГО НОВГОРОДА"}}
+{"doc_id": "te_01482", "decision": "reject"}
+{"doc_id": "te_01483", "decision": "reject"}
+{"doc_id": "te_01484", "decision": "reject"}
+{"doc_id": "te_01485", "decision": "reject"}
+{"doc_id": "te_01486", "decision": "reject"}
+{"doc_id": "te_01487", "decision": "reject"}
+{"doc_id": "te_01488", "decision": "reject"}
+{"doc_id": "te_01489", "decision": "reject"}
+{"doc_id": "te_01490", "decision": "reject"}
+{"doc_id": "te_01491", "decision": "reject"}
+{"doc_id": "te_01492", "decision": "accept", "fields": {"Last_name_ru": "САТУЛО", "First_name_ru": "РИВЕККА", "Middle_name_ru": "РАФАИЛЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "10.07.1992", "Birth_place_ru": "Г. НОВОКУЙБЫШЕВСК САМАРСКАЯ ОБЛАСТЬ", "Issue_date": "02.02.2013", "Issue_organisation_code": "660-081", "Licence_number": "65 10 421134", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ. В ГОРОДЕ ТАВДЕ"}}
+{"doc_id": "te_01493", "decision": "reject"}
+{"doc_id": "te_01494", "decision": "reject"}
+{"doc_id": "te_01495", "decision": "reject"}
+{"doc_id": "te_01496", "decision": "reject"}
+{"doc_id": "te_01497", "decision": "accept", "fields": {"Last_name_ru": "БЫЧКЕВИЧ", "First_name_ru": "МИННАХМАД", "Middle_name_ru": "ЯДГАРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.09.1993", "Birth_place_ru": "Г. МЕНЗЕЛИНСК РЕСП. ТАТАРСТАН", "Issue_date": "11.12.2013", "Issue_organisation_code": "540-022", "Licence_number": "50 11 368492", "Issue_organization_ru": "МИГРАЦИОННЫЙ ПУНКТ УФМС РОССИИ ПО НОВОСИБИРСКОЙ ОБЛАСТИ В КОЛЫВАНСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01498", "decision": "reject"}
+{"doc_id": "te_01499", "decision": "reject"}
+{"doc_id": "te_01500", "decision": "reject"}
+{"doc_id": "te_01501", "decision": "reject"}
+{"doc_id": "te_01502", "decision": "reject"}
+{"doc_id": "te_01503", "decision": "accept", "fields": {"Last_name_ru": "КОЩУК", "First_name_ru": "СИТДИК", "Middle_name_ru": "ВИЛЕЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "10.01.2003", "Birth_place_ru": "П. ПОЛУНОЧНОЕ ИВДЕЛЬСКОГО Р-НА СВЕРДЛОВСКОЙ ОБЛ.", "Issue_date": "03.08.2023", "Issue_organisation_code": "690-001", "Licence_number": "28 21 071277", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ТВЕРСКОЙ ОБЛ В ЗАВОЛЖСКОМ Р-НЕ Г. ТВЕРИ"}}
+{"doc_id": "te_01504", "decision": "reject"}
+{"doc_id": "te_01505", "decision": "reject"}
+{"doc_id": "te_01506", "decision": "reject"}
+{"doc_id": "te_01507", "decision": "reject"}
+{"doc_id": "te_01508", "decision": "reject"}
+{"doc_id": "te_01509", "decision": "accept", "fields": {"Last_name_ru": "МАЛОЛЕТКО", "First_name_ru": "СОФИЯ", "Middle_name_ru": "МУГДИНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "25.09.1967", "Birth_place_ru": "С. ЭКАЖЕВО НАЗРАНОВСКИЙ РАЙОН", "Issue_date": "16.11.2012", "Issue_organisation_code": "380-024", "Licence_number": "25 10 542235", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ИРКУТСКОЙ ОБЛ. В Г. САЯНСКЕ"}}
+{"doc_id": "te_01510", "decision": "reject"}
+{"doc_id": "te_01511", "decision": "accept", "fields": {"Last_name_ru": "МЕРЕНКУЛОВ", "First_name_ru": "АЛЕКСАНДР", "Middle_name_ru": "ПОХОМОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "29.01.1986", "Birth_place_ru": "Д. ПОДКОПЕННАЯ ПРОМЫШЛЕННОВСКОГО РАЙОНА КЕМЕРОВСКОЙ ОБЛАСТИ", "Issue_date": "16.07.2006", "Issue_organisation_code": "360-010", "Licence_number": "20 06 803020", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ. В БОБРОВСКОМ Р-НЕ"}}
+{"doc_id": "te_01512", "decision": "reject"}
+{"doc_id": "te_01513", "decision": "reject"}
+{"doc_id": "te_01514", "decision": "reject"}
+{"doc_id": "te_01515", "decision": "reject"}
+{"doc_id": "te_01516", "decision": "reject"}
+{"doc_id": "te_01517", "decision": "reject"}
+{"doc_id": "te_01518", "decision": "reject"}
+{"doc_id": "te_01519", "decision": "reject"}
+{"doc_id": "te_01520", "decision": "reject"}
+{"doc_id": "te_01521", "decision": "reject"}
+{"doc_id": "te_01522", "decision": "accept", "fields": {"Last_name_ru": "ДРОБИЦКАЯ", "First_name_ru": "НУРЛИДА", "Middle_name_ru": "ГАРИФЗЯНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "05.03.1975", "Birth_place_ru": "С. ГОНЬБА АЛТАЙСКИЙ КР.", "Issue_date": "13.11.2020", "Issue_organisation_code": "580-020", "Licence_number": "56 18 794177", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ПЕНЗЕНСКОЙ ОБЛ В П.Г.Т. КОЛЫШЛЕЙ"}}
+{"doc_id": "te_01523", "decision": "reject"}
+{"doc_id": "te_01524", "decision": "reject"}
+{"doc_id": "te_01525", "decision": "reject"}
+{"doc_id": "te_01526", "decision": "reject"}
+{"doc_id": "te_01527", "decision": "reject"}
+{"doc_id": "te_01528", "decision": "reject"}
+{"doc_id": "te_01529", "decision": "reject"}
+{"doc_id": "te_01530", "decision": "reject"}
+{"doc_id": "te_01531", "decision": "reject"}
+{"doc_id": "te_01532", "decision": "reject"}
+{"doc_id": "te_01533", "decision": "reject"}
+{"doc_id": "te_01534", "decision": "reject"}
+{"doc_id": "te_01535", "decision": "reject"}
+{"doc_id": "te_01536", "decision": "reject"}
+{"doc_id": "te_01537", "decision": "reject"}
+{"doc_id": "te_01538", "decision": "reject"}
+{"doc_id": "te_01539", "decision": "reject"}
+{"doc_id": "te_01540", "decision": "reject"}
+{"doc_id": "te_01541", "decision": "reject"}
+{"doc_id": "te_01542", "decision": "reject"}
+{"doc_id": "te_01543", "decision": "reject"}
+{"doc_id": "te_01544", "decision": "reject"}
+{"doc_id": "te_01545", "decision": "reject"}
+{"doc_id": "te_01546", "decision": "reject"}
+{"doc_id": "te_01547", "decision": "reject"}
+{"doc_id": "te_01548", "decision": "reject"}
+{"doc_id": "te_01549", "decision": "reject"}
+{"doc_id": "te_01550", "decision": "reject"}
+{"doc_id": "te_01551", "decision": "reject"}
+{"doc_id": "te_01552", "decision": "reject"}
+{"doc_id": "te_01553", "decision": "reject"}
+{"doc_id": "te_01554", "decision": "reject"}
+{"doc_id": "te_01555", "decision": "reject"}
+{"doc_id": "te_01556", "decision": "reject"}
+{"doc_id": "te_01557", "decision": "reject"}
+{"doc_id": "te_01558", "decision": "reject"}
+{"doc_id": "te_01559", "decision": "reject"}
+{"doc_id": "te_01560", "decision": "reject"}
+{"doc_id": "te_01561", "decision": "reject"}
+{"doc_id": "te_01562", "decision": "reject"}
+{"doc_id": "te_01563", "decision": "reject"}
+{"doc_id": "te_01564", "decision": "reject"}
+{"doc_id": "te_01565", "decision": "reject"}
+{"doc_id": "te_01566", "decision": "accept", "fields": {"Last_name_ru": "СЛАБОТЕНКО", "First_name_ru": "РИФГАТЬ", "Middle_name_ru": "СИЛУЯНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "16.12.1952", "Birth_place_ru": "С. КЫРЕН ТУНКИНСКИЙ Р-Н РЕСП. БУРЯТИЯ", "Issue_date": "23.01.1998", "Issue_organisation_code": "512-003", "Licence_number": "47 97 170994", "Issue_organization_ru": "ОВД ПЕРВОМАЙСКОГО ОКРУГА Г. МУРМАНСКА"}}
+{"doc_id": "te_01567", "decision": "reject"}
+{"doc_id": "te_01568", "decision": "reject"}
+{"doc_id": "te_01569", "decision": "reject"}
+{"doc_id": "te_01570", "decision": "reject"}
+{"doc_id": "te_01571", "decision": "reject"}
+{"doc_id": "te_01572", "decision": "reject"}
+{"doc_id": "te_01573", "decision": "reject"}
+{"doc_id": "te_01574", "decision": "reject"}
+{"doc_id": "te_01575", "decision": "reject"}
+{"doc_id": "te_01576", "decision": "reject"}
+{"doc_id": "te_01577", "decision": "reject"}
+{"doc_id": "te_01578", "decision": "reject"}
+{"doc_id": "te_01579", "decision": "reject"}
+{"doc_id": "te_01580", "decision": "reject"}
+{"doc_id": "te_01581", "decision": "reject"}
+{"doc_id": "te_01582", "decision": "reject"}
+{"doc_id": "te_01583", "decision": "accept", "fields": {"Last_name_ru": "ФУРДУЙ", "First_name_ru": "МАХМУТСУЛТАН", "Middle_name_ru": "ВЯЧЕЛАВОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "30.08.1970", "Birth_place_ru": "ГОР. ИВАНОВО ИВАНОВСКАЯ ОБЛАСТЬ", "Issue_date": "22.01.2016", "Issue_organisation_code": "170-000", "Licence_number": "93 13 891213", "Issue_organization_ru": "ОФМС РОССИИ ПО РЕСПУБЛИКЕ ТЫВА"}}
+{"doc_id": "te_01584", "decision": "reject"}
+{"doc_id": "te_01585", "decision": "reject"}
+{"doc_id": "te_01586", "decision": "reject"}
+{"doc_id": "te_01587", "decision": "reject"}
+{"doc_id": "te_01588", "decision": "reject"}
+{"doc_id": "te_01589", "decision": "reject"}
+{"doc_id": "te_01590", "decision": "reject"}
+{"doc_id": "te_01591", "decision": "accept", "fields": {"Last_name_ru": "БОРОВАШКИН", "First_name_ru": "РОБЕРТ", "Middle_name_ru": "АНАТОНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "31.10.1962", "Birth_place_ru": "ГОР. ВЫКСА НИЖЕГОРОДСКАЯ ОБЛ.", "Issue_date": "20.08.2008", "Issue_organisation_code": "470-138", "Licence_number": "41 07 808541", "Issue_organization_ru": "ТП №138 ОТДЕЛА УФМС РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ В КИНГИСЕПСКОМ Р-НЕ"}}
+{"doc_id": "te_01592", "decision": "reject"}
+{"doc_id": "te_01593", "decision": "reject"}
+{"doc_id": "te_01594", "decision": "reject"}
+{"doc_id": "te_01595", "decision": "reject"}
+{"doc_id": "te_01596", "decision": "reject"}
+{"doc_id": "te_01597", "decision": "reject"}
+{"doc_id": "te_01598", "decision": "reject"}
+{"doc_id": "te_01599", "decision": "accept", "fields": {"Last_name_ru": "ГЮРОВА", "First_name_ru": "ВАСЕЛИСА", "Middle_name_ru": "ИНВЕНГОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "03.04.1976", "Birth_place_ru": "Д. ШВЫЧИ ЮСЬВИНСКОГО Р-НА ПЕРМСКОГО КР.", "Issue_date": "12.06.2021", "Issue_organisation_code": "420-030", "Licence_number": "32 21 240744", "Issue_organization_ru": "ГУ МВД РОССИИ ПО КЕМЕРОВСКОЙ ОБЛ"}}
+{"doc_id": "te_01600", "decision": "reject"}
+{"doc_id": "te_01601", "decision": "reject"}
+{"doc_id": "te_01602", "decision": "reject"}
+{"doc_id": "te_01603", "decision": "reject"}
+{"doc_id": "te_01604", "decision": "reject"}
+{"doc_id": "te_01605", "decision": "accept", "fields": {"Last_name_ru": "БОЧКОВСКИЙ", "First_name_ru": "МУРОДУЛЛО", "Middle_name_ru": "МИАССАРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "21.11.1987", "Birth_place_ru": "П. ГОРНЫЙ ОРЕНБУРГСКОГО Р-НА ОРЕНБУРГСКОЙ ОБЛ.", "Issue_date": "26.05.2008", "Issue_organisation_code": "640-012", "Licence_number": "63 08 882688", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО САРАТОВСКОЙ ОБЛ. В Г. БАЛАШОВЕ"}}
+{"doc_id": "te_01606", "decision": "reject"}
+{"doc_id": "te_01607", "decision": "reject"}
+{"doc_id": "te_01608", "decision": "reject"}
+{"doc_id": "te_01609", "decision": "reject"}
+{"doc_id": "te_01610", "decision": "reject"}
+{"doc_id": "te_01611", "decision": "reject"}
+{"doc_id": "te_01612", "decision": "reject"}
+{"doc_id": "te_01613", "decision": "reject"}
+{"doc_id": "te_01614", "decision": "reject"}
+{"doc_id": "te_01615", "decision": "reject"}
+{"doc_id": "te_01616", "decision": "reject"}
+{"doc_id": "te_01617", "decision": "reject"}
+{"doc_id": "te_01618", "decision": "reject"}
+{"doc_id": "te_01619", "decision": "reject"}
+{"doc_id": "te_01620", "decision": "reject"}
+{"doc_id": "te_01621", "decision": "accept", "fields": {"Last_name_ru": "ГОРДОВИЧ", "First_name_ru": "МАЛКА", "Middle_name_ru": "КОНОНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "04.10.1972", "Birth_place_ru": "Г. УЛЬЯНОВСК УЛЬЯНОВСКОЙ ОБЛ.", "Issue_date": "10.12.2017", "Issue_organisation_code": "780-063", "Licence_number": "40 15 460423", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ"}}
+{"doc_id": "te_01622", "decision": "reject"}
+{"doc_id": "te_01623", "decision": "reject"}
+{"doc_id": "te_01624", "decision": "accept", "fields": {"Last_name_ru": "ХАРАБРОВА", "First_name_ru": "ЗУЛЬФИНА", "Middle_name_ru": "ГЕРГАРДТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "11.07.1994", "Birth_place_ru": "РАБОЧИЙ ПОСЕЛОК БОГАНДИНСКИЙ ТЮМЕНСКАЯ ОБЛ.", "Issue_date": "28.09.2014", "Issue_organisation_code": "710-031", "Licence_number": "70 14 406403", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ТУЛЬСКОЙ ОБЛ. В НОВОМОСКОВСКОМ Р-НЕ"}}
+{"doc_id": "te_01625", "decision": "reject"}
+{"doc_id": "te_01626", "decision": "reject"}
+{"doc_id": "te_01627", "decision": "reject"}
+{"doc_id": "te_01628", "decision": "accept", "fields": {"Last_name_ru": "СЛОЯН", "First_name_ru": "ХАЛИДА", "Middle_name_ru": "КАБУРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "22.06.1976", "Birth_place_ru": "С. ИСТЯК ЯНАУЛЬСКИЙ Р-Н", "Issue_date": "01.04.2022", "Issue_organisation_code": "490-006", "Licence_number": "44 19 008537", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО МАГАДАНСКОЙ ОБЛ В ОЛЬСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01629", "decision": "reject"}
+{"doc_id": "te_01630", "decision": "reject"}
+{"doc_id": "te_01631", "decision": "reject"}
+{"doc_id": "te_01632", "decision": "accept", "fields": {"Last_name_ru": "ПАПОВЯН", "First_name_ru": "АНАСТАСИ", "Middle_name_ru": "БОЛЕСЛАВОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.09.1965", "Birth_place_ru": "ДЕР. ЗАГРЯЖСКОЕ НАРО-ФОМИНСКИЙ РАЙОН МОСКОВСКАЯ ОБЛАСТЬ", "Issue_date": "01.07.2011", "Issue_organisation_code": "740-043", "Licence_number": "75 09 898195", "Issue_organization_ru": "ОУФМС РОССИИ ПО ЧЕЛЯБИНСКОЙ ОБЛ. В Г. УСТЬ-КАТАВЕ"}}
+{"doc_id": "te_01633", "decision": "reject"}
+{"doc_id": "te_01634", "decision": "accept", "fields": {"Last_name_ru": "ФИЛЯЙ", "First_name_ru": "ЗИНАИДА", "Middle_name_ru": "НААТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.10.1972", "Birth_place_ru": "ДЕР. БЕРЕЗКИ КУВШИНОВСКОГО Р-НА ТВЕРСКОЙ ОБЛ.", "Issue_date": "07.03.2018", "Issue_organisation_code": "550-011", "Licence_number": "52 17 182806", "Issue_organization_ru": "УМВД РОССИИ ПО ОМСКОЙ ОБЛ"}}
+{"doc_id": "te_01635", "decision": "accept", "fields": {"Last_name_ru": "ИДЕЛЬБАЕВА", "First_name_ru": "АНАСТАСИЯ", "Middle_name_ru": "САФУАЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "12.10.2006", "Birth_place_ru": "ГОР.БАЙМАК РЕСП. БАШКОРТОСТАН", "Issue_date": "07.03.2021", "Issue_organisation_code": "500-139", "Licence_number": "46 19 248319", "Issue_organization_ru": "ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01636", "decision": "reject"}
+{"doc_id": "te_01637", "decision": "reject"}
+{"doc_id": "te_01638", "decision": "reject"}
+{"doc_id": "te_01639", "decision": "reject"}
+{"doc_id": "te_01640", "decision": "reject"}
+{"doc_id": "te_01641", "decision": "reject"}
+{"doc_id": "te_01642", "decision": "reject"}
+{"doc_id": "te_01643", "decision": "reject"}
+{"doc_id": "te_01644", "decision": "reject"}
+{"doc_id": "te_01645", "decision": "reject"}
+{"doc_id": "te_01646", "decision": "reject"}
+{"doc_id": "te_01647", "decision": "accept", "fields": {"Last_name_ru": "КОТЛОВСКИХ", "First_name_ru": "ФЕТИНИЯ", "Middle_name_ru": "ФЛУНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "18.11.2003", "Birth_place_ru": "ГОРОД БЕЛАЯ КАЛИТВА РОСТОВСКАЯ ОБЛ.", "Issue_date": "01.07.2024", "Issue_organisation_code": "870-009", "Licence_number": "77 22 687852", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ЧУКОТСКОМУ АВТОНОМНОМУ ОКРУГУ В ИУЛЬТИНСКОМ МУНИЦИПАЛЬНОМ Р-НЕ"}}
+{"doc_id": "te_01648", "decision": "reject"}
+{"doc_id": "te_01649", "decision": "reject"}
+{"doc_id": "te_01650", "decision": "accept", "fields": {"Last_name_ru": "ВИКУРУК", "First_name_ru": "ФАТХЫЛИСЛАМ", "Middle_name_ru": "ЖАУКАРБЕКОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "02.04.2012", "Birth_place_ru": "С.КАРАЗИРИКОВО БАШКОРТОСТАН", "Issue_date": "20.04.2026", "Issue_organisation_code": "020-008", "Licence_number": "80 25 708319", "Issue_organization_ru": "МВД ПО РЕСПУБЛИКЕ БАШКОРТОСТАН"}}
+{"doc_id": "te_01651", "decision": "reject"}
+{"doc_id": "te_01652", "decision": "accept", "fields": {"Last_name_ru": "КРАСНОРУЖСКАЯ", "First_name_ru": "АНФИСА", "Middle_name_ru": "АНАТОЛЛЬЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.09.1988", "Birth_place_ru": "Г.ЗАВОЛЖСК ИВАНОВСКОЙ ОБЛ.", "Issue_date": "18.01.2009", "Issue_organisation_code": "230-009", "Licence_number": "03 08 472857", "Issue_organization_ru": "ОТДЕЛЕНИЕ УПРАВЛЕНИЯ ПО Г. СОЧИ УФМС РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ В ЛАЗАРЕВСКОМ Р-НЕ"}}
+{"doc_id": "te_01653", "decision": "reject"}
+{"doc_id": "te_01654", "decision": "reject"}
+{"doc_id": "te_01655", "decision": "reject"}
+{"doc_id": "te_01656", "decision": "reject"}
+{"doc_id": "te_01657", "decision": "reject"}
+{"doc_id": "te_01658", "decision": "reject"}
+{"doc_id": "te_01659", "decision": "accept", "fields": {"Last_name_ru": "ЕЩЕРЕНКОВА", "First_name_ru": "АВЭТАНА", "Middle_name_ru": "КАЛИНИКОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "20.02.1991", "Birth_place_ru": "ДЕР. МАЛЫЕ СОЛОВЬИ ОРЛОВСКИЙ Р-Н", "Issue_date": "26.04.2011", "Issue_organisation_code": "870-002", "Licence_number": "77 10 525463", "Issue_organization_ru": "ТП ОФМС РОССИИ ПО ЧУКОТСКОМУ АВТОНОМНОМУ ОКРУГУ В АНАДЫРСКОМ МУНИЦИПАЛЬНОМ Р-НЕ"}}
+{"doc_id": "te_01660", "decision": "reject"}
+{"doc_id": "te_01661", "decision": "accept", "fields": {"Last_name_ru": "САМБОР", "First_name_ru": "САЛИХ", "Middle_name_ru": "АРТАБАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.07.1972", "Birth_place_ru": "ХУТ. СТРЕЛКА ЛИСКИНСКОГО Р-НА ВОРОНЕЖСКОЙ ОБЛ.", "Issue_date": "04.05.2018", "Issue_organisation_code": "360-008", "Licence_number": "20 17 732610", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ"}}
+{"doc_id": "te_01662", "decision": "reject"}
+{"doc_id": "te_01663", "decision": "reject"}
+{"doc_id": "te_01664", "decision": "reject"}
+{"doc_id": "te_01665", "decision": "accept", "fields": {"Last_name_ru": "НАХИНА", "First_name_ru": "ЕПРАКСИЯ", "Middle_name_ru": "ИХИЛЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "15.10.1964", "Birth_place_ru": "Д.ЛАРГИНО СТАРОЮРЬЕВСКИЙ Р-Н", "Issue_date": "25.06.2010", "Issue_organisation_code": "740-049", "Licence_number": "75 09 460800", "Issue_organization_ru": "ОТДЕЛ УФМС РОССИИ ПО ЧЕЛЯБИНСКОЙ ОБЛАСТИ В ГОР. ТРЕХГОРНЫЙ"}}
+{"doc_id": "te_01666", "decision": "reject"}
+{"doc_id": "te_01667", "decision": "reject"}
+{"doc_id": "te_01668", "decision": "reject"}
+{"doc_id": "te_01669", "decision": "reject"}
+{"doc_id": "te_01670", "decision": "reject"}
+{"doc_id": "te_01671", "decision": "reject"}
+{"doc_id": "te_01672", "decision": "reject"}
+{"doc_id": "te_01673", "decision": "accept", "fields": {"Last_name_ru": "ТЯГУНЕНКО", "First_name_ru": "МУХОРЯМ", "Middle_name_ru": "ИСМАГТЛОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "12.04.2002", "Birth_place_ru": "ДЕРЕВНЯ КОРЫТОВО РОСТОВСКОГО Р-НА ЯРОСЛАВСКОЙ ОБЛ.", "Issue_date": "03.08.2022", "Issue_organisation_code": "160-014", "Licence_number": "92 21 785497", "Issue_organization_ru": "МВД ПО РЕСПУБЛИКЕ ТАТАРСТАН"}}
+{"doc_id": "te_01674", "decision": "reject"}
+{"doc_id": "te_01675", "decision": "reject"}
+{"doc_id": "te_01676", "decision": "reject"}
+{"doc_id": "te_01677", "decision": "reject"}
+{"doc_id": "te_01678", "decision": "reject"}
+{"doc_id": "te_01679", "decision": "reject"}
+{"doc_id": "te_01680", "decision": "reject"}
+{"doc_id": "te_01681", "decision": "reject"}
+{"doc_id": "te_01682", "decision": "reject"}
+{"doc_id": "te_01683", "decision": "reject"}
+{"doc_id": "te_01684", "decision": "reject"}
+{"doc_id": "te_01685", "decision": "reject"}
+{"doc_id": "te_01686", "decision": "reject"}
+{"doc_id": "te_01687", "decision": "reject"}
+{"doc_id": "te_01688", "decision": "reject"}
+{"doc_id": "te_01689", "decision": "reject"}
+{"doc_id": "te_01690", "decision": "accept", "fields": {"Last_name_ru": "ЦЫПАНОВА", "First_name_ru": "ЛИЛИЯ", "Middle_name_ru": "ГРИГОРЬЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "09.12.1961", "Birth_place_ru": "Х. КАРЛА МАРКСА КРАСНОДАРСКИЙ КР.", "Issue_date": "11.12.2006", "Issue_organisation_code": "780-046", "Licence_number": "40 05 518971", "Issue_organization_ru": "ТП №46 ОТДЕЛЕНИЯ УФМС РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ. В КУРОРТНОМ Р-НЕ Г.САНКТ-ПЕТЕРБУРГА"}}
+{"doc_id": "te_01691", "decision": "reject"}
+{"doc_id": "te_01692", "decision": "reject"}
+{"doc_id": "te_01693", "decision": "reject"}
+{"doc_id": "te_01694", "decision": "reject"}
+{"doc_id": "te_01695", "decision": "reject"}
+{"doc_id": "te_01696", "decision": "reject"}
+{"doc_id": "te_01697", "decision": "reject"}
+{"doc_id": "te_01698", "decision": "reject"}
+{"doc_id": "te_01699", "decision": "accept", "fields": {"Last_name_ru": "ГАЛЯВОВ", "First_name_ru": "РАМИЛЬ", "Middle_name_ru": "ШАГИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "12.09.1967", "Birth_place_ru": "С. ГРЕМЯЧЬЕ РАМОНСКОГО Р-НА ВОРОНЕЖСКОЙ ОБЛ.", "Issue_date": "30.09.2012", "Issue_organisation_code": "730-023", "Licence_number": "73 10 089379", "Issue_organization_ru": "ТП УФМС РОССИИ ПО УЛЬЯНОВСКОЙ ОБЛАСТИ В УЛЬЯНОВСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01700", "decision": "reject"}
+{"doc_id": "te_01701", "decision": "reject"}
+{"doc_id": "te_01702", "decision": "reject"}
+{"doc_id": "te_01703", "decision": "accept", "fields": {"Last_name_ru": "ДЖАМОЛУДИНОВА", "First_name_ru": "МАРИЯМАРИАННА", "Middle_name_ru": "СЛАВАКОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "31.05.1955", "Birth_place_ru": "БАРАНОВИЧИ БЕЛОРУССКАЯ ССР", "Issue_date": "06.12.2000", "Issue_organisation_code": "232-005", "Licence_number": "03 99 799219", "Issue_organization_ru": "ПВС УВД ЦЕНТРАЛЬНОГО ОКРУГА Г. КРАСНОДАРА"}}
+{"doc_id": "te_01704", "decision": "reject"}
+{"doc_id": "te_01705", "decision": "reject"}
+{"doc_id": "te_01706", "decision": "reject"}
+{"doc_id": "te_01707", "decision": "reject"}
+{"doc_id": "te_01708", "decision": "reject"}
+{"doc_id": "te_01709", "decision": "accept", "fields": {"Last_name_ru": "ЛАЛИКО", "First_name_ru": "ГУЛЬДАР", "Middle_name_ru": "ХАТНУЛЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "20.08.2000", "Birth_place_ru": "Г. ЕРШОВ САРАТОВСКОЙ ОБЛ.", "Issue_date": "06.01.2021", "Issue_organisation_code": "860-001", "Licence_number": "67 19 812645", "Issue_organization_ru": "УМВД РОССИИ ПО ХАНТЫ-МАНСИЙСКОМУ АО - ЮГРЕ"}}
+{"doc_id": "te_01710", "decision": "reject"}
+{"doc_id": "te_01711", "decision": "reject"}
+{"doc_id": "te_01712", "decision": "reject"}
+{"doc_id": "te_01713", "decision": "reject"}
+{"doc_id": "te_01714", "decision": "reject"}
+{"doc_id": "te_01715", "decision": "reject"}
+{"doc_id": "te_01716", "decision": "reject"}
+{"doc_id": "te_01717", "decision": "reject"}
+{"doc_id": "te_01718", "decision": "accept", "fields": {"Last_name_ru": "МУРЫСИН", "First_name_ru": "ВАЛИТХАН", "Middle_name_ru": "СЕЙТБИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "16.06.1993", "Birth_place_ru": "Г. МАКАРОВСКИЙ САХАЛИНСКОЙ ОБЛАСТИ", "Issue_date": "22.12.2013", "Issue_organisation_code": "540-023", "Licence_number": "50 11 860256", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО НОВОСИБИРСКОЙ ОБЛ. В КОЧЕНЕВСКОМ Р-НЕ"}}
+{"doc_id": "te_01719", "decision": "reject"}
+{"doc_id": "te_01720", "decision": "reject"}
+{"doc_id": "te_01721", "decision": "reject"}
+{"doc_id": "te_01722", "decision": "reject"}
+{"doc_id": "te_01723", "decision": "reject"}
+{"doc_id": "te_01724", "decision": "reject"}
+{"doc_id": "te_01725", "decision": "reject"}
+{"doc_id": "te_01726", "decision": "reject"}
+{"doc_id": "te_01727", "decision": "reject"}
+{"doc_id": "te_01728", "decision": "reject"}
+{"doc_id": "te_01729", "decision": "reject"}
+{"doc_id": "te_01730", "decision": "reject"}
+{"doc_id": "te_01731", "decision": "reject"}
+{"doc_id": "te_01732", "decision": "accept", "fields": {"Last_name_ru": "ВОЙЧАН", "First_name_ru": "ЕКАТЕРИНА", "Middle_name_ru": "ХАВАДИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "11.06.1990", "Birth_place_ru": "С. ЯНДЫКИ ЛИМАНСКИЙ Р-Н АСТРАХАНСКАЯ ОБЛ.", "Issue_date": "06.02.2011", "Issue_organisation_code": "550-029", "Licence_number": "52 11 400290", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ОМСКОЙ ОБЛ. В ПОЛТАВСКОМ Р-НЕ"}}
+{"doc_id": "te_01733", "decision": "accept", "fields": {"Last_name_ru": "БИВАЛЬКЕВИЧ", "First_name_ru": "СЕДА", "Middle_name_ru": "ЛЕВОНТЬЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "09.08.1986", "Birth_place_ru": "ГОР.ПЯТИГОРСК СТАВРОПОЛЬСКИЙ КРАЙ", "Issue_date": "09.03.2007", "Issue_organisation_code": "270-009", "Licence_number": "08 05 718575", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ХАБАРОВСКОМУ КРАЮ В ЛЕНИНСКОМ ОКРУГЕ Г. КОМСОМОЛЬСКА-НА-АМУРЕ"}}
+{"doc_id": "te_01734", "decision": "reject"}
+{"doc_id": "te_01735", "decision": "reject"}
+{"doc_id": "te_01736", "decision": "reject"}
+{"doc_id": "te_01737", "decision": "reject"}
+{"doc_id": "te_01738", "decision": "accept", "fields": {"Last_name_ru": "ТЯЖЕТДИНОВ", "First_name_ru": "ШАГБАН", "Middle_name_ru": "ГАНИЯТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "17.10.1966", "Birth_place_ru": "Г. ГРОДНО БЕЛОРУССКАЯ ССР", "Issue_date": "11.01.2012", "Issue_organisation_code": "630-027", "Licence_number": "36 12 232384", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО САМАРСКОЙ ОБЛ. В СТАВРОПОЛЬСКОМ Р-НЕ"}}
+{"doc_id": "te_01739", "decision": "reject"}
+{"doc_id": "te_01740", "decision": "reject"}
+{"doc_id": "te_01741", "decision": "reject"}
+{"doc_id": "te_01742", "decision": "reject"}
+{"doc_id": "te_01743", "decision": "reject"}
+{"doc_id": "te_01744", "decision": "accept", "fields": {"Last_name_ru": "ГАНИКОВСКИЙ", "First_name_ru": "МУФТАХУТДИН", "Middle_name_ru": "ЗИНОВИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "03.09.1988", "Birth_place_ru": "С. КОПОВКА ПЕНЗЕНСКАЯ ОБЛ.", "Issue_date": "31.10.2008", "Issue_organisation_code": "850-002", "Licence_number": "62 05 523385", "Issue_organization_ru": "ТП ОФМС РОССИИ ПО УСТЬ-ОРДЫНСКОМУ БУРЯТСКОМУ АВТОНОМНОМУ ОКР. В БАЯНДАЕВСКОМ Р-НЕ"}}
+{"doc_id": "te_01745", "decision": "reject"}
+{"doc_id": "te_01746", "decision": "reject"}
+{"doc_id": "te_01747", "decision": "reject"}
+{"doc_id": "te_01748", "decision": "reject"}
+{"doc_id": "te_01749", "decision": "reject"}
+{"doc_id": "te_01750", "decision": "reject"}
+{"doc_id": "te_01751", "decision": "reject"}
+{"doc_id": "te_01752", "decision": "reject"}
+{"doc_id": "te_01753", "decision": "reject"}
+{"doc_id": "te_01754", "decision": "reject"}
+{"doc_id": "te_01755", "decision": "reject"}
+{"doc_id": "te_01756", "decision": "reject"}
+{"doc_id": "te_01757", "decision": "reject"}
+{"doc_id": "te_01758", "decision": "reject"}
+{"doc_id": "te_01759", "decision": "reject"}
+{"doc_id": "te_01760", "decision": "reject"}
+{"doc_id": "te_01761", "decision": "reject"}
+{"doc_id": "te_01762", "decision": "reject"}
+{"doc_id": "te_01763", "decision": "reject"}
+{"doc_id": "te_01764", "decision": "reject"}
+{"doc_id": "te_01765", "decision": "reject"}
+{"doc_id": "te_01766", "decision": "reject"}
+{"doc_id": "te_01767", "decision": "accept", "fields": {"Last_name_ru": "ХРОМИХИН", "First_name_ru": "ПАТМОС", "Middle_name_ru": "РУДОЛЬФОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "01.03.1961", "Birth_place_ru": "П.РАЗВЕДЧИК КЕМЕРОВСКИЙ Р-Н КЕМЕРОВСКАЯ ОБЛ.", "Issue_date": "18.05.2006", "Issue_organisation_code": "390-018", "Licence_number": "27 05 466483", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО КАЛИНИНГРАДСКОЙ ОБЛ. ОЗЕРСКОГО Р-НА"}}
+{"doc_id": "te_01768", "decision": "reject"}
+{"doc_id": "te_01769", "decision": "reject"}
+{"doc_id": "te_01770", "decision": "reject"}
+{"doc_id": "te_01771", "decision": "reject"}
+{"doc_id": "te_01772", "decision": "reject"}
+{"doc_id": "te_01773", "decision": "reject"}
+{"doc_id": "te_01774", "decision": "reject"}
+{"doc_id": "te_01775", "decision": "reject"}
+{"doc_id": "te_01776", "decision": "reject"}
+{"doc_id": "te_01777", "decision": "reject"}
+{"doc_id": "te_01778", "decision": "reject"}
+{"doc_id": "te_01779", "decision": "reject"}
+{"doc_id": "te_01780", "decision": "reject"}
+{"doc_id": "te_01781", "decision": "reject"}
+{"doc_id": "te_01782", "decision": "reject"}
+{"doc_id": "te_01783", "decision": "reject"}
+{"doc_id": "te_01784", "decision": "reject"}
+{"doc_id": "te_01785", "decision": "reject"}
+{"doc_id": "te_01786", "decision": "reject"}
+{"doc_id": "te_01787", "decision": "reject"}
+{"doc_id": "te_01788", "decision": "reject"}
+{"doc_id": "te_01789", "decision": "reject"}
+{"doc_id": "te_01790", "decision": "reject"}
+{"doc_id": "te_01791", "decision": "reject"}
+{"doc_id": "te_01792", "decision": "reject"}
+{"doc_id": "te_01793", "decision": "reject"}
+{"doc_id": "te_01794", "decision": "reject"}
+{"doc_id": "te_01795", "decision": "reject"}
+{"doc_id": "te_01796", "decision": "reject"}
+{"doc_id": "te_01797", "decision": "accept", "fields": {"Last_name_ru": "ЖВАКИНА", "First_name_ru": "ГАЛИНЫ", "Middle_name_ru": "САИПОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "19.09.1992", "Birth_place_ru": "С. КУДЕЛЬНЫЙ КЛЮЧ ТОГУЧИНСКОГО Р-НА НОВОСИБИРСКОЙ ОБЛ.", "Issue_date": "19.06.2013", "Issue_organisation_code": "660-026", "Licence_number": "65 10 960700", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛ. В АРТЕМОВСКОМ Р-НЕ"}}
+{"doc_id": "te_01798", "decision": "reject"}
+{"doc_id": "te_01799", "decision": "reject"}
+{"doc_id": "te_01800", "decision": "accept", "fields": {"Last_name_ru": "ТРОФИНЕНКО", "First_name_ru": "ХАНДАДАШ", "Middle_name_ru": "КОНОКБИЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "22.07.2004", "Birth_place_ru": "Д.АФАНАСЬЕВО ДУХОВЩИНСКОГО РАЙОНА СМОЛЕНСКОЙ ОБЛАСТИ", "Issue_date": "18.09.2024", "Issue_organisation_code": "230-045", "Licence_number": "03 23 226331", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО КРАСНОДАРСКОМУ КРАЮ В НОВОПОКРОВСКОМ Р-НЕ"}}
+{"doc_id": "te_01801", "decision": "reject"}
+{"doc_id": "te_01802", "decision": "reject"}
+{"doc_id": "te_01803", "decision": "accept", "fields": {"Last_name_ru": "ГАЛЦИДИ", "First_name_ru": "ВИКТОРИЯ", "Middle_name_ru": "ВИКТОРОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "26.12.2009", "Birth_place_ru": "С. СТАРОЕ ИЛЬМОВО ДРОЖЖАНОВСКИЙ Р-Н", "Issue_date": "14.10.2024", "Issue_organisation_code": "260-027", "Licence_number": "07 22 335459", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО СТАВРОПОЛЬСКОМУ КРАЮ В ПРЕДГОРНОМ РАЙОНЕ"}}
+{"doc_id": "te_01804", "decision": "reject"}
+{"doc_id": "te_01805", "decision": "reject"}
+{"doc_id": "te_01806", "decision": "reject"}
+{"doc_id": "te_01807", "decision": "accept", "fields": {"Last_name_ru": "ЕДОЯН", "First_name_ru": "МИСЛИМАТ", "Middle_name_ru": "САРКИСДЖАНОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.02.2006", "Birth_place_ru": "Д. ХИРЛУКАСЫ КРАСНОЧЕТАЙСКИЙ Р-Н ЧУВАШСКАЯ РЕСП.", "Issue_date": "23.03.2026", "Issue_organisation_code": "860-013", "Licence_number": "67 26 413912", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО ХАНТЫ-МАНСИЙСКОМУ АО - ЮГРЕ В Г. НИЖНЕВАРТОВСКЕ"}}
+{"doc_id": "te_01808", "decision": "accept", "fields": {"Last_name_ru": "КОЛОШЕНКО", "First_name_ru": "МАРИЯ-ЛЮДМИЛА", "Middle_name_ru": "ГАБРИЕЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "16.06.1954", "Birth_place_ru": "АУЛ ВАКО-ЖИЛЕ АДЫГЕ-ХАБЛЬСКИЙ Р-Н КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСП.", "Issue_date": "31.12.1999", "Issue_organisation_code": "773-044", "Licence_number": "45 98 071421", "Issue_organization_ru": "158 ОТДЕЛЕНИЕ МИЛИЦИИ ОВД БИБИРЕВО УВД СВАО Г.МОСКВЫ"}}
+{"doc_id": "te_01809", "decision": "reject"}
+{"doc_id": "te_01810", "decision": "reject"}
+{"doc_id": "te_01811", "decision": "reject"}
+{"doc_id": "te_01812", "decision": "reject"}
+{"doc_id": "te_01813", "decision": "reject"}
+{"doc_id": "te_01814", "decision": "reject"}
+{"doc_id": "te_01815", "decision": "reject"}
+{"doc_id": "te_01816", "decision": "reject"}
+{"doc_id": "te_01817", "decision": "reject"}
+{"doc_id": "te_01818", "decision": "reject"}
+{"doc_id": "te_01819", "decision": "reject"}
+{"doc_id": "te_01820", "decision": "reject"}
+{"doc_id": "te_01821", "decision": "reject"}
+{"doc_id": "te_01822", "decision": "reject"}
+{"doc_id": "te_01823", "decision": "reject"}
+{"doc_id": "te_01824", "decision": "reject"}
+{"doc_id": "te_01825", "decision": "reject"}
+{"doc_id": "te_01826", "decision": "reject"}
+{"doc_id": "te_01827", "decision": "reject"}
+{"doc_id": "te_01828", "decision": "reject"}
+{"doc_id": "te_01829", "decision": "reject"}
+{"doc_id": "te_01830", "decision": "reject"}
+{"doc_id": "te_01831", "decision": "reject"}
+{"doc_id": "te_01832", "decision": "reject"}
+{"doc_id": "te_01833", "decision": "reject"}
+{"doc_id": "te_01834", "decision": "reject"}
+{"doc_id": "te_01835", "decision": "reject"}
+{"doc_id": "te_01836", "decision": "reject"}
+{"doc_id": "te_01837", "decision": "accept", "fields": {"Last_name_ru": "ЗВИНКО", "First_name_ru": "СЛАВАМИРА", "Middle_name_ru": "САМСОНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "30.09.2003", "Birth_place_ru": "ДЕР. КОТОШИ ПСКОВСКАЯ ОБЛ.", "Issue_date": "05.03.2024", "Issue_organisation_code": "360-039", "Licence_number": "20 24 966352", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ"}}
+{"doc_id": "te_01838", "decision": "accept", "fields": {"Last_name_ru": "БАТУЛИН", "First_name_ru": "БАДРУДДИН", "Middle_name_ru": "НИКОЛАВНАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "12.03.2007", "Birth_place_ru": "ХУТ. ПРИВОЛЬНЫЙ КУРСКОГО Р-НА СТАВРОПОЛЬСКОГО КР.", "Issue_date": "06.08.2021", "Issue_organisation_code": "030-006", "Licence_number": "81 18 241740", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ БУРЯТИЯ В ОКТЯБРЬСКОМ Р-НЕ Г. УЛАН-УДЭ"}}
+{"doc_id": "te_01839", "decision": "reject"}
+{"doc_id": "te_01840", "decision": "reject"}
+{"doc_id": "te_01841", "decision": "reject"}
+{"doc_id": "te_01842", "decision": "reject"}
+{"doc_id": "te_01843", "decision": "reject"}
+{"doc_id": "te_01844", "decision": "reject"}
+{"doc_id": "te_01845", "decision": "accept", "fields": {"Last_name_ru": "СПАЩАНСКИЙ", "First_name_ru": "МИЖИТДОРЖИ", "Middle_name_ru": "НИКОЛАЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "31.05.1991", "Birth_place_ru": "ПОС. НОВОМОЧАЛЕЕВКА ПОХВИСТНЕВСКОГО Р-НА САМАРСКОЙ ОБЛ.", "Issue_date": "04.09.2011", "Issue_organisation_code": "080-003", "Licence_number": "85 10 235737", "Issue_organization_ru": "ТП ОФМС РОССИИ ПО РЕСПУБЛИКЕ КАЛМЫКИЯ В ИКИ-БУРУЛЬСКОМ Р-НЕ"}}
+{"doc_id": "te_01846", "decision": "reject"}
+{"doc_id": "te_01847", "decision": "reject"}
+{"doc_id": "te_01848", "decision": "reject"}
+{"doc_id": "te_01849", "decision": "reject"}
+{"doc_id": "te_01850", "decision": "reject"}
+{"doc_id": "te_01851", "decision": "reject"}
+{"doc_id": "te_01852", "decision": "reject"}
+{"doc_id": "te_01853", "decision": "reject"}
+{"doc_id": "te_01854", "decision": "reject"}
+{"doc_id": "te_01855", "decision": "reject"}
+{"doc_id": "te_01856", "decision": "reject"}
+{"doc_id": "te_01857", "decision": "reject"}
+{"doc_id": "te_01858", "decision": "reject"}
+{"doc_id": "te_01859", "decision": "reject"}
+{"doc_id": "te_01860", "decision": "reject"}
+{"doc_id": "te_01861", "decision": "reject"}
+{"doc_id": "te_01862", "decision": "reject"}
+{"doc_id": "te_01863", "decision": "reject"}
+{"doc_id": "te_01864", "decision": "reject"}
+{"doc_id": "te_01865", "decision": "reject"}
+{"doc_id": "te_01866", "decision": "reject"}
+{"doc_id": "te_01867", "decision": "accept", "fields": {"Last_name_ru": "БЛЯХМАН", "First_name_ru": "МАВРА", "Middle_name_ru": "БОГДАНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "31.08.1973", "Birth_place_ru": "ГОР.ЕРЕВАН АРМЯНСКАЯ ССР", "Issue_date": "02.01.2019", "Issue_organisation_code": "500-140", "Licence_number": "46 16 661202", "Issue_organization_ru": "ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ"}}
+{"doc_id": "te_01868", "decision": "reject"}
+{"doc_id": "te_01869", "decision": "reject"}
+{"doc_id": "te_01870", "decision": "reject"}
+{"doc_id": "te_01871", "decision": "reject"}
+{"doc_id": "te_01872", "decision": "reject"}
+{"doc_id": "te_01873", "decision": "accept", "fields": {"Last_name_ru": "КОШЕЦЯН", "First_name_ru": "ДЖАНЛАТ", "Middle_name_ru": "ДАУЗЯТОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "08.02.1964", "Birth_place_ru": "ГОР. КАМЕНЬ-НА-ОБИ АЛТАЙСКОГО КР.", "Issue_date": "30.03.2009", "Issue_organisation_code": "360-019", "Licence_number": "20 08 060147", "Issue_organization_ru": "ТП УФМС РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ. В КАМЕНСКОМ Р-НЕ"}}
+{"doc_id": "te_01874", "decision": "reject"}
+{"doc_id": "te_01875", "decision": "reject"}
+{"doc_id": "te_01876", "decision": "reject"}
+{"doc_id": "te_01877", "decision": "reject"}
+{"doc_id": "te_01878", "decision": "reject"}
+{"doc_id": "te_01879", "decision": "reject"}
+{"doc_id": "te_01880", "decision": "reject"}
+{"doc_id": "te_01881", "decision": "reject"}
+{"doc_id": "te_01882", "decision": "reject"}
+{"doc_id": "te_01883", "decision": "accept", "fields": {"Last_name_ru": "СТАМБУЛОВА", "First_name_ru": "ЭЙДЯ", "Middle_name_ru": "КИРИЛОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "08.10.1994", "Birth_place_ru": "С.УГРА УГРАНСКОГО Р-НА СМОЛЕНСКОЙ ОБЛ.", "Issue_date": "19.05.2015", "Issue_organisation_code": "700-016", "Licence_number": "69 13 940564", "Issue_organization_ru": "ОУФМС РОССИИ ПО ТОМСКОЙ ОБЛ. В Г. АСИНО"}}
+{"doc_id": "te_01884", "decision": "accept", "fields": {"Last_name_ru": "КУРБАЛА", "First_name_ru": "ЛЮДМИЛА", "Middle_name_ru": "ГАБДЕЛЬГАНИЕВНА", "Sex_ru": "ЖЕН.", "Birth_date": "02.04.1994", "Birth_place_ru": "ЯРОСЛАВЛЬ ЯРОСЛАВСКОЙ ОБЛ.", "Issue_date": "09.01.2015", "Issue_organisation_code": "600-014", "Licence_number": "58 15 547527", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО ПСКОВСКОЙ ОБЛАСТИ В ОПОЧЕЦКОМ РАЙОНЕ"}}
+{"doc_id": "te_01885", "decision": "reject"}
+{"doc_id": "te_01886", "decision": "accept", "fields": {"Last_name_ru": "НАНЦЕВА", "First_name_ru": "ГГАЛИНА", "Middle_name_ru": "МУХАМЕТОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "09.08.2009", "Birth_place_ru": "С. ХОЛМОГОЙ ЗАЛАРИНСКОГО Р-НА", "Issue_date": "29.08.2023", "Issue_organisation_code": "020-004", "Licence_number": "80 22 852090", "Issue_organization_ru": "ОТДЕЛ ПО ВОПРОСАМ МИГРАЦИИ ОМВД РОССИИ ПО РЕСПУБЛИКЕ БАШКОРТОСТАН В КИРОВСКОМ Р-НЕ Г. УФЫ"}}
+{"doc_id": "te_01887", "decision": "reject"}
+{"doc_id": "te_01888", "decision": "reject"}
+{"doc_id": "te_01889", "decision": "reject"}
+{"doc_id": "te_01890", "decision": "reject"}
+{"doc_id": "te_01891", "decision": "reject"}
+{"doc_id": "te_01892", "decision": "reject"}
+{"doc_id": "te_01893", "decision": "reject"}
+{"doc_id": "te_01894", "decision": "accept", "fields": {"Last_name_ru": "ЧЕКСТЕР", "First_name_ru": "АНАСТАСТИЯ", "Middle_name_ru": "САБИРЬЯНОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "18.12.2002", "Birth_place_ru": "ДЕРЕВНЯ КОПЫЛЫ КИРОВСКОЙ ОБЛ.", "Issue_date": "10.07.2023", "Issue_organisation_code": "780-032", "Licence_number": "40 21 123839", "Issue_organization_ru": "ГУ МВД РОССИИ ПО САНКТ-ПЕТЕРБУРГУ И ЛЕНИНГРАДСКОЙ ОБЛ"}}
+{"doc_id": "te_01895", "decision": "reject"}
+{"doc_id": "te_01896", "decision": "reject"}
+{"doc_id": "te_01897", "decision": "reject"}
+{"doc_id": "te_01898", "decision": "reject"}
+{"doc_id": "te_01899", "decision": "reject"}
+{"doc_id": "te_01900", "decision": "reject"}
+{"doc_id": "te_01901", "decision": "reject"}
+{"doc_id": "te_01902", "decision": "reject"}
+{"doc_id": "te_01903", "decision": "reject"}
+{"doc_id": "te_01904", "decision": "reject"}
+{"doc_id": "te_01905", "decision": "reject"}
+{"doc_id": "te_01906", "decision": "reject"}
+{"doc_id": "te_01907", "decision": "reject"}
+{"doc_id": "te_01908", "decision": "reject"}
+{"doc_id": "te_01909", "decision": "reject"}
+{"doc_id": "te_01910", "decision": "reject"}
+{"doc_id": "te_01911", "decision": "reject"}
+{"doc_id": "te_01912", "decision": "reject"}
+{"doc_id": "te_01913", "decision": "reject"}
+{"doc_id": "te_01914", "decision": "reject"}
+{"doc_id": "te_01915", "decision": "reject"}
+{"doc_id": "te_01916", "decision": "reject"}
+{"doc_id": "te_01917", "decision": "reject"}
+{"doc_id": "te_01918", "decision": "accept", "fields": {"Last_name_ru": "ГУДИНСКИЙ", "First_name_ru": "НИКЛДАЙ", "Middle_name_ru": "МЕФОДЬЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "14.04.1965", "Birth_place_ru": "ХУТ.РОМАХОВО ВЕЙДЕЛЕВСКОГО Р-НА БЕЛГОРОДСКОЙ ОБЛ.", "Issue_date": "22.04.2010", "Issue_organisation_code": "450-021", "Licence_number": "37 10 501715", "Issue_organization_ru": "ТП УФМС РОССИИ ПО КУРГАНСКОЙ ОБЛ. В ЦЕЛИННОМ Р-НЕ"}}
+{"doc_id": "te_01919", "decision": "reject"}
+{"doc_id": "te_01920", "decision": "reject"}
+{"doc_id": "te_01921", "decision": "reject"}
+{"doc_id": "te_01922", "decision": "reject"}
+{"doc_id": "te_01923", "decision": "reject"}
+{"doc_id": "te_01924", "decision": "reject"}
+{"doc_id": "te_01925", "decision": "reject"}
+{"doc_id": "te_01926", "decision": "reject"}
+{"doc_id": "te_01927", "decision": "reject"}
+{"doc_id": "te_01928", "decision": "reject"}
+{"doc_id": "te_01929", "decision": "reject"}
+{"doc_id": "te_01930", "decision": "reject"}
+{"doc_id": "te_01931", "decision": "reject"}
+{"doc_id": "te_01932", "decision": "reject"}
+{"doc_id": "te_01933", "decision": "reject"}
+{"doc_id": "te_01934", "decision": "reject"}
+{"doc_id": "te_01935", "decision": "reject"}
+{"doc_id": "te_01936", "decision": "reject"}
+{"doc_id": "te_01937", "decision": "reject"}
+{"doc_id": "te_01938", "decision": "reject"}
+{"doc_id": "te_01939", "decision": "reject"}
+{"doc_id": "te_01940", "decision": "reject"}
+{"doc_id": "te_01941", "decision": "reject"}
+{"doc_id": "te_01942", "decision": "accept", "fields": {"Last_name_ru": "КАЮНЧИН", "First_name_ru": "МИРОСЛАВ", "Middle_name_ru": "ПАМИРОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.03.1968", "Birth_place_ru": "ГОР.ШЕБЕКИНО БЕЛГОРОДСКОЙ ОБЛ.", "Issue_date": "13.10.2013", "Issue_organisation_code": "120-010", "Licence_number": "88 13 849889", "Issue_organization_ru": "ТП УФМС РОССИИ ПО РЕСПУБЛИКЕ МАРИЙ ЭЛ В П. МАРИ-ТУРЕК"}}
+{"doc_id": "te_01943", "decision": "reject"}
+{"doc_id": "te_01944", "decision": "reject"}
+{"doc_id": "te_01945", "decision": "reject"}
+{"doc_id": "te_01946", "decision": "reject"}
+{"doc_id": "te_01947", "decision": "reject"}
+{"doc_id": "te_01948", "decision": "reject"}
+{"doc_id": "te_01949", "decision": "reject"}
+{"doc_id": "te_01950", "decision": "reject"}
+{"doc_id": "te_01951", "decision": "reject"}
+{"doc_id": "te_01952", "decision": "reject"}
+{"doc_id": "te_01953", "decision": "reject"}
+{"doc_id": "te_01954", "decision": "reject"}
+{"doc_id": "te_01955", "decision": "reject"}
+{"doc_id": "te_01956", "decision": "reject"}
+{"doc_id": "te_01957", "decision": "reject"}
+{"doc_id": "te_01958", "decision": "reject"}
+{"doc_id": "te_01959", "decision": "accept", "fields": {"Last_name_ru": "ЖИНКЕВИЧ", "First_name_ru": "ФИМЛЮС", "Middle_name_ru": "АВКСЕНТЬЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "18.11.1955", "Birth_place_ru": "П. ЗЕЛЕНИНО РЫЛЬСКИЙ Р-Н КУРСКАЯ ОБЛ.", "Issue_date": "17.01.2001", "Issue_organisation_code": "612-057", "Licence_number": "60 98 753501", "Issue_organization_ru": "ОВД ПРОЛЕТАРСКОГО СЕЛЬСКОГО Р-НА РОСТОВСКОЙ ОБЛ."}}
+{"doc_id": "te_01960", "decision": "reject"}
+{"doc_id": "te_01961", "decision": "reject"}
+{"doc_id": "te_01962", "decision": "reject"}
+{"doc_id": "te_01963", "decision": "reject"}
+{"doc_id": "te_01964", "decision": "reject"}
+{"doc_id": "te_01965", "decision": "accept", "fields": {"Last_name_ru": "ЗУРНАДЖЯН", "First_name_ru": "ГРИГОРИЙ", "Middle_name_ru": "КЯРАМОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "25.03.1989", "Birth_place_ru": "ГОРОД ВЕЛИКИЙ НОВГОРОД НОВГОРОДСКАЯ ОБЛ.", "Issue_date": "23.07.2009", "Issue_organisation_code": "160-002", "Licence_number": "92 08 560068", "Issue_organization_ru": "УФМС РОССИИ ПО РЕСПУБЛИКЕ ТАТАРСТАН АВИАСТРОИТЕЛЬНОМ Р-НЕ Г. КАЗАНИ"}}
+{"doc_id": "te_01966", "decision": "reject"}
+{"doc_id": "te_01967", "decision": "accept", "fields": {"Last_name_ru": "РАДИЦА", "First_name_ru": "ГУЛЕНДАМ", "Middle_name_ru": "ИОСИФОВНА", "Sex_ru": "ЖЕН.", "Birth_date": "01.11.1960", "Birth_place_ru": "П.ЗОНАЛЬНАЯ СТАНЦИЯ ТОМСКАЯ ОБЛАСТЬ", "Issue_date": "13.06.2006", "Issue_organisation_code": "260-032", "Licence_number": "07 03 278080", "Issue_organization_ru": "ОТДЕЛЕНИЕ УФМС РОССИИ ПО СТАВРОПОЛЬСКОМУ КРАЮ И КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ В ТУРКМЕНСКОМ РАЙОНЕ"}}
+{"doc_id": "te_01968", "decision": "reject"}
+{"doc_id": "te_01969", "decision": "reject"}
+{"doc_id": "te_01970", "decision": "reject"}
+{"doc_id": "te_01971", "decision": "reject"}
+{"doc_id": "te_01972", "decision": "reject"}
+{"doc_id": "te_01973", "decision": "reject"}
+{"doc_id": "te_01974", "decision": "reject"}
+{"doc_id": "te_01975", "decision": "reject"}
+{"doc_id": "te_01976", "decision": "accept", "fields": {"Last_name_ru": "БОНДОРОНОК", "First_name_ru": "ЮДОНИСОН", "Middle_name_ru": "ЗАВИЛЕВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "11.12.1993", "Birth_place_ru": "С. РОГАЧЕВО МОСКОВСКАЯ ОБЛ.", "Issue_date": "04.08.2014", "Issue_organisation_code": "160-039", "Licence_number": "92 12 666500", "Issue_organization_ru": "ТП УФМС РОССИИ ПО РЕСПУБЛИКЕ ТАТАРСТАН В АТНИНСКОМ Р-НЕ"}}
+{"doc_id": "te_01977", "decision": "reject"}
+{"doc_id": "te_01978", "decision": "reject"}
+{"doc_id": "te_01979", "decision": "reject"}
+{"doc_id": "te_01980", "decision": "reject"}
+{"doc_id": "te_01981", "decision": "reject"}
+{"doc_id": "te_01982", "decision": "reject"}
+{"doc_id": "te_01983", "decision": "accept", "fields": {"Last_name_ru": "ВОВИН", "First_name_ru": "МУТАЛИФ", "Middle_name_ru": "ХАБИБУЛОВИЧ", "Sex_ru": "МУЖ.", "Birth_date": "20.03.1977", "Birth_place_ru": "Г. НОГИНСК МОСКОВСКОЙ ОБЛАСТИ", "Issue_date": "06.10.2022", "Issue_organisation_code": "360-039", "Licence_number": "20 19 491421", "Issue_organization_ru": "ГУ МВД РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛ"}}
+{"doc_id": "te_01984", "decision": "reject"}
+{"doc_id": "te_01985", "decision": "reject"}
+{"doc_id": "te_01986", "decision": "reject"}
+{"doc_id": "te_01987", "decision": "reject"}
+{"doc_id": "te_01988", "decision": "reject"}
+{"doc_id": "te_01989", "decision": "reject"}
+{"doc_id": "te_01990", "decision": "reject"}
+{"doc_id": "te_01991", "decision": "reject"}
+{"doc_id": "te_01992", "decision": "reject"}
+{"doc_id": "te_01993", "decision": "reject"}
+{"doc_id": "te_01994", "decision": "reject"}
+{"doc_id": "te_01995", "decision": "reject"}
+{"doc_id": "te_01996", "decision": "reject"}
+{"doc_id": "te_01997", "decision": "reject"}
+{"doc_id": "te_01998", "decision": "reject"}
+{"doc_id": "te_01999", "decision": "reject"}
+{"doc_id": "te_02000", "decision": "reject"}
