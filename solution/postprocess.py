@@ -490,7 +490,7 @@ def train_torch(
     # AdamW обучает веса, а weight_decay ограничивает переобучение на небольшом наборе
     optimizer = torch.optim.AdamW(
         model.parameters(),
-        lr=0.02,
+        lr=1e-3,
         weight_decay=0.02,
     )
     loss_function = nn.BCEWithLogitsLoss()
