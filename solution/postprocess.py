@@ -49,6 +49,33 @@ FIELDS = [
     "Issue_organization_ru",
 ]
 
+# Транслитерация русских фамилий в MRZ (ICAO): многобуквенные сочетания
+# нужны для Ж, Х, Ц, Ч, Ш, Щ, Ъ, Ю и Я.
+MRZ_RUSSIAN_TRANSLITERATION = str.maketrans({
+    "А": "A", "Б": "B", "В": "V", "Г": "G", "Д": "D",
+    "Е": "E", "Ё": "E", "Ж": "ZH", "З": "Z", "И": "I",
+    "Й": "I", "К": "K", "Л": "L", "М": "M", "Н": "N",
+    "О": "O", "П": "P", "Р": "R", "С": "S", "Т": "T",
+    "У": "U", "Ф": "F", "Х": "KH", "Ц": "TS", "Ч": "CH",
+    "Ш": "SH", "Щ": "SHCH", "Ъ": "IE", "Ы": "Y", "Ь": "",
+    "Э": "E", "Ю": "IU", "Я": "IA",
+})
+
+# Частые варианты распознавания MRZ OCR, наблюдавшиеся в train_predictions.
+# У одного символа могут быть варианты: C — как C либо как результат TS;
+# 9 иногда появляется на месте мягкого знака, который в MRZ опускается.
+MRZ_OCR_NAME_ALIASES = {
+    "J": ("J", "ZH"),
+    "3": ("3", "CH"),
+    "4": ("4", "SH"),
+    "8": ("8", "IA"),
+    "Q": ("Q", "I"),
+    "7": ("7", "IU"),
+    "W": ("W", "SHCH"),
+    "C": ("C", "TS"),
+    "9": ("9", ""),
+}
+
 
 if nn is not None:
     class OCRClassifier(nn.Module):
@@ -217,8 +244,81 @@ def extract_field_text(field):
     return " ".join(lines).strip()
 
 
+def transliterate_mrz_name(value):
+    """Преобразует кириллическое ФИО в латиницу формата MRZ."""
+
+    transliterated = str(value or "").upper().translate(
+        MRZ_RUSSIAN_TRANSLITERATION
+    )
+    # Пробелы, дефисы и знаки препинания в MRZ заменяются разделителем <.
+    return re.sub(r"[^A-Z0-9]", "", transliterated)
+
+
+def mrz_name_matches(expected, observed):
+    """Проверяет точное совпадение с учётом известных OCR-вариантов символов MRZ."""
+
+    reachable = {0}
+    for character in observed:
+        variants = MRZ_OCR_NAME_ALIASES.get(character, (character,))
+        next_reachable = set()
+        for position in reachable:
+            for variant in variants:
+                if not variant:
+                    next_reachable.add(position)
+                elif expected.startswith(variant, position):
+                    next_reachable.add(position + len(variant))
+        reachable = next_reachable
+        if not reachable:
+            return False
+    return len(expected) in reachable
+
+
+def mrz_personal_name_mismatches(record, fields):
+    """Находит различия между ФИО в OCR-полях и первой строке MRZ."""
+
+    mrz_lines = (record.get("mrz") or {}).get("lines") or []
+    if not mrz_lines or not isinstance(mrz_lines[0], dict):
+        return []
+
+    first_line = re.sub(
+        r"\s+", "", str(mrz_lines[0].get("text", "")).upper()
+    )
+    # В формате выборки первые 5 позиций — PNRUS, затем фамилия до <<.
+    surname_start = 5
+    name_separator = first_line.find("<<", surname_start)
+    if name_separator < 0:
+        return []
+
+    mrz_surname = re.sub(
+        r"[^A-Z0-9]", "", first_line[surname_start:name_separator]
+    )
+    given_name_text = first_line[name_separator + 2:]
+    # Три и более заполнителя подряд означают конец списка имён; иногда OCR
+    # вставляет после этого ложный символ, который иначе попадёт в отчество.
+    name_terminator = given_name_text.find("<<<")
+    if name_terminator >= 0:
+        given_name_text = given_name_text[:name_terminator]
+    else:
+        given_name_text = given_name_text.rstrip("<")
+    mrz_given_parts = [part for part in given_name_text.split("<") if part]
+    mrz_given_names = re.sub(r"[^A-Z0-9]", "", "".join(mrz_given_parts))
+
+    expected_surname = transliterate_mrz_name(fields.get("Last_name_ru", ""))
+    expected_given_names = (
+        transliterate_mrz_name(fields.get("First_name_ru", ""))
+        + transliterate_mrz_name(fields.get("Middle_name_ru", ""))
+    )
+
+    mismatches = []
+    if not mrz_name_matches(expected_surname, mrz_surname):
+        mismatches.append("Last_name_ru")
+    if not mrz_name_matches(expected_given_names, mrz_given_names):
+        mismatches.extend(("First_name_ru", "Middle_name_ru"))
+    return mismatches
+
+
 def extract_mrz_features(record, fields):
-    """Создаёт признаки наличия MRZ и согласованности даты рождения и пола"""
+    """Создаёт признаки наличия MRZ и согласованности даты рождения и пола."""
 
     lines = [
         str(line.get("text", ""))
@@ -1128,6 +1228,14 @@ def rejection_reasons(
             "message": "Название подразделения не совпадает с кодом",
             "value": fields["Issue_organization_ru"],
             "subdivision_code": code,
+        })
+
+    name_mismatches = mrz_personal_name_mismatches(record, fields)
+    if name_mismatches:
+        reasons.append({
+            "code": "mrz_personal_name_mismatch",
+            "message": "ФИО в OCR-полях не совпадает с ФИО в MRZ",
+            "fields": name_mismatches,
         })
 
     if not passport_valid(fields, mrz_details(record)):
